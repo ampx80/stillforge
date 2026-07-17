@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'Materials We Trust',
   description:
-    'Stillforge materials: decommissioned propane tanks, honest steel prep, and finishes chosen for melodic drums that survive real use.',
+    'Materials Stillforge trusts: decommissioned propane tanks, thorough steel prep, and finishes chosen so melodic drums survive honest travel and weather.',
   h1: 'Materials We Trust',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',
@@ -112,6 +112,7 @@ export default {
         'Stillforge trusts propane tank steel because our forge earns that trust daily. Your commission inherits the same gates.',
         'When skeptics ask why not billet, we answer plainly: our path is tank-forged melodic drums with visible prep, not alloy mystique. Choose us when that path matches your values.',
         'Documented prep also helps resale ethics. Future buyers deserve to know what they inherit. We encourage honest secondhand descriptions that mention tank origin and care history.',
+        'We would rather explain steel limits upfront than impress you with vague alloy language that evaporates after purchase.',
       ],
       table: {
         headers: ['Material topic', 'Stillforge stance'],

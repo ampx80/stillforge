@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'Craft Philosophy',
   description:
-    'Stillforge craft philosophy: slow metalwork, honest propane-tank shells, and melodic drums tuned for calm rooms and open air.',
+    'Stillforge craft philosophy: slow metalwork, honest propane-tank shells, and melodic drums tuned for calm rooms, open air, and daily listening.',
   h1: 'Craft Philosophy',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',

@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'Commissioning a Custom Drum',
   description:
-    'Commission a custom Stillforge melodic drum: scale consults, forge updates, tuning proof, and delivery built around your room and timeline.',
+    'Commission a custom Stillforge melodic drum with scale consults, forge updates, tuning proof, and delivery planned around your room, hands, and timeline.',
   h1: 'Commissioning a Custom Drum',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',

@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'Why Streamside Music',
   description:
-    'Why Stillforge loves streamside music: water noise, open air, and melodic steel drums voiced for calm outdoor listening.',
+    'Why Stillforge loves streamside music: moving water, open air, and melodic steel drums voiced for clear, calm outdoor listening beside nature.',
   h1: 'Why Streamside Music',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',

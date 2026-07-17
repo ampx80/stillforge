@@ -1,10 +1,3 @@
-import fs from 'fs'
-import path from 'path'
-import { fileURLToPath } from 'url'
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const outDir = path.join(__dirname, '..', 'src', 'content', 'articles')
-
 const DATES = { publishedAt: '2026-07-01', updatedAt: '2026-07-17' }
 
 function A(o) {
@@ -481,7 +474,7 @@ const gifts = [
     h1: 'Unique gifts for boyfriend',
     readingMinutes: 8,
     keywords: ['gifts for boyfriend', 'unique gifts', 'date ideas'],
-    relatedSlugs: ['unique-gifts-for-boyfriend', 'experience-gifts-vs-objects', 'unique-anniversary-gifts-for-men'],
+    relatedSlugs: ['experience-gifts-vs-objects', 'unique-anniversary-gifts-for-men', 'unique-gifts-for-dad'],
     faqs: [
       {
         q: 'Is an instrument too serious for a new relationship?',
@@ -810,14 +803,4 @@ const gifts = [
   }),
 ]
 
-// Continue in part 2 - append beginners, compare, education, story
-function writeBundle(name, comment, arr, expected) {
-  const file = path.join(outDir, `${name}.js`)
-  const body = `/** ${comment} */\nexport default ${JSON.stringify(arr, null, 2)}\n`
-  fs.writeFileSync(file, body, 'utf8')
-  if (arr.length !== expected) throw new Error(`${name}: expected ${expected}, got ${arr.length}`)
-  return arr.length
-}
-
-writeBundle('gifts', 'Gift-intent guides from Stillforge.', gifts, 16)
-console.log('gifts.js written:', gifts.length)
+export { gifts }

@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'Visiting the Workshop',
   description:
-    'Visiting the Stillforge workshop by appointment: safety, what to expect, questions worth asking, and how to plan your trip.',
+    'Visiting the Stillforge workshop by appointment: safety rules, what to expect on the floor, smart questions, and how to plan pickup or a commission talk.',
   h1: 'Visiting the Workshop',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',
@@ -94,6 +94,13 @@ export default {
         'If you need seating, hearing assistance, or a shorter tour due to health, tell us when scheduling. We adapt routes to avoid active cutting when possible.',
         'Workshops can be overwhelming sensory environments. We respect stepping outside when needed.',
         'Visits should feel welcoming and safe, not like proving toughness on a factory floor.',
+      ],
+    },
+    {
+      h2: 'Follow-up after you leave',
+      paragraphs: [
+        'We send a short recap email when visits include commission decisions: scale, deposit status, and expected milestones. That paper trail helps busy buyers stay aligned without guessing.',
+        'If you toured without buying immediately, the door stays open. Questions months later are welcome when timing shifts.',
       ],
     },
     {

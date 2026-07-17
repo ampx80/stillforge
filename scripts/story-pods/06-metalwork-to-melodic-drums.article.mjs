@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'From Metalwork to Melodic Drums',
   description:
-    'How a metalwork career shaped Stillforge melodic drums: fabrication discipline, tank steel, and tuning ears trained at the forge.',
+    'How metalwork shaped Stillforge melodic drums: fabrication discipline, propane-tank steel, and tuning ears trained over years at our working forge.',
   h1: 'From Metalwork to Melodic Drums',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',

@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'The Sound We Chase',
   description:
-    'The Stillforge sound: warm attack, clear fields, long calm sustain, and melodic steel drums tuned for stillness in real rooms.',
+    'The Stillforge sound we chase: warm attack, clear fields, long calm sustain, and melodic steel drums tuned for stillness in real homes and outdoor spaces.',
   h1: 'The Sound We Chase',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',

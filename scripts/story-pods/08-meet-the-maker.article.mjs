@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'Meet the Maker',
   description:
-    'Meet the Stillforge maker: a metalworker devoted to propane-tank melodic drums, without hype or invented biography.',
+    'Meet the Stillforge maker: a talented metalworker devoted to propane-tank melodic drums, shared without hype, invented names, or false pedigree.',
   h1: 'Meet the Maker',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',

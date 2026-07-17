@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'Slow Craft in a Fast World',
   description:
-    'Slow craft in a fast world: why Stillforge rejects fake urgency and builds propane-tank melodic drums on honest forge timelines.',
+    'Slow craft in a fast world: why Stillforge rejects fake urgency and builds propane-tank melodic drums on honest forge timelines you can plan around.',
   h1: 'Slow Craft in a Fast World',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',
@@ -100,6 +100,7 @@ export default {
         'Stillforge will still be here after the next hype cycle burns out. Slow craft is how we ensure the drums last longer than the cycle anyway.',
         'Share this article with a gift partner if they need help understanding why your commission date is measured in weeks. Patience becomes easier when the reason is concrete quality, not arbitrary delay.',
         'Slow craft is also environmental sense. Fewer rushed failures mean fewer shells scrapped early. That matters to us even if it never appears in a product bullet list.',
+        'Waiting well is a skill. We try to model it in timelines so your first Stillforge feels worth the calendar space it occupied.',
       ],
     },
   ],

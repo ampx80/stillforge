@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'Behind the Forge',
   description:
-    'A look behind the Stillforge forge: heat, tools, safety, and the daily rhythm that turns propane tanks into melodic steel drums.',
+    'Behind the Stillforge forge: heat, tools, safety, and the daily shop rhythm that turns decommissioned propane tanks into melodic steel drums.',
   h1: 'Behind the Forge',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',

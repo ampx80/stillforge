@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'From Propane Tank to Instrument',
   description:
-    'Step by step: how Stillforge turns a propane tank into a tuned melodic steel drum, from safe opening to final voicing at our forge.',
+    'Step by step: how Stillforge turns a propane tank into a tuned melodic steel drum, from safe decommissioning to layout, tuning, and final voicing.',
   h1: 'From Propane Tank to Instrument',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',
