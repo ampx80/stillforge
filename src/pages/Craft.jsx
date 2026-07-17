@@ -36,7 +36,8 @@ export default function Craft() {
           <div className="section-head" style={{ marginTop: '3rem' }}>
             <h2>Gallery</h2>
             <p className="lede">
-              Mixed metalwork proof and clearly marked media slots for drum / streamside assets.
+              Real photos from the sculptures album - dragon, workshop, process. Streamside drum
+              video can layer onto this same craft story later.
             </p>
           </div>
 
@@ -48,9 +49,13 @@ export default function Craft() {
                 className="gallery-card"
                 onClick={() => setActive(item)}
               >
-                <div className="gallery-visual" style={{ background: item.visual }} />
+                <div
+                  className="gallery-visual"
+                  style={{ backgroundImage: `url(${item.src})` }}
+                  role="img"
+                  aria-label={item.title}
+                />
                 <div className="gallery-body">
-                  {item.placeholder && <span className="placeholder-badge">Media slot</span>}
                   <h3>{item.title}</h3>
                   <p>{item.category}</p>
                 </div>
@@ -83,9 +88,10 @@ export default function Craft() {
             <button type="button" className="modal-close" onClick={() => setActive(null)}>
               Close
             </button>
-            <div
-              className="gallery-visual"
-              style={{ background: active.visual, height: 220, borderRadius: 6 }}
+            <img
+              src={active.src}
+              alt={active.title}
+              style={{ width: '100%', borderRadius: 6, maxHeight: 420, objectFit: 'cover' }}
             />
             <p className="eyebrow" style={{ marginTop: '1rem' }}>
               {active.category}

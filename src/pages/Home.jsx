@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import PlayableDrum from '../components/PlayableDrum'
 import Seo from '../components/Seo'
 import { products } from '../data/products'
-import { galleryItems } from '../data/gallery'
+import { galleryItems, filmPlates } from '../data/gallery'
 
 export default function Home() {
   const jsonLd = {
@@ -65,21 +65,22 @@ export default function Home() {
         <div className="container">
           <div className="section-head">
             <p className="eyebrow">Watch the vibe</p>
-            <h2>Streamside calm. Forge heat. One instrument.</h2>
+            <h2>Forge heat first. Streamside play next.</h2>
             <p className="lede">
-              Cinematic placeholders mark where his real play and process footage drop in. The mood
-              is already here: water, metal, fire, breath.
+              Real photos from his sculptures album. When streamside drum video lands, it drops into
+              this film strip - the metal already proves the hands.
             </p>
           </div>
-          <div className="film-stage">
-            <div className="film-caption">
-              <span className="placeholder-badge">Placeholder film plate</span>
-              <h3>Maker playing by moving water</h3>
-              <p>
-                Drop in vertical or landscape video of him playing. Soft ambient motion and parallax
-                already wrap this stage.
-              </p>
-            </div>
+          <div className="film-strip">
+            {filmPlates.map((plate) => (
+              <article key={plate.id} className="film-stage film-stage-photo">
+                <img src={plate.src} alt={plate.title} className="film-photo" loading="lazy" />
+                <div className="film-caption">
+                  <h3>{plate.title}</h3>
+                  <p>{plate.caption}</p>
+                </div>
+              </article>
+            ))}
           </div>
           <div className="stat-row">
             <div className="stat">
@@ -104,16 +105,20 @@ export default function Home() {
             <p className="eyebrow">The craft</p>
             <h2>Metalwork that already proves the hands.</h2>
             <p className="lede">
-              From the sculpture album: tank-built forms, workshop grit, outdoor scale. Drum process
-              frames sit ready for his real instrument photos.
+              Pulled from his shared sculptures album: tank-built dragon, workshop grit, outdoor
+              scale. The same forge path that becomes a melodic drum.
             </p>
           </div>
           <div className="gallery-grid">
             {galleryItems.slice(0, 6).map((item) => (
               <article key={item.id} className="gallery-card" style={{ cursor: 'default' }}>
-                <div className="gallery-visual" style={{ background: item.visual }} />
+                <div
+                  className="gallery-visual"
+                  style={{ backgroundImage: `url(${item.src})` }}
+                  role="img"
+                  aria-label={item.title}
+                />
                 <div className="gallery-body">
-                  {item.placeholder && <span className="placeholder-badge">Media slot</span>}
                   <h3>{item.title}</h3>
                   <p>{item.caption}</p>
                 </div>

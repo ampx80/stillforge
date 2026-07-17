@@ -1,0 +1,122 @@
+[
+  {
+    "id": "album-01",
+    "src": "/images/album/album-01.jpg",
+    "bytes": 539989
+  },
+  {
+    "id": "album-02",
+    "src": "/images/album/album-02.jpg",
+    "bytes": 544761
+  },
+  {
+    "id": "album-03",
+    "src": "/images/album/album-03.jpg",
+    "bytes": 166456
+  },
+  {
+    "id": "album-04",
+    "src": "/images/album/album-04.jpg",
+    "bytes": 258613
+  },
+  {
+    "id": "album-05",
+    "src": "/images/album/album-05.jpg",
+    "bytes": 170699
+  },
+  {
+    "id": "album-06",
+    "src": "/images/album/album-06.jpg",
+    "bytes": 279479
+  },
+  {
+    "id": "album-07",
+    "src": "/images/album/album-07.jpg",
+    "bytes": 325874
+  },
+  {
+    "id": "album-08",
+    "src": "/images/album/album-08.jpg",
+    "bytes": 122062
+  },
+  {
+    "id": "album-09",
+    "src": "/images/album/album-09.jpg",
+    "bytes": 229369
+  },
+  {
+    "id": "album-10",
+    "src": "/images/album/album-10.jpg",
+    "bytes": 197810
+  },
+  {
+    "id": "album-11",
+    "src": "/images/album/album-11.jpg",
+    "bytes": 745741
+  },
+  {
+    "id": "album-12",
+    "src": "/images/album/album-12.jpg",
+    "bytes": 468997
+  },
+  {
+    "id": "album-13",
+    "src": "/images/album/album-13.jpg",
+    "bytes": 461751
+  },
+  {
+    "id": "album-14",
+    "src": "/images/album/album-14.jpg",
+    "bytes": 87364
+  },
+  {
+    "id": "album-15",
+    "src": "/images/album/album-15.jpg",
+    "bytes": 274975
+  },
+  {
+    "id": "album-16",
+    "src": "/images/album/album-16.jpg",
+    "bytes": 413670
+  },
+  {
+    "id": "album-17",
+    "src": "/images/album/album-17.jpg",
+    "bytes": 146092
+  },
+  {
+    "id": "album-18",
+    "src": "/images/album/album-18.jpg",
+    "bytes": 193443
+  },
+  {
+    "id": "album-19",
+    "src": "/images/album/album-19.jpg",
+    "bytes": 161919
+  },
+  {
+    "id": "album-20",
+    "src": "/images/album/album-20.jpg",
+    "bytes": 160801
+  },
+  {
+    "id": "album-21",
+    "src": "/images/album/album-21.jpg",
+    "bytes": 166796
+  },
+  {
+    "id": "album-22",
+    "src": "/images/album/album-22.jpg",
+    "bytes": 220922
+  },
+  {
+    "id": "album-23",
+    "src": "/images/album/album-23.jpg",
+    "bytes": 732862
+  },
+  {
+    "id": "album-24",
+    "src": "/images/album/album-24.jpg",
+    "bytes": 716292
+  }
+]
