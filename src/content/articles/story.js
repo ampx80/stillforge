@@ -412,7 +412,8 @@ export default [
         "paragraphs": [
           "Understanding tank-to-instrument steps helps you buy with eyes open. You will recognize red flags in listings that skip prep talk or promise forty-eight hour turnarounds on handmade work. You will also appreciate why commissions cost what they cost.",
           "For deeper education, read how-propane-tank-drums-are-forged in our guide library and materials we trust for steel specifics. When the process aligns with your values, start a commission or explore shop offerings that match your timeline.",
-          "Every Stillforge drum is a propane tank that survived a gauntlet of honest labor to earn the right to be called an instrument. That sentence is the whole brand in one line."
+          "Every Stillforge drum is a propane tank that survived a gauntlet of honest labor to earn the right to be called an instrument. That sentence is the whole brand in one line.",
+          "If you visit our forge, you may see tanks at several stages at once. That transparency is deliberate. Watching prep, layout, and tuning in a single walkthrough teaches more than a polished reel ever could."
         ],
         "table": {
           "headers": [
@@ -791,7 +792,8 @@ export default [
           "Gather three references: songs, videos, or words describing mood. Note your deadline if any. Decide whether you want outdoor voicing guidance. Then open the commission page and send those details.",
           "While you wait for reply, play the interactive drum and read the sound we chase so vocabulary aligns. Good commissions feel like collaborations, not transactions.",
           "Stillforge was built for listeners who want a forge behind their instrument. Commissioning is how that forge learns your name.",
-          "Write in plain language. We do not need music degrees. We need your honest picture of mornings, rooms, and who might hear the first note."
+          "Write in plain language. We do not need music degrees. We need your honest picture of mornings, rooms, and who might hear the first note.",
+          "Expect follow-up questions about scale and note count. Those questions are not delays. They protect you from a beautiful layout that fights your hands or your room."
         ],
         "list": [
           "Describe the room or outdoor spot where you will play most",
@@ -1058,7 +1060,8 @@ export default [
           "Stillforge trusts propane tank steel because our forge earns that trust daily. Your commission inherits the same gates.",
           "When skeptics ask why not billet, we answer plainly: our path is tank-forged melodic drums with visible prep, not alloy mystique. Choose us when that path matches your values.",
           "Documented prep also helps resale ethics. Future buyers deserve to know what they inherit. We encourage honest secondhand descriptions that mention tank origin and care history.",
-          "We would rather explain steel limits upfront than impress you with vague alloy language that evaporates after purchase."
+          "We would rather explain steel limits upfront than impress you with vague alloy language that evaporates after purchase.",
+          "When a shell fails inspection, we scrap or recycle it rather than hiding flaws under paint. That policy costs time and saves reputations."
         ],
         "table": {
           "headers": [
@@ -1458,7 +1461,9 @@ export default [
           "Read behind the forge before you arrive so vocabulary matches. Read materials we trust if steel prep is your focus.",
           "Stillforge welcomes you to our forge when schedule and safety allow. The workshop is where taglines become steel you can touch.",
           "After your visit, summarize decisions in email so both sides share the same scale and timeline notes. Clear follow-up prevents good conversations from fading on the drive home.",
-          "If you cannot visit, ask about a short tuning call when your shell is near completion. Hearing progress remotely still builds trust without travel cost."
+          "If you cannot visit, ask about a short tuning call when your shell is near completion. Hearing progress remotely still builds trust without travel cost.",
+          "Children are welcome when supervised and when noise levels stay safe for young ears near grinding or hammer work. Tell us ages in advance so we plan a calm route through the shop.",
+          "Bring a notebook if you like. Scale names and care tips land better when you write them down before the drive home."
         ],
         "list": [
           "Email to request a visit window and share who is attending",
