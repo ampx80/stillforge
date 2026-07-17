@@ -3,7 +3,7 @@ export default {
   category: 'story',
   title: 'Stillforge Origin Story',
   description:
-    'How Stillforge grew from forge-floor metalwork into propane-tank melodic steel drums for calm play. Forged from fire. Tuned for stillness.',
+    'How Stillforge grew from forge-floor metalwork into propane-tank melodic steel drums built for calm play. Forged from fire. Tuned for stillness.',
   h1: 'Stillforge Origin Story',
   publishedAt: '2026-07-01',
   updatedAt: '2026-07-17',

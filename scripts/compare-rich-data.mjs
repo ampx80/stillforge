@@ -10,7 +10,9 @@ const priceTierTable = {
   ],
 }
 
-export default [
+import { withDepth } from './compare-rich-depth.mjs'
+
+const articles = [
   {
     slug: 'handpan-vs-tongue-drum',
     category: 'compare',
@@ -1415,3 +1417,5 @@ export default [
     },
   },
 ]
+
+export default withDepth(articles)

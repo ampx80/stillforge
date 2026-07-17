@@ -1,29 +1,22 @@
 /** Gift-intent guides from Stillforge. */
 export default [
   {
-    slug: "unique-gifts-for-birthdays",
-    category: "gifts",
-    title: "Unique Birthday Gifts That Feel Personal, Not Generic",
-    description: "Birthday gifts land best when they match how someone actually unwinds. These ideas favor tactile, playable objects over another gadget in a drawer.",
-    h1: "Unique birthday gifts for people who crave calm and creativity",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 10,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 10,
+    "keywords": [
       "unique birthday gifts",
       "meaningful gifts",
       "handpan gift",
       "experience gifts"
     ],
-    relatedSlugs: [
-      "shop",
+    "relatedSlugs": [
       "experience-gifts-vs-objects",
       "meaningful-gifts-for-musicians",
-      "gifts-for-someone-who-has-everything",
-      "unique-gifts-for-christmas"
+      "gifts-for-someone-who-has-everything"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "What makes a birthday gift feel unique?",
         "a": "Uniqueness comes from fit: the gift should match a real habit, like morning coffee on the porch, camping weekends, or quiet play before bed. A playable drum tuned to a scale they love beats a novelty item they will shelf within a week."
@@ -37,7 +30,7 @@ export default [
         "a": "Pair a simple getting-started guide with the instrument when possible. Lessons help, but a well-tuned drum still delights on day one. Offer lessons as an optional add-on rather than a requirement."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Start with their rhythm, not the price tag",
         "paragraphs": [
@@ -69,118 +62,37 @@ export default [
           "Experience gifts like a sunrise play session together can accompany the object and cost nothing extra.",
           "Handmade metalwork carries weight literally and emotionally. It signals permanence compared to mass-produced decor."
         ]
-      },
-      {
-        "h2": "Checklist for a strong birthday gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a birthday present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Birthday recipients remember how you made them feel in the first ten minutes after opening. Guide them to strike one note, breathe, strike another, without commentary. That gentle onboarding prevents the drum from feeling like homework. If they are shy, play together badly on purpose. Laughter lowers performance anxiety faster than instructional YouTube tabs opened mid-party.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Commission a birthday scale they will remember",
       "body": "Tell us how they listen and where they play. We will suggest scales and finishes that fit their life.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "unique-gifts-for-birthdays",
+    "category": "Gifts",
+    "title": "Unique Birthday Gifts That Feel Personal, Not Generic",
+    "description": "Birthday gifts land best when they match how someone actually unwinds. These ideas favor tactile, playable objects over another gadget in a drawer.",
+    "h1": "Unique birthday gifts for people who crave calm and creativity"
   },
   {
-    slug: "unique-gifts-for-christmas",
-    category: "gifts",
-    title: "Unique Christmas Gifts for Quiet Mornings and Long Nights",
-    description: "Holiday gifting shines when it slows the season down. These picks favor warm tone, ritual, and objects that sound better beside a winter window.",
-    h1: "Unique Christmas gifts for calm households",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 9,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 9,
+    "keywords": [
       "Christmas gift ideas",
       "unique holiday gifts",
       "handpan",
       "meditation gifts"
     ],
-    relatedSlugs: [
-      "play",
+    "relatedSlugs": [
       "stocking-stuffers-for-musicians",
       "meditation-gifts-that-actually-get-used",
-      "meaningful-gifts-for-musicians",
-      "unique-gifts-for-birthdays"
+      "meaningful-gifts-for-musicians"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "How early should I order a handmade drum for Christmas?",
         "a": "Commission work needs lead time for tuning and finish. Order as early as fall if you want a custom scale. Ready shop inventory can ship closer to the date if stock is available."
@@ -194,7 +106,7 @@ export default [
         "a": "Use a fabric wrap or a wooden crate reveal. Many gifters stage the drum already tuned in the room with a bow on the bag for a dramatic first strike."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Why Christmas rewards sensory gifts",
         "paragraphs": [
@@ -226,117 +138,36 @@ export default [
           "Open boxes inside so condensation does not shock raw steel surfaces.",
           "Plan a tuning check after travel. Most quality drums hold pitch, but temperature swings can slightly shift sensitive notes."
         ]
-      },
-      {
-        "h2": "Checklist for a strong Christmas gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a Christmas present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Holiday schedules are chaotic. A melodic drum survives the season when you tie it to existing traditions: post-dinner listening, Christmas morning coffee, or New Year intention setting. Avoid forcing a concert when guests are tired. Soft mallets and a corner of the living room beat a spotlight solo that embarrasses an introvert.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Make this Christmas sound different",
       "body": "Browse ready drums or start a winter commission with delivery goals in mind.",
       "primaryTo": "/shop",
       "primaryLabel": "Visit the shop"
-    }
+    },
+    "slug": "unique-gifts-for-christmas",
+    "category": "Gifts",
+    "title": "Unique Christmas Gifts for Quiet Mornings and Long Nights",
+    "description": "Holiday gifting shines when it slows the season down. These picks favor warm tone, ritual, and objects that sound better beside a winter window.",
+    "h1": "Unique Christmas gifts for calm households"
   },
   {
-    slug: "meaningful-gifts-for-musicians",
-    category: "gifts",
-    title: "Meaningful Gifts for Musicians Who Have Enough Gear",
-    description: "Working musicians often own plenty of cables and plugins. Meaningful gifts respect their ear, their time, and their need for instruments that inspire new wri...",
-    h1: "Meaningful gifts for musicians who crave new texture",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 11,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 11,
+    "keywords": [
       "gifts for musicians",
       "handpan musicians",
       "unique instruments"
     ],
-    relatedSlugs: [
-      "shop",
+    "relatedSlugs": [
       "sound-healing-gift-guide",
       "outdoor-musician-gift-ideas",
-      "handmade-gifts-worth-the-money",
-      "unique-gifts-for-birthdays"
+      "handmade-gifts-worth-the-money"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Do professional musicians want handpans?",
         "a": "Many do, especially for songwriting, film cues, and live ambient sets. A distinct timbre opens arrangements that guitar or piano cannot mimic."
@@ -350,7 +181,7 @@ export default [
         "a": "Acoustic forged drums excel at immediate feel and outdoor play. Electronic options help silent practice. Know their primary use case before choosing."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Gift for the ear, not the spec sheet",
         "paragraphs": [
@@ -382,117 +213,36 @@ export default [
           "Workshop visits to see forging in action deepen appreciation for metal instruments.",
           "See our experience versus objects guide if you are torn between tickets and hardware."
         ]
-      },
-      {
-        "h2": "Checklist for a strong musician gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a musician present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Working musicians respect gear that respects their ear. Mention partial balance, decay length, and dynamic range when you inquire about a build. They will hear uneven notes immediately. A Stillforge commission conversation that speaks their language lands better than vague wellness marketing.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Inspire their next session",
       "body": "Commission a voice that records well and survives the road.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "meaningful-gifts-for-musicians",
+    "category": "Gifts",
+    "title": "Meaningful Gifts for Musicians Who Have Enough Gear",
+    "description": "Working musicians often own plenty of cables and plugins. Meaningful gifts respect their ear, their time, and their need for instruments that inspire new writing.",
+    "h1": "Meaningful gifts for musicians who crave new texture"
   },
   {
-    slug: "gifts-for-someone-who-has-everything",
-    category: "gifts",
-    title: "Gifts for Someone Who Has Everything (That They Will Actually Use)",
-    description: "When closets are full, choose gifts that create ritual. Forged melodic drums reward daily touch and rarely duplicate what someone already owns.",
-    h1: "Gifts for someone who has everything",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 10,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 10,
+    "keywords": [
       "gifts for people who have everything",
       "unique gifts",
       "handpan"
     ],
-    relatedSlugs: [
-      "play",
+    "relatedSlugs": [
       "gifts-for-husband-who-has-everything",
       "experience-gifts-vs-objects",
-      "handmade-gifts-worth-the-money",
-      "unique-gifts-for-birthdays"
+      "handmade-gifts-worth-the-money"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Why do hand-style drums work for hard-to-shop people?",
         "a": "They combine art object and instrument. Even collectors who own rare watches rarely own a propane-tank forged scale tuned to their mood."
@@ -506,7 +256,7 @@ export default [
         "a": "Custom note choices and finish details show intent. Picky recipients often appreciate control over scale and aesthetics."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Shift from accumulation to ritual",
         "paragraphs": [
@@ -538,117 +288,36 @@ export default [
           "Schedule delivery when they are home alone first so the first sound is private and unhurried.",
           "Follow up a week later with care tips, not sales pressure."
         ]
-      },
-      {
-        "h2": "Checklist for a strong hard-to-shop-for gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a hard-to-shop-for present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Wealthy or saturated recipients still crave objects that feel chosen. Emphasize provenance: propane tank origin, forge photos, tuner notes. Collectors display process as much as product. Leave price talk out of the card; focus on why this maker and this scale fit them only.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Give them something they do not already own",
       "body": "Explore commissions tailored to listeners who value craft over clutter.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "gifts-for-someone-who-has-everything",
+    "category": "Gifts",
+    "title": "Gifts for Someone Who Has Everything (That They Will Actually Use)",
+    "description": "When closets are full, choose gifts that create ritual. Forged melodic drums reward daily touch and rarely duplicate what someone already owns.",
+    "h1": "Gifts for someone who has everything"
   },
   {
-    slug: "unique-gifts-for-dad",
-    category: "gifts",
-    title: "Unique Gifts for Dad That Invite Him to Slow Down",
-    description: "Dads often say they want nothing. Give them a tactile ritual instead: a forged drum for the garage, porch, or campsite that rewards five-minute breaks.",
-    h1: "Unique gifts for dad beyond ties and tools",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 9,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 9,
+    "keywords": [
       "gifts for dad",
       "unique dad gifts",
       "outdoor gifts"
     ],
-    relatedSlugs: [
-      "shop",
+    "relatedSlugs": [
       "unique-gifts-for-birthdays",
       "outdoor-musician-gift-ideas",
-      "unique-anniversary-gifts-for-men",
-      "unique-gifts-for-christmas"
+      "unique-anniversary-gifts-for-men"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Will dad feel silly learning a new instrument?",
         "a": "Frame it as a stress tool, not a recital. Intuitive layouts let him sound good immediately, which protects pride."
@@ -662,7 +331,7 @@ export default [
         "a": "Match where he already retreats. Grill masters and hikers love outdoor-ready steel with a rugged bag."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Gifts that meet dad where he already goes",
         "paragraphs": [
@@ -694,117 +363,36 @@ export default [
           "Document the build with photos he can show friends. Pride in origin matters.",
           "Plan a first play lesson over video if he lives far away."
         ]
-      },
-      {
-        "h2": "Checklist for a strong dad gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a dad present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Dads often bond through doing, not discussing feelings. Frame the drum as something to mess with while burgers rest or projects cool down. Sit with him the first week even if you are not musical. Your presence grants permission to explore without judgment.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Build dad a porch instrument",
       "body": "Tell us about his hangouts and we will match scale and finish.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "unique-gifts-for-dad",
+    "category": "Gifts",
+    "title": "Unique Gifts for Dad That Invite Him to Slow Down",
+    "description": "Dads often say they want nothing. Give them a tactile ritual instead: a forged drum for the garage, porch, or campsite that rewards five-minute breaks.",
+    "h1": "Unique gifts for dad beyond ties and tools"
   },
   {
-    slug: "unique-anniversary-gifts-for-men",
-    category: "gifts",
-    title: "Unique Anniversary Gifts for Men Who Value Time Together",
-    description: "Anniversaries celebrate shared rhythm. A commissioned melodic drum marks the year with a sound you can return to on every future date night.",
-    h1: "Unique anniversary gifts for men",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 10,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 10,
+    "keywords": [
       "anniversary gifts for men",
       "romantic gifts",
       "custom handpan"
     ],
-    relatedSlugs: [
-      "play",
+    "relatedSlugs": [
       "unique-gifts-for-dad",
       "gifts-for-husband-who-has-everything",
-      "wedding-gifts-for-creative-couples",
-      "unique-gifts-for-birthdays"
+      "wedding-gifts-for-creative-couples"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Is an instrument romantic enough for an anniversary?",
         "a": "When paired with a shared ritual, yes. Play together after dinner, record yearly songs, or revisit your wedding scale."
@@ -818,7 +406,7 @@ export default [
         "a": "Keep dates or coordinates inside the instrument. Avoid loud exterior graphics if he prefers subtle gear."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Mark the year with a repeatable sound",
         "paragraphs": [
@@ -850,117 +438,36 @@ export default [
           "Ready shop pieces work for last-minute anniversaries when scale flexibility is open.",
           "Combine with a dinner experience rather than replacing time together with only an object."
         ]
-      },
-      {
-        "h2": "Checklist for a strong anniversary gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a anniversary present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Anniversary gifts succeed when they reinforce partnership rhythm. Schedule quarterly listening nights. Rotate who picks the scale or mood. Document tiny motifs in a shared note app. Over years those motifs become your couple's private vocabulary.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Commission your anniversary voice",
       "body": "Share your story. We will tune a drum that belongs to both of you.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "unique-anniversary-gifts-for-men",
+    "category": "Gifts",
+    "title": "Unique Anniversary Gifts for Men Who Value Time Together",
+    "description": "Anniversaries celebrate shared rhythm. A commissioned melodic drum marks the year with a sound you can return to on every future date night.",
+    "h1": "Unique anniversary gifts for men"
   },
   {
-    slug: "meditation-gifts-that-actually-get-used",
-    category: "gifts",
-    title: "Meditation Gifts That Actually Get Used",
-    description: "Most meditation gifts gather dust. Choose tools that invite five-minute returns: warm steel tone, forgiving scales, and zero setup friction.",
-    h1: "Meditation gifts people keep reaching for",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 9,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 9,
+    "keywords": [
       "meditation gifts",
       "mindfulness gifts",
       "calming instruments"
     ],
-    relatedSlugs: [
-      "shop",
+    "relatedSlugs": [
       "calming-instruments-for-anxiety",
       "instruments-for-meditation-beginners",
-      "sound-healing-gift-guide",
-      "unique-gifts-for-birthdays"
+      "sound-healing-gift-guide"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Are handpans meditation instruments?",
         "a": "They can be. Slow strikes, long sustain, and repetitive patterns support breath focus without demanding virtuosity."
@@ -974,7 +481,7 @@ export default [
         "a": "Not necessarily. One well-tuned drum can anchor a session. Bowls add texture if they already collect sound tools."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Why most meditation gifts fail",
         "paragraphs": [
@@ -1006,117 +513,36 @@ export default [
           "Streamside tuning workflows chase calm overtone balance suited to listening practices.",
           "Gift recipients can explore play guides on Stillforge when they want structure without a guru."
         ]
-      },
-      {
-        "h2": "Checklist for a strong meditation gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a meditation present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Meditation gifts fail when they require perfect silence or hour-long blocks. Market five-minute honesty instead. Place the drum where they already sit to breathe. Link strikes to existing cues like kettle boiling or a phone alarm labeled pause.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Gift a daily pause",
       "body": "Pick a calming scale from the shop or commission one for their practice space.",
       "primaryTo": "/play",
       "primaryLabel": "Explore play guides"
-    }
+    },
+    "slug": "meditation-gifts-that-actually-get-used",
+    "category": "Gifts",
+    "title": "Meditation Gifts That Actually Get Used",
+    "description": "Most meditation gifts gather dust. Choose tools that invite five-minute returns: warm steel tone, forgiving scales, and zero setup friction.",
+    "h1": "Meditation gifts people keep reaching for"
   },
   {
-    slug: "yoga-teacher-gift-ideas",
-    category: "gifts",
-    title: "Yoga Teacher Gift Ideas That Honor Their Class Energy",
-    description: "Teachers shape rooms with breath and tone. Gift instruments that support savasana, gentle flow, and outdoor retreats without overpowering voice cues.",
-    h1: "Thoughtful yoga teacher gift ideas",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 8,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 8,
+    "keywords": [
       "yoga teacher gifts",
       "sound healing gifts",
       "meditation instruments"
     ],
-    relatedSlugs: [
-      "play",
+    "relatedSlugs": [
       "meditation-gifts-that-actually-get-used",
       "sound-healing-gift-guide",
-      "handpan-for-sound-baths",
-      "unique-gifts-for-birthdays"
+      "handpan-for-sound-baths"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Will a drum overpower yoga instruction?",
         "a": "Played softly, hand-style drums sit under speech. Use sparse strikes between cues instead of constant rhythm."
@@ -1130,7 +556,7 @@ export default [
         "a": "Yes. Pool funds for a studio instrument with a plaque inside the port listing contributing students."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Match gift to teaching style",
         "paragraphs": [
@@ -1162,117 +588,36 @@ export default [
           "Schedule yearly tuning checks if the studio uses the drum heavily.",
           "Stillforge finishes are chosen with honest studio wear in mind when discussed upfront."
         ]
-      },
-      {
-        "h2": "Checklist for a strong yoga teacher gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a yoga teacher present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Teachers juggle class prep, travel, and emotional labor. Gifts that shave friction matter: labeled mallets, a cheat sheet for subs, a bag that fits their car layout. Ask whether studio policy allows live metal or if they need ultra-soft dynamics.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Support their class soundtrack",
       "body": "Commission a studio-scale drum or browse ready voices suited to slow flow.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "yoga-teacher-gift-ideas",
+    "category": "Gifts",
+    "title": "Yoga Teacher Gift Ideas That Honor Their Class Energy",
+    "description": "Teachers shape rooms with breath and tone. Gift instruments that support savasana, gentle flow, and outdoor retreats without overpowering voice cues.",
+    "h1": "Thoughtful yoga teacher gift ideas"
   },
   {
-    slug: "gifts-for-husband-who-has-everything",
-    category: "gifts",
-    title: "Gifts for a Husband Who Has Everything",
-    description: "When his watch collection is complete and his bar is stocked, give him a private sound ritual he cannot buy off a shelf at the mall. Stillforge forged melodic s",
-    h1: "Gifts for a husband who has everything",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 9,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 9,
+    "keywords": [
       "gifts for husband",
       "luxury meaningful gifts",
       "handpan"
     ],
-    relatedSlugs: [
-      "shop",
+    "relatedSlugs": [
       "gifts-for-someone-who-has-everything",
       "unique-anniversary-gifts-for-men",
-      "unique-gifts-for-boyfriend",
-      "unique-gifts-for-birthdays"
+      "unique-gifts-for-boyfriend"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "How is this different from generic luxury gifts?",
         "a": "It is participatory. He creates the value each time he plays rather than displaying static status."
@@ -1286,7 +631,7 @@ export default [
         "a": "For husbands who micromanage gear, yes. For surprise lovers, gather intel from his playlists and friends."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Appeal to his private side",
         "paragraphs": [
@@ -1318,117 +663,36 @@ export default [
           "Set calendar reminders for seasonal tuning checks if you live in humid climates.",
           "Encourage him to film clips for you when traveling for work to maintain connection."
         ]
-      },
-      {
-        "h2": "Checklist for a strong husband gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a husband present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Husbands who buy themselves gear need gifts that feel like intimacy, not inventory. Reference private memories in the card. Choose scales from songs you shared before marriage or during dating. Avoid comparing him to other men or implying he should change hobbies.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Surprise him with sound",
       "body": "Start a commission with his listening habits in mind.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "gifts-for-husband-who-has-everything",
+    "category": "Gifts",
+    "title": "Gifts for a Husband Who Has Everything",
+    "description": "When his watch collection is complete and his bar is stocked, give him a private sound ritual he cannot buy off a shelf at the mall.",
+    "h1": "Gifts for a husband who has everything"
   },
   {
-    slug: "unique-gifts-for-boyfriend",
-    category: "gifts",
-    title: "Unique Gifts for Your Boyfriend That Feel Intentional",
-    description: "Early relationships benefit from gifts that invite shared experiences. A melodic drum gives you both a playful ritual without heavy expectations.",
-    h1: "Unique gifts for boyfriend",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 8,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 8,
+    "keywords": [
       "gifts for boyfriend",
       "unique gifts",
       "date ideas"
     ],
-    relatedSlugs: [
-      "play",
-      "unique-gifts-for-boyfriend",
+    "relatedSlugs": [
       "experience-gifts-vs-objects",
       "unique-anniversary-gifts-for-men",
-      "unique-gifts-for-birthdays"
+      "unique-gifts-for-dad"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Is an instrument too serious for a new relationship?",
         "a": "Keep stakes low. Present it as a toy for campfires and lazy Sundays, not a commitment to lessons."
@@ -1442,7 +706,7 @@ export default [
         "a": "Choose a complementary timbre. Producers love handpans for ambient layers in demos."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Signal thoughtfulness",
         "paragraphs": [
@@ -1474,117 +738,36 @@ export default [
           "Commission when you know his taste deeply enough to pick notes confidently.",
           "Experience gifts like forge tours can precede the instrument itself."
         ]
-      },
-      {
-        "h2": "Checklist for a strong boyfriend gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a boyfriend present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Newer relationships benefit from low-pressure gifts. Choose mid-size drums that fit shared apartments. Suggest playful duets, not performances for friends. Let him discover the instrument privately before you turn it into a couple activity.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Make your next gift memorable",
       "body": "Browse shop scales or book a commission consult together.",
       "primaryTo": "/shop",
       "primaryLabel": "Visit the shop"
-    }
+    },
+    "slug": "unique-gifts-for-boyfriend",
+    "category": "Gifts",
+    "title": "Unique Gifts for Your Boyfriend That Feel Intentional",
+    "description": "Early relationships benefit from gifts that invite shared experiences. A melodic drum gives you both a playful ritual without heavy expectations.",
+    "h1": "Unique gifts for boyfriend"
   },
   {
-    slug: "sound-healing-gift-guide",
-    category: "gifts",
-    title: "Sound Healing Gift Guide: Tools Listeners Keep",
-    description: "Sound healing gifts should survive hype cycles. Focus on stable tuning, ethical sourcing stories, and instruments suited to facilitators or home listeners.",
-    h1: "Sound healing gift guide",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 11,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 11,
+    "keywords": [
       "sound healing gifts",
       "handpan sound bath",
       "tuning forks gifts"
     ],
-    relatedSlugs: [
-      "shop",
+    "relatedSlugs": [
       "yoga-teacher-gift-ideas",
       "meditation-gifts-that-actually-get-used",
-      "sound-healing-instruments-compared",
-      "unique-gifts-for-birthdays"
+      "sound-healing-instruments-compared"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Handpan versus singing bowl as a gift?",
         "a": "Bowls are lighter and cheaper. Handpans offer melody and richer overtones for facilitators who perform live."
@@ -1598,7 +781,7 @@ export default [
         "a": "Only with tuning verification and hygiene transparency. New commissions avoid unknown damage history."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Build a kit or one anchor piece",
         "paragraphs": [
@@ -1630,117 +813,36 @@ export default [
           "Facilitators should know how to pause if a note drifts mid-session.",
           "Link to education guides on recording and transporting drums safely."
         ]
-      },
-      {
-        "h2": "Checklist for a strong sound healing gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a sound healing present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Practitioners need reliable tools, not mystical claims. Ask what frequency ranges their sessions lack. Melodic steel fills mid sustain between bowls and gongs when tuned thoughtfully. Include session maps showing strike order and silence gaps.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Equip a sound practice",
       "body": "Compare instruments in our education library or commission a bath-ready scale.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "sound-healing-gift-guide",
+    "category": "Gifts",
+    "title": "Sound Healing Gift Guide: Tools Listeners Keep",
+    "description": "Sound healing gifts should survive hype cycles. Focus on stable tuning, ethical sourcing stories, and instruments suited to facilitators or home listeners.",
+    "h1": "Sound healing gift guide"
   },
   {
-    slug: "outdoor-musician-gift-ideas",
-    category: "gifts",
-    title: "Outdoor Musician Gift Ideas for Campers and Trail Lovers",
-    description: "Outdoor players need tough bags, stable tuning, and instruments that sound open under sky instead of boxed in a studio. Stillforge forged melodic steel drums fi",
-    h1: "Outdoor musician gift ideas",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 9,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 9,
+    "keywords": [
       "outdoor music gifts",
       "campfire instruments",
       "travel handpan"
     ],
-    relatedSlugs: [
-      "play",
+    "relatedSlugs": [
       "playing-handpan-outdoors",
       "outdoor-music-practice-tips",
-      "unique-gifts-for-dad",
-      "unique-gifts-for-birthdays"
+      "unique-gifts-for-dad"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Will sun damage a handpan finish?",
         "a": "Prolonged UV can affect some coatings. Use shade and bags when not playing."
@@ -1754,7 +856,7 @@ export default [
         "a": "Backpack straps, rigid shell, and moisture-wicking liner protect transit to campsites."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Gifts that survive dirt and miles",
         "paragraphs": [
@@ -1786,117 +888,36 @@ export default [
           "Remind them to check land rules about amplified sound.",
           "Stillforge encourages streamside testing because water and wind inform our outdoor voicing."
         ]
-      },
-      {
-        "h2": "Checklist for a strong outdoor musician gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a outdoor musician present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Outdoor players battle wind, rain, and curious dogs. Pack repair tape, spare tips, and a quick-dry cloth. Teach them to wipe salt and pollen after beach or trail sessions. Storage in a hot car trunk warrants a shaded bag.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Outfit their next adventure",
       "body": "Shop travel-friendly drums or commission with outdoor use as the brief.",
       "primaryTo": "/shop",
       "primaryLabel": "Visit the shop"
-    }
+    },
+    "slug": "outdoor-musician-gift-ideas",
+    "category": "Gifts",
+    "title": "Outdoor Musician Gift Ideas for Campers and Trail Lovers",
+    "description": "Outdoor players need tough bags, stable tuning, and instruments that sound open under sky instead of boxed in a studio.",
+    "h1": "Outdoor musician gift ideas"
   },
   {
-    slug: "handmade-gifts-worth-the-money",
-    category: "gifts",
-    title: "Handmade Gifts Worth the Money",
-    description: "Handmade should mean measurable craft: tuning stability, honest materials, and maker time you can see. Skip mass-produced items labeled artisan.",
-    h1: "Handmade gifts worth the money",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 10,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 10,
+    "keywords": [
       "handmade gifts",
       "artisan instruments",
       "custom handpan"
     ],
-    relatedSlugs: [
-      "shop",
+    "relatedSlugs": [
       "experience-gifts-vs-objects",
       "commissioning-a-custom-drum",
-      "gifts-for-someone-who-has-everything",
-      "unique-gifts-for-birthdays"
+      "gifts-for-someone-who-has-everything"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Why do forged drums cost more than import drums?",
         "a": "Labor in tuning, steel treatment, and QC adds time. Cheap imports often skip stable heat treatment and repeat tuning passes."
@@ -1910,7 +931,7 @@ export default [
         "a": "Commission when scale and finish matter deeply. Ready-made excels when timeline is tight and flexibility is open."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Define worth before purchase",
         "paragraphs": [
@@ -1942,117 +963,36 @@ export default [
           "Schedule maintenance like you would for a bicycle or camera.",
           "Handmade gifts appreciate emotionally even if resale markets vary."
         ]
-      },
-      {
-        "h2": "Checklist for a strong handmade gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a handmade present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Handmade value shows up in retune options, honest material talk, and maker accountability. Cheap copies hide behind filters in ads. Request dry room audio samples. Stillforge tank forging is a concrete story you can repeat when they ask why it cost more.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Invest in honest craft",
       "body": "See commission process and materials we trust before you buy.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "handmade-gifts-worth-the-money",
+    "category": "Gifts",
+    "title": "Handmade Gifts Worth the Money",
+    "description": "Handmade should mean measurable craft: tuning stability, honest materials, and maker time you can see. Skip mass-produced items labeled artisan.",
+    "h1": "Handmade gifts worth the money"
   },
   {
-    slug: "experience-gifts-vs-objects",
-    category: "gifts",
-    title: "Experience Gifts vs Objects: When Sound Gifts Win",
-    description: "Experiences create memories. Objects create rituals. The best gifts combine both so the memory has a soundtrack tomorrow. Stillforge forged melodic steel drums",
-    h1: "Experience gifts vs objects",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 9,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 9,
+    "keywords": [
       "experience gifts",
       "gift objects",
       "music gifts"
     ],
-    relatedSlugs: [
-      "play",
+    "relatedSlugs": [
       "unique-gifts-for-birthdays",
       "handmade-gifts-worth-the-money",
-      "meaningful-gifts-for-musicians",
-      "unique-gifts-for-christmas"
+      "meaningful-gifts-for-musicians"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Can an instrument be both experience and object?",
         "a": "Yes. Unwrapping, first lesson, and yearly songs turn steel into a timeline of experiences."
@@ -2066,7 +1006,7 @@ export default [
         "a": "Memories fade without anchors. Objects anchor repetition. Pair them intentionally."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Strengths of experiences",
         "paragraphs": [
@@ -2098,116 +1038,35 @@ export default [
           "Do they nest at home? Lean object with ritual card.",
           "Do they fear commitment? Rent or shop entry sizes first."
         ]
-      },
-      {
-        "h2": "Checklist for a strong experience versus object gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a experience versus object present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Hybrid gifting works: dinner plus drum, trip plus portable practice, workshop plus commission deposit. Capture experience audio on the same scale you plan to ship. Memory and object then reinforce each other instead of competing.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Combine memory and melody",
       "body": "Plan a commission reveal plus first play on the porch.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "experience-gifts-vs-objects",
+    "category": "Gifts",
+    "title": "Experience Gifts vs Objects: When Sound Gifts Win",
+    "description": "Experiences create memories. Objects create rituals. The best gifts combine both so the memory has a soundtrack tomorrow.",
+    "h1": "Experience gifts vs objects"
   },
   {
-    slug: "stocking-stuffers-for-musicians",
-    category: "gifts",
-    title: "Stocking Stuffers for Musicians Who Love Their Main Rig",
-    description: "Small gifts should support the big instrument: care kits, notebooks, tuners, and playable accessories that fit a stocking. Stillforge forged melodic steel drums",
-    h1: "Stocking stuffers for musicians",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 7,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 7,
+    "keywords": [
       "stocking stuffers musicians",
       "music gift accessories"
     ],
-    relatedSlugs: [
-      "shop",
+    "relatedSlugs": [
       "unique-gifts-for-christmas",
       "meaningful-gifts-for-musicians",
-      "handpan-care-and-rust-prevention",
-      "unique-gifts-for-birthdays"
+      "handpan-care-and-rust-prevention"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Do handpan players need special stocking gifts?",
         "a": "Microfiber cloths, finger cots, oil kits, and mini tuners fit well. Avoid cheap mallets that scratch notes."
@@ -2221,7 +1080,7 @@ export default [
         "a": "Tiny tongue drums can. Full handpans belong under the tree with a bag reveal."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Care and maintenance miniatures",
         "paragraphs": [
@@ -2253,117 +1112,36 @@ export default [
           "Label each small item with how it supports the big gift.",
           "Christmas morning play sessions need zero missing accessories if you plan well."
         ]
-      },
-      {
-        "h2": "Checklist for a strong stocking stuffer gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a stocking stuffer present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Small gifts shine when they solve recurring annoyances: lost mallets, smudged steel, forgotten note maps. Bundle items that fit a stocking toe without becoming junk. One useful accessory beats five plastic novelty picks.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Complete their kit",
       "body": "Read handpan care guides and shop main instruments when ready.",
       "primaryTo": "/shop",
       "primaryLabel": "Visit the shop"
-    }
+    },
+    "slug": "stocking-stuffers-for-musicians",
+    "category": "Gifts",
+    "title": "Stocking Stuffers for Musicians Who Love Their Main Rig",
+    "description": "Small gifts should support the big instrument: care kits, notebooks, tuners, and playable accessories that fit a stocking.",
+    "h1": "Stocking stuffers for musicians"
   },
   {
-    slug: "wedding-gifts-for-creative-couples",
-    category: "gifts",
-    title: "Wedding Gifts for Creative Couples",
-    description: "Creative couples cherish gifts that become part of their shared story. A commissioned drum marks the wedding with a sound they can replay every anniversary.",
-    h1: "Wedding gifts for creative couples",
-    publishedAt: "2026-07-01",
-    updatedAt: "2026-07-17",
-    readingMinutes: 10,
-    keywords: [
+    "publishedAt": "2026-07-01",
+    "updatedAt": "2026-07-17",
+    "readingMinutes": 10,
+    "keywords": [
       "wedding gifts",
       "creative couples gifts",
       "custom instruments"
     ],
-    relatedSlugs: [
-      "play",
+    "relatedSlugs": [
       "unique-anniversary-gifts-for-men",
       "commissioning-a-custom-drum",
-      "experience-gifts-vs-objects",
-      "unique-gifts-for-birthdays"
+      "experience-gifts-vs-objects"
     ],
-    schemaType: "Article",
-    faqs: [
+    "schemaType": "Article",
+    "faqs": [
       {
         "q": "Is a handpan appropriate as a wedding gift?",
         "a": "When the couple values music or meditation, yes. Confirm they have space and noise tolerance first."
@@ -2377,7 +1155,7 @@ export default [
         "a": "Offer a contribution card toward Stillforge commission with optional scale consult after the honeymoon."
       }
     ],
-    sections: [
+    "sections": [
       {
         "h2": "Celebrate their creative union",
         "paragraphs": [
@@ -2409,92 +1187,18 @@ export default [
           "Encourage yearly recording traditions.",
           "Heirloom quality steel can pass to future generations with maintenance."
         ]
-      },
-      {
-        "h2": "Checklist for a strong wedding gift",
-        "paragraphs": [
-          "Start with observation, not shopping carts. For a wedding present, note when the recipient seeks quiet, when they touch creative tools, and whether they prefer solo recharge or shared rituals. Write three sentences about their habits before you compare products.",
-          "Stillforge builds handcrafted melodic steel drums from reclaimed propane tanks. Each shell passes through forge work and hand tuning before it leaves the shop. That process produces instruments with individual timbre, visible craft marks, and layouts mapped so beginners hear consonant intervals quickly.",
-          "Before you buy, listen to scale demos when possible. The virtual player at /play lets gifters compare moods without guessing. Match scale color to how the recipient already listens: film scores, folk playlists, ambient focus tracks, or campfire singalongs."
-        ],
-        "list": [
-          "Confirm indoor vs outdoor play space",
-          "Pick soft mallets for apartment-friendly volume",
-          "Choose a scale aligned with their playlists",
-          "Plan first-play moment without performance pressure"
-        ]
-      },
-      {
-        "h2": "Setup, care, and long-term value",
-        "paragraphs": [
-          "Include practical setup in your gift plan: a stable stand or lap pad, mallets with a spare pair, a soft bag, and a one-page care note. Gifts that arrive ready to play beat gifts that require a weekend of accessory hunting.",
-          "Position the instrument where daily life happens. Kitchen islands, porch corners, and studio desks outperform closet storage. Usage drives satisfaction more than price alone.",
-          "If timing is tight, ship a heartfelt letter plus demo audio while a commission finishes. Anticipation becomes part of the story when you share forge progress respectfully without spoiling the surprise.",
-          "Avoid overpromising therapeutic outcomes. Frame melodic steel as a creative calm tool and social spark, not a medical device. Honest positioning builds trust with thoughtful recipients."
-        ]
-      },
-      {
-        "h2": "Commission vs ready-to-ship",
-        "paragraphs": [
-          "Ready shop inventory suits tight deadlines and surprise parties. Commission paths suit milestone years when you want custom note count, finish, or engraving tied to shared memory.",
-          "Ask about lead time early. Artisan tuning cannot be rushed without quality tradeoffs. Deposits and progress photos make excellent interim gifts when the final drum arrives after the celebration date.",
-          "Either path can end with a drum that rewards touch for decades. Cost per use drops every month the instrument stays in arm's reach."
-        ],
-        "table": {
-          "headers": [
-            "Situation",
-            "Recommendation",
-            "Why"
-          ],
-          "rows": [
-            [
-              "Deadline under three weeks",
-              "Shop ready stock",
-              "Predictable ship window"
-            ],
-            [
-              "Milestone birthday or wedding",
-              "Commission custom scale",
-              "Personalized tone and story"
-            ],
-            [
-              "Unsure on scale",
-              "Try /play first",
-              "Hear layouts before buying"
-            ],
-            [
-              "Outdoor-heavy lifestyle",
-              "Durable finish + bag",
-              "Weather and travel ready"
-            ]
-          ]
-        }
-      },
-      {
-        "h2": "First weeks: helping the gift stick",
-        "paragraphs": [
-          "Creative couples merge aesthetics daily. Coordinate finish color with their home palette. Offer wall mount hardware if floor space is tight. Suggest recording their first married improvisation, even if it is thirty seconds of laughter.",
-          "Stillforge drums reward consistency over intensity. Five minutes daily beats a single hour on a random Sunday. Encourage them to leave mallets on top of the bag as a visual nudge. Habit design matters as much as craftsmanship.",
-          "If they travel, suggest a padded bag and a note map photo on their phone. Travel keeps the ritual alive. If they host often, place the drum where guests can try one strike with guidance. Social proof from friends accelerates adoption.",
-          "When questions arise about tuning or care, point them to maker guidance rather than random forum panic. Quality builders expect follow-up and can advise on humidity, oil, and retune intervals.",
-          "Your follow-up text a month later means more than the bow on day one. Ask what note they gravitate toward. Ask whether mornings or evenings fit better. That conversation turns a object into a relationship between person and sound."
-        ]
-      },
-      {
-        "h2": "Stillforge fit for this gift search",
-        "paragraphs": [
-          "Stillforge specializes in propane-tank forged melodic steel drums tuned for intuitive play. The brand sits in the artisan custom band: more character than mass laser-cut shells, more approachable than ultra-rare factory handpans with multi-year waitlists. Gifters choose it when story, sound, and durability must coexist.",
-          "When comparing options, listen for note balance across the layout. Cheap drums hide dead tongues under reverb. Quality forging reveals uneven decay in plain recordings. Use the /play tool to audition scales, then confirm physical build details with the shop or commission inquiry path.",
-          "Shipping and unboxing deserve planning. Steel instruments are resilient yet deserve padding and indoor acclimation after cold transit. Include a care card with wipe-down habits and bag storage. Recipients in humid climates benefit from light protective oil per maker guidance.",
-          "Finally, write the card about them, not about the metal. Mention the Tuesday night they decompress, the trip you took, the playlist you share. Stillforge drums become priceless when tied to real memory, not when sold as abstract luxury."
-        ]
       }
     ],
-    cta: {
+    "cta": {
       "headline": "Gift a lifetime soundtrack",
       "body": "Start a wedding commission with their shared listening story.",
       "primaryTo": "/commission",
       "primaryLabel": "Start a commission"
-    }
+    },
+    "slug": "wedding-gifts-for-creative-couples",
+    "category": "Gifts",
+    "title": "Wedding Gifts for Creative Couples",
+    "description": "Creative couples cherish gifts that become part of their shared story. A commissioned drum marks the wedding with a sound they can replay every anniversary.",
+    "h1": "Wedding gifts for creative couples"
   }
-];
+]

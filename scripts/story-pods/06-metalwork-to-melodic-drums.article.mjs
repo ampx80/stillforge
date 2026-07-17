@@ -105,7 +105,7 @@ export default {
   cta: {
     headline: 'Built by metal, finished by ear',
     body: 'Commission a melodic drum shaped by fabrication discipline and tuned for your listening life.',
-    primaryTo: '/commission',
-    primaryLabel: 'Start a commission',
+    primaryTo: '/shop',
+    primaryLabel: 'Browse the shop',
   },
 }

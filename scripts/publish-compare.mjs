@@ -7,6 +7,6 @@ const mod = await import(pathToFileURL(join(root, 'scripts/compare-rich-data.mjs
 const out = join(root, 'src/content/articles/compare.js')
 writeFileSync(
   out,
-  `/** Stillforge comparison and buyer guides (16 articles). */\nexport default ${JSON.stringify(mod.default, null, 2)}\n`,
+  `/** Stillforge comparison and buyer guides (16 articles). Hand-maintained via scripts/compare-rich-data.mjs */\nexport default ${JSON.stringify(mod.default, null, 2)}\n`,
 )
 console.log('compare.js', mod.default.length, 'articles')
