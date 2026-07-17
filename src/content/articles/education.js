@@ -32,41 +32,57 @@ export default [
       {
         "h2": "Physical form",
         "paragraphs": [
-          "Two steel shells glue together, leaving a hollow chamber and bottom port. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Note fields hammered into the top shell ring the player like a compass. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Stillforge starts from propane-tank steel forged into this melodic form. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding What is a handpan? helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Two steel shells glue together, leaving a hollow chamber and bottom port.",
+          "Note fields hammered into the top shell ring the player like a compass.",
+          "Stillforge starts from propane-tank steel forged into this melodic form."
         ]
       },
       {
         "h2": "How it sounds",
         "paragraphs": [
-          "Fundamental pitch plus overtones create shimmering sustain. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Players control tone with strike location, finger flesh, and dynamics. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Poor tuning makes adjacent notes fight; quality makers manage coupling. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding What is a handpan? helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Fundamental pitch plus overtones create shimmering sustain.",
+          "Players control tone with strike location, finger flesh, and dynamics.",
+          "Poor tuning makes adjacent notes fight; quality makers manage coupling."
         ]
       },
       {
         "h2": "Playing posture",
         "paragraphs": [
-          "Rest the drum on lap or stand. Shoulders relaxed, wrists soft. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Alternate hands for rhythmic and melodic patterns. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding What is a handpan? helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "See basics article for first patterns. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity."
+          "Rest the drum on lap or stand. Shoulders relaxed, wrists soft.",
+          "Alternate hands for rhythmic and melodic patterns.",
+          "See basics article for first patterns."
         ]
       },
       {
         "h2": "Family of instruments",
         "paragraphs": [
-          "Inspired by PANArt Hang and global maker community growth since 2000s. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Related to some tongue drums and experimental steel idiophones. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Each maker voices instruments with distinct forge and tuning philosophy. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding What is a handpan? helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Inspired by PANArt Hang and global maker community growth since 2000s.",
+          "Related to some tongue drums and experimental steel idiophones.",
+          "Each maker voices instruments with distinct forge and tuning philosophy."
         ]
       },
       {
         "h2": "Buying entry point",
         "paragraphs": [
-          "Listen to scale demos, read buyer guide, define use case. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Commission or shop Stillforge when forge story and scale fit your ear. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Care guides protect steel investment from day one. Understanding What is a handpan? helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Listen to scale demos, read buyer guide, define use case.",
+          "Commission or shop Stillforge when forge story and scale fit your ear.",
+          "Care guides protect steel investment from day one."
+        ]
+      },
+      {
+        "h2": "Quick answer",
+        "paragraphs": [
+          "A handpan is a handheld, convex steel drum with tuned note fields arranged around a central low note called a ding. You play with finger pads, not sticks, and the whole instrument rests on your lap or a stand.",
+          "The sound blends a clear fundamental with shimmering overtones that decay slowly. Good instruments keep neighboring notes from fighting each other so improvisation stays pleasant even for beginners.",
+          "Stillforge builds in the same family: propane-tank steel forged into melodic shells with scales chosen for calm, intuitive play."
+        ]
+      },
+      {
+        "h2": "How handpans differ from tongue drums and Hang replicas",
+        "paragraphs": [
+          "Steel tongue drums use cut slots on a flat or shallow plate and often accept mallets. Handpans use hammered domes on a sealed shell and expect hand technique with leg damping.",
+          "Hang is a trademarked name from PANArt. Handpan is the community term for similar instruments from independent makers. Stillforge does not claim Hang status; we offer tank-forged melodic drums with our own voicing.",
+          "When shopping, listen for sustain length and overtone balance rather than shape alone. Many convex steel objects are not tuned to handpan standards."
         ]
       }
     ],
@@ -115,41 +131,55 @@ export default [
       {
         "h2": "PANArt and the Hang",
         "paragraphs": [
-          "Felix Rohner and Sabina Schärer explored steel resonance for years before Hang naming. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Hang combined art object status with playable instrument intimacy. Understanding History of the Hang and handpan helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Trademark and naming etiquette still matter in community discourse. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing."
+          "Felix Rohner and Sabina Schärer explored steel resonance for years before Hang naming.",
+          "Hang combined art object status with playable instrument intimacy.",
+          "Trademark and naming etiquette still matter in community discourse."
         ]
       },
       {
         "h2": "Spread and diversification",
         "paragraphs": [
-          "Online video accelerated global awareness in the 2010s. Understanding History of the Hang and handpan helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Independent makers experimented with scales, materials, and price tiers. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Quality varied; education became essential for buyers. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding History of the Hang and handpan helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel."
+          "Online video accelerated global awareness in the 2010s.",
+          "Independent makers experimented with scales, materials, and price tiers.",
+          "Quality varied; education became essential for buyers."
         ]
       },
       {
         "h2": "Propane-tank forge thread",
         "paragraphs": [
-          "Some makers embraced upcycled cylinders as structural and storytelling choice. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Stillforge aligns with slow metal craft near water where tuning is tested. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding History of the Hang and handpan helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Tank forging is one branch, not the only legitimate build method. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity."
+          "Some makers embraced upcycled cylinders as structural and storytelling choice.",
+          "Stillforge aligns with slow metal craft near water where tuning is tested.",
+          "Tank forging is one branch, not the only legitimate build method."
         ]
       },
       {
         "h2": "Community norms",
         "paragraphs": [
-          "Respect PANArt terminology, share knowledge, avoid counterfeit demos. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Support makers who document labor honestly. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Players share techniques openly across borders. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding History of the Hang and handpan helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Respect PANArt terminology, share knowledge, avoid counterfeit demos.",
+          "Support makers who document labor honestly.",
+          "Players share techniques openly across borders."
         ]
       },
       {
         "h2": "Looking forward",
         "paragraphs": [
-          "Handpans appear in wellness, film, and street performance contexts. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Sustainability conversations include steel sourcing and instrument longevity. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "New owners benefit from reading education library before first purchase. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding History of the Hang and handpan helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Handpans appear in wellness, film, and street performance contexts.",
+          "Sustainability conversations include steel sourcing and instrument longevity.",
+          "New owners benefit from reading education library before first purchase."
+        ]
+      },
+      {
+        "h2": "Timeline at a glance",
+        "paragraphs": [
+          "Steel pan research in Switzerland preceded the Hang, which PANArt released around 2000 as a limited art instrument. Demand exploded faster than production, creating long waitlists and secondary market hype.",
+          "Independent makers worldwide developed their own shells, scales, and tuning methods through the 2010s as online video spread the sound. Names, ethics, and quality varied, which is why buyer education matters today.",
+          "Tank-forged and upcycled steel builds appeared as a parallel story: makers who wanted visible craft roots and regional forge identity, a path Stillforge continues."
+        ],
+        "list": [
+          "2000: Hang enters public awareness through PANArt",
+          "2000s-2010s: Independent handpan makers multiply globally",
+          "2010s-present: Fixed-scale melodic drums become meditation and film staples",
+          "Today: Buyers choose among factory, artisan, and tank-forged commissions"
         ]
       }
     ],
@@ -178,7 +208,7 @@ export default [
       "handpan-tuning-explained",
       "behind-the-forge"
     ],
-    "schemaType": "Article",
+    "schemaType": "HowTo",
     "faqs": [
       {
         "q": "How long does one drum take?",
@@ -197,41 +227,56 @@ export default [
       {
         "h2": "Shell creation",
         "paragraphs": [
-          "Sheet or tank steel becomes domed halves with controlled thickness gradients. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Port and glue lines must stay airtight for stable resonance. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How handpans are made helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Stillforge begins with propane-tank forging before note layout. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity."
+          "Sheet or tank steel becomes domed halves with controlled thickness gradients.",
+          "Port and glue lines must stay airtight for stable resonance.",
+          "Stillforge begins with propane-tank forging before note layout."
         ]
       },
       {
         "h2": "Note shaping",
         "paragraphs": [
-          "Fields are hammered with borders defining isolation between pitches. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Geometry affects sustain, octave stability, and cross-talk. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Makers mark layouts for ergonomics and scale intervals. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How handpans are made helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Fields are hammered with borders defining isolation between pitches.",
+          "Geometry affects sustain, octave stability, and cross-talk.",
+          "Makers mark layouts for ergonomics and scale intervals."
         ]
       },
       {
         "h2": "Tuning iterations",
         "paragraphs": [
-          "Fundamental and partials are adjusted repeatedly as neighboring notes shift coupling. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Heat may relieve stress between passes. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How handpans are made helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Documentation with strobe or software helps repeatability. Understanding How handpans are made helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Fundamental and partials are adjusted repeatedly as neighboring notes shift coupling.",
+          "Heat may relieve stress between passes.",
+          "Documentation with strobe or software helps repeatability."
         ]
       },
       {
         "h2": "Finish and QC",
         "paragraphs": [
-          "Nitriding, oil, or stainless treatments applied per steel plan. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How handpans are made helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Final play tests in environments similar to intended use. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Stillforge streamside tests inform outdoor clarity. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Nitriding, oil, or stainless treatments applied per steel plan.",
+          "Final play tests in environments similar to intended use.",
+          "Stillforge streamside tests inform outdoor clarity."
         ]
       },
       {
         "h2": "What buyers should ask",
         "paragraphs": [
-          "How many tuning passes, how drift is handled under warranty, and how repairs work. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Photos of intermediate stages signal transparency. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How handpans are made helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Avoid makers who hide process entirely. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity."
+          "How many tuning passes, how drift is handled under warranty, and how repairs work.",
+          "Photos of intermediate stages signal transparency.",
+          "Avoid makers who hide process entirely."
+        ]
+      },
+      {
+        "h2": "Step overview",
+        "paragraphs": [
+          "Shell forming comes first: deep drawing, rolling, or forging steel into two halves that will be glued into a sealed chamber with a bottom port.",
+          "Note fields are hammered into the top shell, then tuned in many passes while the maker manages coupling between neighbors. Heat treatment and surface finishing follow the maker steel plan.",
+          "Final QC is listening in real spaces. Stillforge includes outdoor checks because streamside projection reveals problems that indoor rooms hide."
+        ],
+        "list": [
+          "Form or forge shell halves to target stiffness",
+          "Glue and cure the chamber with clean seam work",
+          "Hammer note fields and mark ergonomic layout",
+          "Iteratively tune fundamentals and partials",
+          "Apply finish, oil or nitride plan, and play test"
         ]
       }
     ],
@@ -260,7 +305,7 @@ export default [
       "how-handpans-are-made",
       "from-propane-tank-to-instrument"
     ],
-    "schemaType": "Article",
+    "schemaType": "HowTo",
     "faqs": [
       {
         "q": "Is forging tanks DIY-safe?",
@@ -279,41 +324,57 @@ export default [
       {
         "h2": "Sourcing and cleaning",
         "paragraphs": [
-          "Tanks must be purged and cut safely before any heat work. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Residual compounds are removed to protect makers and future owners. Understanding How propane tank drums are forged helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Stillforge treats safety as non-negotiable groundwork. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing."
+          "Tanks must be purged and cut safely before any heat work. Our forge follows industrial safety habits from years of metal sculpture, not shortcut hobby methods.",
+          "Residual compounds are removed to protect makers and future owners. That prep step affects how cleanly steel accepts hammer tuning later.",
+          "Stillforge treats safety as non-negotiable groundwork. We document tank origin when clients ask because material traceability matters for trust."
         ]
       },
       {
         "h2": "Shaping the shell",
         "paragraphs": [
-          "Sections are cut, rolled, and welded or formed into handpan-like geometry. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Stress relief and annealing steps prepare steel for note hammering. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Visual character from tank heritage often remains subtly visible. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How propane tank drums are forged helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Sections are cut, rolled, and welded or formed into handpan-like geometry. Curvature and seam placement influence stiffness before the first note field is struck.",
+          "Stress relief and annealing steps prepare steel for note hammering. Skipping thermal care invites unpredictable drift during tuning marathons.",
+          "Visual character from tank heritage often remains subtly visible. Many players enjoy that honest industrial story next to refined melodic voice."
         ]
       },
       {
         "h2": "Transition to musical instrument",
         "paragraphs": [
-          "Once shell geometry is stable, handpan note process takes over. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Tuning is identical in importance to any other handpan shell origin. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How propane tank drums are forged helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Tank provenance does not shortcut tuning hours. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Once shell geometry is stable, the handpan note process takes over. Forge work ends where musical tuning begins, and neither stage gets rushed.",
+          "Tuning is identical in importance to any other handpan shell origin. Tank provenance is narrative, not a substitute for ear work at the bench.",
+          "Stillforge streamside listening tests how tank-forged shells project in open air, where bedroom demos can lie about overtone clarity."
         ]
       },
       {
         "h2": "Why we choose tanks",
         "paragraphs": [
-          "Story, steel thickness, and regional craft identity. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Players connect to transformation from utility to art. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How propane tank drums are forged helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Slow craft philosophy matches intentional tuning sessions. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity."
+          "Story, steel thickness, and regional craft identity align with Stillforge values. Tanks are available, forgeable, and honest about upcycling steel.",
+          "Players connect to transformation from utility to art. A commission becomes a conversation about fire, patience, and sound in one object.",
+          "Slow craft philosophy matches intentional tuning sessions. One shell may return to the bench many times before it leaves the shop."
         ]
       },
       {
         "h2": "Care reminders",
         "paragraphs": [
-          "Forged steel still needs rust-aware maintenance. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Read care guide after learning forge context. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How propane tank drums are forged helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Commission questions welcome about tank sourcing standards. Understanding How propane tank drums are forged helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Forged steel still needs rust-aware maintenance. Tank origin does not make the instrument immune to fingerprints, humidity, or dents.",
+          "Read the care guide after learning forge context so oiling and storage match your climate.",
+          "Commission questions welcome about tank sourcing standards, finish choices, and how outdoor play affects long-term steel health."
+        ]
+      },
+      {
+        "h2": "Safety before music",
+        "paragraphs": [
+          "Retired propane tanks still carry chemical and pressure history. Professional shops purge, vent, and cut using procedures that hobby social media often skips.",
+          "Stillforge inherits metalwork discipline from large sculpture and industrial forming. No tank enters note work until cleaning and inspection gates pass.",
+          "If you are curious about DIY tank projects, treat this article as a why professionals matter guide, not a home tutorial."
+        ]
+      },
+      {
+        "h2": "From cylinder to singing shell",
+        "paragraphs": [
+          "Tank steel arrives with known thickness bands and a visible past. Makers choose sections, open the cylinder, and form curves that approximate handpan geometry before any pitch work.",
+          "Welding and stress relief must be clean. Hidden seam flaws become buzz or drift once fields are hammered thin.",
+          "The forge story is honest marketing only when tuning quality matches. Stillforge spends the same bench hours on tank shells as on any other steel source."
         ]
       }
     ],
@@ -361,41 +422,49 @@ export default [
       {
         "h2": "Fundamentals and partials",
         "paragraphs": [
-          "Each field targets a root frequency and aligned overtones for pleasant timbre. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan tuning explained helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Hammer strikes stretch and compress local steel to shift pitch. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Makers listen for beating between partials to judge clarity. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Each field targets a root frequency and aligned overtones for pleasant timbre.",
+          "Hammer strikes stretch and compress local steel to shift pitch.",
+          "Makers listen for beating between partials to judge clarity."
         ]
       },
       {
         "h2": "Coupling between notes",
         "paragraphs": [
-          "Energy transfers across the shell. Tuning one note shifts neighbors. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan tuning explained helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Iterative passes balance the entire layout, not isolated notes. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Stillforge streamside listening catches outdoor projection issues early. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan tuning explained helps you buy once and care for steel intelligently instead of guessing from forum myths."
+          "Energy transfers across the shell. Tuning one note shifts neighbors.",
+          "Iterative passes balance the entire layout, not isolated notes.",
+          "Stillforge streamside listening catches outdoor projection issues early."
         ]
       },
       {
         "h2": "Measurement tools",
         "paragraphs": [
-          "Electronic tuners, strobe apps, and spectrum tools assist ears. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan tuning explained helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Tools do not replace musical judgment on timbre. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Buyers can request tuning documentation for transparency. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Electronic tuners, strobe apps, and spectrum tools assist ears.",
+          "Tools do not replace musical judgment on timbre.",
+          "Buyers can request tuning documentation for transparency."
         ]
       },
       {
         "h2": "Drift and maintenance",
         "paragraphs": [
-          "Normal micro-drift happens with climate and play intensity. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Proper care reduces corrosion that ruins pitch stability. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan tuning explained helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Budget occasional professional checks for working performers. Understanding Handpan tuning explained helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Normal micro-drift happens with climate and play intensity.",
+          "Proper care reduces corrosion that ruins pitch stability.",
+          "Budget occasional professional checks for working performers."
         ]
       },
       {
         "h2": "Evaluating demos online",
         "paragraphs": [
-          "Listen for wobble on long sustains and harsh cross-talk when arpeggiating. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Compare same player technique across scales when possible. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan tuning explained helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Trust ears over visual gloss in photos. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Listen for wobble on long sustains and harsh cross-talk when arpeggiating.",
+          "Compare same player technique across scales when possible.",
+          "Trust ears over visual gloss in photos."
+        ]
+      },
+      {
+        "h2": "What stable tuning means",
+        "paragraphs": [
+          "Stable tuning is not a single snapshot on a tuner app. It means each field holds pitch and partial relationships after shipping, climate change, and weeks of normal play.",
+          "Makers chase pleasant beating between partials, not zero beats at all costs. Some shimmer is musical; wobble that never settles is not.",
+          "Ask for tuning clips of the exact instrument and note how long sustain stays even as you listen to the full decay."
         ]
       }
     ],
@@ -443,41 +512,49 @@ export default [
       {
         "h2": "Intervals and mood",
         "paragraphs": [
-          "Minor thirds and sevenths color emotion differently than major stacks. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Understanding handpan scales helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Handpan scales often omit awkward intervals to keep improvisation pleasant. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Listen to guides for D Kurd, Celtic minor, and Hijaz next. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Minor thirds and sevenths color emotion differently than major stacks.",
+          "Handpan scales often omit awkward intervals to keep improvisation pleasant.",
+          "Listen to guides for D Kurd, Celtic minor, and Hijaz next."
         ]
       },
       {
         "h2": "Root and center",
         "paragraphs": [
-          "Many layouts highlight a central ding or low note as home pitch. Understanding Understanding handpan scales helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Arpeggios radiate clockwise or maker-specific patterns. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Muscle memory maps spatially, aiding improvisation. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Understanding handpan scales helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel."
+          "Many layouts highlight a central ding or low note as home pitch.",
+          "Arpeggios radiate clockwise or maker-specific patterns.",
+          "Muscle memory maps spatially, aiding improvisation."
         ]
       },
       {
         "h2": "Naming conventions",
         "paragraphs": [
-          "Names reference music traditions or maker marketing labels. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Understanding handpan scales helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Verify interval maps with demos, not only title words. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Stillforge consults translate playlist language into scale options. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Understanding handpan scales helps you buy once and care for steel intelligently instead of guessing from forum myths."
+          "Names reference music traditions or maker marketing labels.",
+          "Verify interval maps with demos, not only title words.",
+          "Stillforge consults translate playlist language into scale options."
         ]
       },
       {
         "h2": "Choosing thoughtfully",
         "paragraphs": [
-          "Match scale to venue: meditation, stage, film, family play. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Understanding handpan scales helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Avoid trend-chasing if demos bore you personally. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Commission when interval needs are specific. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Match scale to venue: meditation, stage, film, family play.",
+          "Avoid trend-chasing if demos bore you personally.",
+          "Commission when interval needs are specific."
         ]
       },
       {
         "h2": "Practice implications",
         "paragraphs": [
-          "Limited notes encourage creative repetition and variation. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Understanding handpan scales helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Transposing to other keys requires different drum or post-production. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Embrace limitation as feature. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Limited notes encourage creative repetition and variation.",
+          "Transposing to other keys requires different drum or post-production.",
+          "Embrace limitation as feature."
+        ]
+      },
+      {
+        "h2": "Scale choice without theory overload",
+        "paragraphs": [
+          "Start with playlists. If minor, cinematic beds repeat in your library, lean Kurd or Celtic family demos. If you crave spice, audition Hijaz or other named modes with reference tracks.",
+          "Layout maps note positions around the circle. Muscle memory is spatial, so try the Stillforge player to feel spacing before you commission.",
+          "Limited note counts are a feature. Fewer fields encourage variation through rhythm and dynamics instead of constant note hunting."
         ]
       }
     ],
@@ -525,41 +602,68 @@ export default [
       {
         "h2": "Interval character",
         "paragraphs": [
-          "Kurd minor stacks familiar Western minor flavors with accessible patterns. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding D Kurd scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Players loop arpeggios quickly without harsh clashes. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Central low note anchors meditative pacing. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding D Kurd scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths."
+          "Kurd minor stacks familiar Western minor flavors with accessible patterns.",
+          "Players loop arpeggios quickly without harsh clashes.",
+          "Central low note anchors meditative pacing."
         ]
       },
       {
         "h2": "Where D Kurd shines",
         "paragraphs": [
-          "Campfire jams, yoga beds, singer-songwriter underscoring. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Recording ambient beds with single mic capture. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding D Kurd scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Teaching friends because intuitive layouts translate well. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Campfire jams, yoga beds, singer-songwriter underscoring.",
+          "Recording ambient beds with single mic capture.",
+          "Teaching friends because intuitive layouts translate well."
         ]
       },
       {
         "h2": "Compare to Celtic minor",
         "paragraphs": [
-          "Celtic minor often feels more folk-leaning with different top note color. Understanding D Kurd scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Try both demos before assuming Kurd is default forever. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Some owners eventually commission second scale for variety. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding D Kurd scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel."
+          "Celtic minor often feels more folk-leaning with different top note color.",
+          "Try both demos before assuming Kurd is default forever.",
+          "Some owners eventually commission second scale for variety."
         ]
       },
       {
         "h2": "Technique tips",
         "paragraphs": [
-          "Explore soft ghost notes between primary strikes. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Use repeating three-note cells to build songs without theory. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding D Kurd scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Record loops to hear harmonic bloom over time. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity."
+          "Explore soft ghost notes between primary strikes.",
+          "Use repeating three-note cells to build songs without theory.",
+          "Record loops to hear harmonic bloom over time."
         ]
       },
       {
         "h2": "Buying D Kurd",
         "paragraphs": [
-          "Verify maker-specific layout photos for hand span. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding D Kurd scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Listen for note balance, not only ding sustain. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Read scale comparison table for context. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Verify maker-specific layout photos for hand span.",
+          "Listen for note balance, not only ding sustain.",
+          "Read scale comparison table for context."
+        ]
+      },
+      {
+        "h2": "Typical note map (maker layouts vary)",
+        "table": {
+          "headers": [
+            "Role",
+            "What to listen for"
+          ],
+          "rows": [
+            [
+              "Central ding",
+              "Low home pitch anchoring minor loops"
+            ],
+            [
+              "Upper ring",
+              "Stepwise motion without harsh clashes"
+            ],
+            [
+              "Bass port",
+              "Optional thump when rim is struck"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "D Kurd is a popular minor-family voice for good reason: forgiving intervals, abundant teaching clips, and emotional range from calm to rhythmic energy.",
+          "Compare demos on the same headphones at matched volume. Some makers emphasize bright partials; others stay warm and muted."
         ]
       }
     ],
@@ -607,41 +711,49 @@ export default [
       {
         "h2": "Emotional palette",
         "paragraphs": [
-          "Lyrical, nostalgic, sometimes hopeful minor-major blends depending on voicing. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Long sustain supports slow melodies reminiscent of folk ballads. Understanding Celtic minor scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Stillforge tuning chases clarity so lyrics in imagination stay crisp. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Lyrical, nostalgic, sometimes hopeful minor-major blends depending on voicing.",
+          "Long sustain supports slow melodies reminiscent of folk ballads.",
+          "Stillforge tuning chases clarity so lyrics in imagination stay crisp."
         ]
       },
       {
         "h2": "Playing ideas",
         "paragraphs": [
-          "Alternate low and high notes like question and answer phrases. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Walk rhythms slowly; rush fights the scale personality. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Film your outdoor sessions to feel spatial reverb. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Celtic minor scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Alternate low and high notes like question and answer phrases.",
+          "Walk rhythms slowly; rush fights the scale personality.",
+          "Film your outdoor sessions to feel spatial reverb."
         ]
       },
       {
         "h2": "Versus D Kurd",
         "paragraphs": [
-          "Personal ear preference decides. Some hear Celtic as more storytelling, Kurd as more groove-friendly. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Own demos side by side if choosing between commissions. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Note count and layout still matter more than name alone. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Celtic minor scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Personal ear preference decides. Some hear Celtic as more storytelling, Kurd as more groove-friendly.",
+          "Own demos side by side if choosing between commissions.",
+          "Note count and layout still matter more than name alone."
         ]
       },
       {
         "h2": "Ensemble tips",
         "paragraphs": [
-          "Communicate root pitch with other musicians. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Leave space for vocals; Celtic minor supports singers well. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Avoid competing with bright trumpets without arrangement plan. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Celtic minor scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Communicate root pitch with other musicians.",
+          "Leave space for vocals; Celtic minor supports singers well.",
+          "Avoid competing with bright trumpets without arrangement plan."
         ]
       },
       {
         "h2": "Purchase path",
         "paragraphs": [
-          "Request Celtic minor demos explicitly from makers. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Confirm spelling and interval map in writing before deposit. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Shop ready inventory when demos match exactly. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Celtic minor scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Request Celtic minor demos explicitly from makers.",
+          "Confirm spelling and interval map in writing before deposit.",
+          "Shop ready inventory when demos match exactly."
+        ]
+      },
+      {
+        "h2": "Mood and use cases",
+        "paragraphs": [
+          "Celtic minor often feels folk-leaning and lyrical compared with Kurd. Film and porch players like its storytelling color.",
+          "If you already own Kurd, Celtic minor is a common second drum when budget allows. If you own one drum only, pick whichever demo gives you goosebumps on soft strikes.",
+          "Commission notes should mention whether you play alone or with singers; Celtic layouts can support vocal keys differently depending on root choice."
         ]
       }
     ],
@@ -689,41 +801,49 @@ export default [
       {
         "h2": "Interval spice",
         "paragraphs": [
-          "Hijaz highlights augmented second color between selected degrees. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Creates instant world-music association in listeners. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Hijaz scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Requires tuning precision to avoid harsh beating on characteristic intervals. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Hijaz highlights augmented second color between selected degrees.",
+          "Creates instant world-music association in listeners.",
+          "Requires tuning precision to avoid harsh beating on characteristic intervals."
         ]
       },
       {
         "h2": "Best use cases",
         "paragraphs": [
-          "Stage solos, fusion ensembles, film cues needing tension. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Less default for generic meditation unless player controls dynamics softly. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Hijaz scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Pairs with frame drums and bass drones carefully. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Stage solos, fusion ensembles, film cues needing tension.",
+          "Less default for generic meditation unless player controls dynamics softly.",
+          "Pairs with frame drums and bass drones carefully."
         ]
       },
       {
         "h2": "Learning curve",
         "paragraphs": [
-          "Ear training helps find melodic paths that respect interval color. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Study recordings from players who specialize in this scale. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Hijaz scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Avoid forcing major-pop cliches that fight Hijaz identity. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Ear training helps find melodic paths that respect interval color.",
+          "Study recordings from players who specialize in this scale.",
+          "Avoid forcing major-pop cliches that fight Hijaz identity."
         ]
       },
       {
         "h2": "Commission notes",
         "paragraphs": [
-          "Send reference tracks to maker for voicing targets. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Hijaz scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Allow extra tuning time for exotic layouts on some shells. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Verify layout ergonomics for fast stage play. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Send reference tracks to maker for voicing targets.",
+          "Allow extra tuning time for exotic layouts on some shells.",
+          "Verify layout ergonomics for fast stage play."
         ]
       },
       {
         "h2": "Beginner guidance",
         "paragraphs": [
-          "If Hijaz demo gives goosebumps, pursue it passionately. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "If unsure, start Kurd or Celtic then add Hijaz as second drum later. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Hijaz scale guide helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Scale comparison article helps contextualize. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity."
+          "If Hijaz demo gives goosebumps, pursue it passionately.",
+          "If unsure, start Kurd or Celtic then add Hijaz as second drum later.",
+          "Scale comparison article helps contextualize."
+        ]
+      },
+      {
+        "h2": "Interval spice and respect",
+        "paragraphs": [
+          "Hijaz carries recognizable Middle Eastern color through its interval stack. It rewards players who listen before they force major-pop cliches onto the layout.",
+          "Facilitation contexts need consent and cultural respect. Name scales accurately in programs and avoid exoticizing language in marketing copy.",
+          "Technically, Hijaz may need extra tuning patience on some shells. Budget time and money accordingly when commissioning."
         ]
       }
     ],
@@ -772,41 +892,55 @@ export default [
       {
         "h2": "After every play",
         "paragraphs": [
-          "Wipe fingerprints with clean microfiber while metal is warm. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan care and rust prevention helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Remove rings and watches that scratch fields. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Dry hands before touching if you applied lotion earlier. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Wipe fingerprints with clean microfiber while metal is warm.",
+          "Remove rings and watches that scratch fields.",
+          "Dry hands before touching if you applied lotion earlier."
         ]
       },
       {
         "h2": "Storage environment",
         "paragraphs": [
-          "Avoid damp basements and trunk storage. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan care and rust prevention helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Use breathable bags with desiccant in humid seasons. Understanding Handpan care and rust prevention helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Do not lean heavy objects against the drum in closets. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Avoid damp basements and trunk storage.",
+          "Use breathable bags with desiccant in humid seasons.",
+          "Do not lean heavy objects against the drum in closets."
         ]
       },
       {
         "h2": "Outdoor sessions",
         "paragraphs": [
-          "Shade from prolonged sun, wipe moisture after dew or mist. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan care and rust prevention helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Never leave in rain. Pack immediately if weather turns. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Stillforge outdoor guides complement care basics. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Shade from prolonged sun, wipe moisture after dew or mist.",
+          "Never leave in rain. Pack immediately if weather turns.",
+          "Stillforge outdoor guides complement care basics."
         ]
       },
       {
         "h2": "Travel and shipping",
         "paragraphs": [
-          "Hard cases reduce impacts that crack glue seams and detune notes. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Acclimate after shipping before judging tuning. Understanding Handpan care and rust prevention helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Insurance photos document pre-ship condition. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing."
+          "Hard cases reduce impacts that crack glue seams and detune notes.",
+          "Acclimate after shipping before judging tuning.",
+          "Insurance photos document pre-ship condition."
         ]
       },
       {
         "h2": "Long-term mindset",
         "paragraphs": [
-          "Care is part of playing, like tuning strings on guitar. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Rust ignored becomes costly retune or replacement. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan care and rust prevention helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Teach housemates basic rules if drum lives shared space. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity."
+          "Care is part of playing, like tuning strings on guitar.",
+          "Rust ignored becomes costly retune or replacement.",
+          "Teach housemates basic rules if drum lives shared space."
+        ]
+      },
+      {
+        "h2": "Daily care checklist",
+        "list": [
+          "Dry hands or light oil on skin before play if you use lotion",
+          "Wipe fingerprints immediately after sessions with a clean cloth",
+          "Store in a breathable bag with desiccant in humid seasons",
+          "Never leave the drum in a hot car or damp basement long term",
+          "Schedule professional inspection if rust specks or buzz appear"
+        ],
+        "paragraphs": [
+          "Care is cheaper than retunes. Most heartbreak stories start with trunk storage, beach salt, or sticky unknown oils from kitchen experiments.",
+          "Stillforge finish plans vary by commission. Follow the maker sheet for your drum instead of random forum potions."
         ]
       }
     ],
@@ -854,41 +988,49 @@ export default [
       {
         "h2": "Posture and hand position",
         "paragraphs": [
-          "Sit tall, drum centered, elbows free. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How to play handpan basics helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Relax shoulders to prevent fatigue. Understanding How to play handpan basics helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Strike from wrist with finger follow-through, not stiff hammering. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing."
+          "Sit tall, drum centered, elbows free.",
+          "Relax shoulders to prevent fatigue.",
+          "Strike from wrist with finger follow-through, not stiff hammering."
         ]
       },
       {
         "h2": "First sound",
         "paragraphs": [
-          "Tap center of one note gently. Listen to full decay. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How to play handpan basics helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Repeat on neighboring notes to feel layout spacing. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Match force across hands for even tone. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How to play handpan basics helps you buy once and care for steel intelligently instead of guessing from forum myths."
+          "Tap center of one note gently. Listen to full decay.",
+          "Repeat on neighboring notes to feel layout spacing.",
+          "Match force across hands for even tone."
         ]
       },
       {
         "h2": "Simple alternating pattern",
         "paragraphs": [
-          "Choose three notes forming a small triangle on the layout. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Play left-right-left-right slowly with metronome optional. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How to play handpan basics helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Gradually lift tempo only when tone stays clean. Understanding How to play handpan basics helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Choose three notes forming a small triangle on the layout.",
+          "Play left-right-left-right slowly with metronome optional.",
+          "Gradually lift tempo only when tone stays clean."
         ]
       },
       {
         "h2": "Dynamics and color",
         "paragraphs": [
-          "Strike near note edge for brighter partials, center for fundamental focus. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Ghost touches between accents add groove. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How to play handpan basics helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Record yourself weekly to hear progress honestly. Understanding How to play handpan basics helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Strike near note edge for brighter partials, center for fundamental focus.",
+          "Ghost touches between accents add groove.",
+          "Record yourself weekly to hear progress honestly."
         ]
       },
       {
         "h2": "Next steps",
         "paragraphs": [
-          "Explore play section for guided patterns. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Consider lessons if pain persists despite posture fixes. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding How to play handpan basics helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Join outdoor practice tips when ready for porch sessions. Understanding How to play handpan basics helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Explore play section for guided patterns.",
+          "Consider lessons if pain persists despite posture fixes.",
+          "Join outdoor practice tips when ready for porch sessions."
+        ]
+      },
+      {
+        "h2": "First ten minutes",
+        "paragraphs": [
+          "Sit tall, place the drum on your lap, and strike one note softly. Wait for the full decay before you move. That teaches sustain and prevents panic speed.",
+          "Add a second note with the other hand. Alternate slowly until tone matches between hands. Only then add a third note in a small triangle on the layout.",
+          "Use the Stillforge play section for guided patterns once this triangle feels comfortable."
         ]
       }
     ],
@@ -936,41 +1078,49 @@ export default [
       {
         "h2": "Role of handpan in baths",
         "paragraphs": [
-          "Provides melodic focus where bowls provide wash. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Long sustain fills air without constant striking. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan for sound baths helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Stillforge tuning aims for smooth overtone stacks suited to slow play. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity."
+          "Provides melodic focus where bowls provide wash.",
+          "Long sustain fills air without constant striking.",
+          "Stillforge tuning aims for smooth overtone stacks suited to slow play."
         ]
       },
       {
         "h2": "Volume and trauma awareness",
         "paragraphs": [
-          "Start quietly. Increase only if room absorbs sound. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Announce what instruments will appear to avoid surprises. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan for sound baths helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Never claim medical outcomes; describe relaxation support. Understanding Handpan for sound baths helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Start quietly. Increase only if room absorbs sound.",
+          "Announce what instruments will appear to avoid surprises.",
+          "Never claim medical outcomes; describe relaxation support."
         ]
       },
       {
         "h2": "Pacing structures",
         "paragraphs": [
-          "Open with sparse strikes, build midsection subtly, decrescendo into silence. Understanding Handpan for sound baths helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Leave thirty to sixty seconds of true quiet between movements. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Watch participants for discomfort; adjust dynamics. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan for sound baths helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel."
+          "Open with sparse strikes, build midsection subtly, decrescendo into silence.",
+          "Leave thirty to sixty seconds of true quiet between movements.",
+          "Watch participants for discomfort; adjust dynamics."
         ]
       },
       {
         "h2": "Logistics",
         "paragraphs": [
-          "Arrive early to test room resonance and chair layout. Understanding Handpan for sound baths helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Bring cloth for sweat and oil management after play. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Transport using rigid case to protect tuning before gigs. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan for sound baths helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel."
+          "Arrive early to test room resonance and chair layout.",
+          "Bring cloth for sweat and oil management after play.",
+          "Transport using rigid case to protect tuning before gigs."
         ]
       },
       {
         "h2": "Growing facilitator skills",
         "paragraphs": [
-          "Record practice sessions to time sustain gaps. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Handpan for sound baths helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Study other instruments to blend textures. Understanding Handpan for sound baths helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Commission scale chosen for bath mood, often minor and lyrical. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Record practice sessions to time sustain gaps.",
+          "Study other instruments to blend textures.",
+          "Commission scale chosen for bath mood, often minor and lyrical."
+        ]
+      },
+      {
+        "h2": "Ethics and expectations",
+        "paragraphs": [
+          "Describe sessions as relaxation support, not medical treatment. Clear consent about instruments, volume, and silence breaks protects participants and facilitators.",
+          "Handpans excel at sparse melodic beds. Pair with bowls or drones when rooms are large, and leave real quiet between phrases so nervous systems reset.",
+          "Commission scales with long sustain and smooth partials when baths are your primary income context."
         ]
       }
     ],
@@ -1019,41 +1169,49 @@ export default [
       {
         "h2": "What steel must do",
         "paragraphs": [
-          "Hold stable tension at note fields after hammer tuning. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Resist corrosion from skin chemistry and environment. Understanding Steel properties for melodic drums helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Respond to hammer work without cracking unpredictably. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing."
+          "Hold stable tension at note fields after hammer tuning.",
+          "Resist corrosion from skin chemistry and environment.",
+          "Respond to hammer work without cracking unpredictably."
         ]
       },
       {
         "h2": "Treatments and finishes",
         "paragraphs": [
-          "Nitriding, oil films, and stainless alloys each shift maintenance and timbre subtly. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Steel properties for melodic drums helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Compare nitrided versus stainless article for decision table. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Stillforge selects treatments per commission environment brief. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Nitriding, oil films, and stainless alloys each shift maintenance and timbre subtly.",
+          "Compare nitrided versus stainless article for decision table.",
+          "Stillforge selects treatments per commission environment brief."
         ]
       },
       {
         "h2": "Thickness and stiffness",
         "paragraphs": [
-          "Shell stiffness affects mode spacing and cross-talk. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Steel properties for melodic drums helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Tank forging introduces curvature and variable thickness makers manage by ear. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Avoid DIY thinning that weakens note borders. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Shell stiffness affects mode spacing and cross-talk.",
+          "Tank forging introduces curvature and variable thickness makers manage by ear.",
+          "Avoid DIY thinning that weakens note borders."
         ]
       },
       {
         "h2": "Testing and QC",
         "paragraphs": [
-          "Reputable makers test sustain decay and partial stability over weeks. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Document steel batch when possible for warranty support. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Buyers should ask about steel story transparently. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Steel properties for melodic drums helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Reputable makers test sustain decay and partial stability over weeks.",
+          "Document steel batch when possible for warranty support.",
+          "Buyers should ask about steel story transparently."
         ]
       },
       {
         "h2": "Player takeaway",
         "paragraphs": [
-          "Steel matters but tuning skill matters more for musical outcome. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Steel properties for melodic drums helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Care habits protect whichever alloy you choose. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Listen demos before debating metallurgy online. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Steel matters but tuning skill matters more for musical outcome.",
+          "Care habits protect whichever alloy you choose.",
+          "Listen demos before debating metallurgy online."
+        ]
+      },
+      {
+        "h2": "Stillforge material lens",
+        "paragraphs": [
+          "Tank steel brings known thickness and a forge narrative. It does not remove the need for heat treatment choices, oil plans, or hammer skill.",
+          "Nitrided and stainless routes each shift maintenance and timbre subtly. Read the nitrided versus stainless compare guide before you argue alloys online.",
+          "Material transparency helps warranty conversations. Ask where steel came from and how finishes were applied when you buy artisan work."
         ]
       }
     ],
@@ -1101,41 +1259,49 @@ export default [
       {
         "h2": "Fundamental versus partials",
         "paragraphs": [
-          "Fundamental is perceived pitch. Partials add color and sparkle. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Handpan fields tuned to align partials pleasantly unlike random pot hits. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Stillforge streamside tests listen for outdoor partial clarity. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Overtones and harmonics on steel helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Fundamental is perceived pitch. Partials add color and sparkle.",
+          "Handpan fields tuned to align partials pleasantly unlike random pot hits.",
+          "Stillforge streamside tests listen for outdoor partial clarity."
         ]
       },
       {
         "h2": "Beating and coupling",
         "paragraphs": [
-          "When two frequencies sit close, beating wobbles amplitude creating tremolo feel. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Overtones and harmonics on steel helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Controlled beating can be beautiful; uncontrolled reads as out of tune. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Neighboring notes exchange energy affecting perceived shimmer. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "When two frequencies sit close, beating wobbles amplitude creating tremolo feel.",
+          "Controlled beating can be beautiful; uncontrolled reads as out of tune.",
+          "Neighboring notes exchange energy affecting perceived shimmer."
         ]
       },
       {
         "h2": "Player influence",
         "paragraphs": [
-          "Strike location shifts partial emphasis without changing fundamental much. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Soft strikes reveal fundamental; harder strikes excite upper partials. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Practice dynamics to sculpt tone live. Understanding Overtones and harmonics on steel helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Strike location shifts partial emphasis without changing fundamental much.",
+          "Soft strikes reveal fundamental; harder strikes excite upper partials.",
+          "Practice dynamics to sculpt tone live."
         ]
       },
       {
         "h2": "Recording implications",
         "paragraphs": [
-          "Close mics capture attack; room mics capture harmonic bloom. Understanding Overtones and harmonics on steel helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Blend two mic positions for home studio realism. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "See recording guide for starter setups. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Overtones and harmonics on steel helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel."
+          "Close mics capture attack; room mics capture harmonic bloom.",
+          "Blend two mic positions for home studio realism.",
+          "See recording guide for starter setups."
         ]
       },
       {
         "h2": "Listening training",
         "paragraphs": [
-          "Hum along with sustained notes to internalize pitch relationships. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Compare maker demos on same headphones for overtone balance preferences. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Overtones and harmonics on steel helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Trust long-session comfort over flashy short demos. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Hum along with sustained notes to internalize pitch relationships.",
+          "Compare maker demos on same headphones for overtone balance preferences.",
+          "Trust long-session comfort over flashy short demos."
+        ]
+      },
+      {
+        "h2": "Listening exercise",
+        "paragraphs": [
+          "Strike one note and hum the pitch you hear first. That is the fundamental. Listen again for the shimmer above it: those are partials makers shape during tuning.",
+          "Move your strike from center to edge on the same note. Notice timbre change with little pitch shift. That is how players color lines without changing scales.",
+          "Record two mic positions, close and room, to learn how listeners perceive your overtones differently than your ears above the drum."
         ]
       }
     ],
@@ -1165,7 +1331,7 @@ export default [
       "handpan-care-and-rust-prevention",
       "playing-handpan-outdoors"
     ],
-    "schemaType": "Article",
+    "schemaType": "HowTo",
     "faqs": [
       {
         "q": "Can handpans go in airplane cabins?",
@@ -1184,41 +1350,55 @@ export default [
       {
         "h2": "Cases and padding",
         "paragraphs": [
-          "Rigid shells beat thin gig bags for air travel and tour vans. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Ensure note fields do not contact hard points. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Transporting and storing a handpan helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Backpack straps help hikers reach camp play spots. Understanding Transporting and storing a handpan helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Rigid shells beat thin gig bags for air travel and tour vans.",
+          "Ensure note fields do not contact hard points.",
+          "Backpack straps help hikers reach camp play spots."
         ]
       },
       {
         "h2": "Car travel",
         "paragraphs": [
-          "Strap case so it cannot roll. Never leave in hot sun unattended. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Transporting and storing a handpan helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Warm or cool car gradually before opening case in extreme weather. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Keep case closed in dusty gravel parking lots. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Transporting and storing a handpan helps you buy once and care for steel intelligently instead of guessing from forum myths."
+          "Strap case so it cannot roll. Never leave in hot sun unattended.",
+          "Warm or cool car gradually before opening case in extreme weather.",
+          "Keep case closed in dusty gravel parking lots."
         ]
       },
       {
         "h2": "Home storage",
         "paragraphs": [
-          "Indoor wall hooks exist but must protect rim and allow easy removal. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Avoid displaying in direct window sun daily. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Teach kids and pets boundaries if drum is accessible. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Transporting and storing a handpan helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Indoor wall hooks exist but must protect rim and allow easy removal.",
+          "Avoid displaying in direct window sun daily.",
+          "Teach kids and pets boundaries if drum is accessible."
         ]
       },
       {
         "h2": "Shipping",
         "paragraphs": [
-          "Double box, insure, video unboxing if buying remote. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Transporting and storing a handpan helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Read shipping cost guide for budget planning. Understanding Transporting and storing a handpan helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Contact maker if damage occurs immediately. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing."
+          "Double box, insure, video unboxing if buying remote.",
+          "Read shipping cost guide for budget planning.",
+          "Contact maker if damage occurs immediately."
         ]
       },
       {
         "h2": "Tour routines",
         "paragraphs": [
-          "Quick wipe after gigs, oil on schedule despite fatigue. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Transporting and storing a handpan helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Plan tuning contact at tour midpoint for heavy performers. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Stillforge owners can ask for travel-specific care handouts. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Quick wipe after gigs, oil on schedule despite fatigue.",
+          "Plan tuning contact at tour midpoint for heavy performers.",
+          "Stillforge owners can ask for travel-specific care handouts."
+        ]
+      },
+      {
+        "h2": "Travel day checklist",
+        "list": [
+          "Rigid case latched and padded away from note fields",
+          "Car strap so the case cannot roll on hard stops",
+          "Acclimate case indoors before opening in heat or cold",
+          "Insurance photos before shipping or flying",
+          "Wipe down and oil on schedule after arrival gigs"
+        ],
+        "paragraphs": [
+          "Impacts detune and crack glue seams. Climate shocks cause temporary pitch wander that looks like maker failure when it is storage failure.",
+          "Ask Stillforge about case pairings during commission so your first tour is not your first hard lesson."
         ]
       }
     ],
@@ -1247,7 +1427,7 @@ export default [
       "acoustic-vs-electronic-handpan",
       "building-a-daily-handpan-practice"
     ],
-    "schemaType": "Article",
+    "schemaType": "HowTo",
     "faqs": [
       {
         "q": "Phone enough to start?",
@@ -1266,41 +1446,49 @@ export default [
       {
         "h2": "Room basics",
         "paragraphs": [
-          "Soft furnishings reduce flutter echo. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Recording handpan at home helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Turn off HVAC noise during takes. Understanding Recording handpan at home helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Record same time of day for consistent ambient noise floor. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Soft furnishings reduce flutter echo.",
+          "Turn off HVAC noise during takes.",
+          "Record same time of day for consistent ambient noise floor."
         ]
       },
       {
         "h2": "Minimal gear chain",
         "paragraphs": [
-          "One large diaphragm condenser, audio interface, DAW you already know. Understanding Recording handpan at home helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Levels peak around negative twelve dBFS leaving headroom for transient strikes. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Use pop filter only if plosive air noise appears, uncommon on handpan. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Recording handpan at home helps you buy once and care for steel intelligently instead of guessing from forum myths."
+          "One large diaphragm condenser, audio interface, DAW you already know.",
+          "Levels peak around negative twelve dBFS leaving headroom for transient strikes.",
+          "Use pop filter only if plosive air noise appears, uncommon on handpan."
         ]
       },
       {
         "h2": "Performance technique for tape",
         "paragraphs": [
-          "Play softer than live gig to control transients. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Repeat passes and comp best moments if needed ethically in your style. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Recording handpan at home helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Leave silence at head and tail for editing handles. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Play softer than live gig to control transients.",
+          "Repeat passes and comp best moments if needed ethically in your style.",
+          "Leave silence at head and tail for editing handles."
         ]
       },
       {
         "h2": "Mix lightly",
         "paragraphs": [
-          "High-pass very gently if rumble exists. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Recording handpan at home helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Avoid aggressive compression that kills sustain beauty. Understanding Recording handpan at home helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Pan mono or subtle stereo if using two mics. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing."
+          "High-pass very gently if rumble exists.",
+          "Avoid aggressive compression that kills sustain beauty.",
+          "Pan mono or subtle stereo if using two mics."
         ]
       },
       {
         "h2": "Share and iterate",
         "paragraphs": [
-          "Upload private links for friend feedback before public release. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Compare recordings monthly to hear technique growth. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Recording handpan at home helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Stillforge play guides inspire new patterns to record. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity."
+          "Upload private links for friend feedback before public release.",
+          "Compare recordings monthly to hear technique growth.",
+          "Stillforge play guides inspire new patterns to record."
+        ]
+      },
+      {
+        "h2": "Starter signal chain",
+        "paragraphs": [
+          "One large diaphragm condenser into a simple interface is enough for honest demos. Fix the room with blankets before you buy more plugins.",
+          "Set levels conservatively. Handpan transients clip interfaces faster than speaking voice tests suggest.",
+          "Export mono unless you truly use a stereo pair with phase checked. Most social clips are mono anyway."
         ]
       }
     ],
@@ -1329,7 +1517,7 @@ export default [
       "why-streamside-music",
       "handpan-care-and-rust-prevention"
     ],
-    "schemaType": "Article",
+    "schemaType": "HowTo",
     "faqs": [
       {
         "q": "Does wind affect sound?",
@@ -1348,41 +1536,49 @@ export default [
       {
         "h2": "Why Stillforge tests streamside",
         "paragraphs": [
-          "Water and open sky reveal projection and overtone clarity honestly. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Outdoor voicing goals differ from boxy indoor tuning only. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Playing handpan outdoors helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Players feel this when first playing on porch versus bedroom. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear."
+          "Water and open sky reveal projection and overtone clarity honestly.",
+          "Outdoor voicing goals differ from boxy indoor tuning only.",
+          "Players feel this when first playing on porch versus bedroom."
         ]
       },
       {
         "h2": "Weather playbook",
         "paragraphs": [
-          "Sun: shade breaks, avoid leaving drum unattended. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Cold: warm hands, short sessions, acclimate case indoors before opening. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Rain: stop immediately, dry thoroughly, never play wet steel. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Playing handpan outdoors helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Sun: shade breaks, avoid leaving drum unattended.",
+          "Cold: warm hands, short sessions, acclimate case indoors before opening.",
+          "Rain: stop immediately, dry thoroughly, never play wet steel."
         ]
       },
       {
         "h2": "Sound in open air",
         "paragraphs": [
-          "Sustain feels shorter psychologically without walls; enjoy clarity instead. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Playing handpan outdoors helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Birds and water become part of performance; embrace imperfection. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Dynamics may need slight increase without hammering. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Sustain feels shorter psychologically without walls; enjoy clarity instead.",
+          "Birds and water become part of performance; embrace imperfection.",
+          "Dynamics may need slight increase without hammering."
         ]
       },
       {
         "h2": "Etiquette",
         "paragraphs": [
-          "Respect quiet hours and wildlife nesting areas. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Playing handpan outdoors helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel.",
-          "Invite passersby politely; stop if anyone shows distress. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Pack out trash from campsites after jam sessions. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you."
+          "Respect quiet hours and wildlife nesting areas.",
+          "Invite passersby politely; stop if anyone shows distress.",
+          "Pack out trash from campsites after jam sessions."
         ]
       },
       {
         "h2": "Gear to bring",
         "paragraphs": [
-          "Stand, case, cloth, sun hat, water for you not the drum. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Optional windscreen on recorder mic for film sessions. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Playing handpan outdoors helps you buy once and care for steel intelligently instead of guessing from forum myths.",
-          "Headlamp if playing civil twilight legally where you are. Understanding Playing handpan outdoors helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams."
+          "Stand, case, cloth, sun hat, water for you not the drum.",
+          "Optional windscreen on recorder mic for film sessions.",
+          "Headlamp if playing civil twilight legally where you are."
+        ]
+      },
+      {
+        "h2": "Streamside and trail etiquette",
+        "paragraphs": [
+          "Stillforge tests voicing outdoors because water and open sky change how partials read. Your porch may be the true reference room for a tank-forged drum.",
+          "Rain ends the session. Moisture on steel is an emergency, not a vibe. Pack immediately and dry thoroughly at home.",
+          "Keep volume modest near neighbors and wildlife. Acoustic instruments still carry farther over water at dawn."
         ]
       }
     ],
@@ -1411,7 +1607,7 @@ export default [
       "handpan-lessons-vs-self-taught",
       "instruments-for-people-who-hate-practice"
     ],
-    "schemaType": "Article",
+    "schemaType": "HowTo",
     "faqs": [
       {
         "q": "How many minutes daily?",
@@ -1430,41 +1626,72 @@ export default [
       {
         "h2": "Habit triggers",
         "paragraphs": [
-          "Play after coffee, after dog walk, or before bed brush teeth cue. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Visible stand in living space lowers friction. Understanding Building a daily handpan practice helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Phone in another room during micro-session. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing."
+          "Play after coffee, after dog walk, or before bed brush teeth cue.",
+          "Visible stand in living space lowers friction.",
+          "Phone in another room during micro-session."
         ]
       },
       {
         "h2": "Structure without rigidity",
         "paragraphs": [
-          "Minute one: single note sustains. Minute two: alternating pattern. Minute three: free improv. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity.",
-          "Stop while still enjoying sound to build craving return. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you.",
-          "Stillforge play guides offer weekly micro-challenges. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Building a daily handpan practice helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior."
+          "Minute one: single note sustains. Minute two: alternating pattern. Minute three: free improv.",
+          "Stop while still enjoying sound to build craving return.",
+          "Stillforge play guides offer weekly micro-challenges."
         ]
       },
       {
         "h2": "Gentle accountability",
         "paragraphs": [
-          "One friend text check-in weekly, not daily shame. Understanding Building a daily handpan practice helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams.",
-          "Record day seven and day thirty comparisons privately. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing.",
-          "Skip guilt on travel days; resume without doubling duration to catch up. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Building a daily handpan practice helps you buy once and care for steel intelligently instead of guessing from forum myths."
+          "One friend text check-in weekly, not daily shame.",
+          "Record day seven and day thirty comparisons privately.",
+          "Skip guilt on travel days; resume without doubling duration to catch up."
         ]
       },
       {
         "h2": "Health and hands",
         "paragraphs": [
-          "Stretch forearms, stop if sharp pain appears. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Building a daily handpan practice helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Hydrate in dry climates especially outdoors. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Lessons occasionally correct posture before bad habits cement. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Building a daily handpan practice helps you buy once and care for steel intelligently instead of guessing from forum myths."
+          "Stretch forearms, stop if sharp pain appears.",
+          "Hydrate in dry climates especially outdoors.",
+          "Lessons occasionally correct posture before bad habits cement."
         ]
       },
       {
         "h2": "Long arc",
         "paragraphs": [
-          "Months of micro-practice surprise players with composition ability. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Building a daily handpan practice helps you buy once and care for steel intelligently instead of guessing from forum myths. Transport and storage protect tuning investments. Rigid cases, gentle handling, and climate acclimation prevent costly surprises after travel. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior.",
-          "Perform only when it sounds fun, not obligatory. Stillforge documents prep steps on propane tanks because material honesty affects pitch stability and long-term rust behavior. Link this topic to daily play: choose scales and note counts that fit your real rooms, not only your aspirational performance dreams. Practice habits matter as much as specs: ten focused minutes daily beats rare marathon sessions that burn out curiosity. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear.",
-          "Commission second scale when first feels like home. Handpan-family instruments combine shell stiffness, field geometry, and overtone control. Small changes at the bench become large changes at the ear. Recording at home teaches you what listeners hear. Simple mics in quiet rooms reveal technique issues that feel fine while playing. Listen for clean fundamentals, balanced overtones, and stable decay on every note before you assume a scale is right for you. Understanding Building a daily handpan practice helps you buy once and care for steel intelligently instead of guessing from forum myths."
+          "Months of micro-practice surprise players with composition ability.",
+          "Perform only when it sounds fun, not obligatory.",
+          "Commission second scale when first feels like home."
+        ]
+      },
+      {
+        "h2": "Sample week of micro sessions",
+        "table": {
+          "headers": [
+            "Day",
+            "Focus"
+          ],
+          "rows": [
+            [
+              "Mon",
+              "Single-note sustain and dynamics"
+            ],
+            [
+              "Wed",
+              "Three-note alternating pattern"
+            ],
+            [
+              "Fri",
+              "Free improv, record 60 seconds"
+            ],
+            [
+              "Sun",
+              "Play along with one reference track"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Ten honest minutes beats a guilt-driven hour once a month. Stop while sound still feels good so tomorrow you want to return.",
+          "Link practice to an existing habit like coffee or evening tea. Visible stands beat closet cases for follow-through."
         ]
       }
     ],

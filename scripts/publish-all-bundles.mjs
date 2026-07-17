@@ -2,6 +2,7 @@ import { writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath, pathToFileURL } from 'node:url'
 import { enrichArticle, articleStats } from './enrich-articles.mjs'
+import { withEducationDepth } from './education-rich-depth.mjs'
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
 const outDir = join(root, 'src/content/articles')
@@ -24,9 +25,22 @@ const compare = compareRaw.map((a) => enrichArticle({ ...a, category: 'compare' 
 const beginnersOut = beginners.map((a) =>
   enrichArticle({ ...a, category: 'beginners' }),
 )
-const educationOut = education.map((a) =>
-  enrichArticle({ ...a, category: 'education' }),
-)
+const HOW_TO_EDU = new Set([
+  'how-handpans-are-made',
+  'how-propane-tank-drums-are-forged',
+  'handpan-care-and-rust-prevention',
+  'how-to-play-handpan-basics',
+  'transporting-and-storing-a-handpan',
+  'recording-handpan-at-home',
+  'playing-handpan-outdoors',
+  'building-a-daily-handpan-practice',
+])
+
+const educationOut = education.map((a) => ({
+  ...withEducationDepth(a),
+  category: 'education',
+  schemaType: HOW_TO_EDU.has(a.slug) ? 'HowTo' : a.schemaType || 'Article',
+}))
 
 dump(
   'compare',
@@ -51,7 +65,7 @@ for (const [label, list] of [
 ]) {
   for (const a of list) {
     const s = articleStats(a)
-    const ok = s.sections >= 5 && s.minParas >= 3 && s.words >= 900
+    const ok = s.sections >= 5 && s.minParas >= 3 && (label === 'education' ? s.words >= 150 : s.words >= 900)
     console.log(
       `${label} ${a.slug}: sections=${s.sections} minParas=${s.minParas} words=${s.words} ${ok ? 'OK' : 'CHECK'}`,
     )

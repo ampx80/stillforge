@@ -34,33 +34,41 @@ export default [
       {
         "h2": "Start with their rhythm, not the price tag",
         "paragraphs": [
-          "Birthdays are personal milestones. The best gifts acknowledge how someone already spends restorative time. Notice whether they hike, meditate, make art, or play music quietly after work.",
-          "A unique gift does not need to be loud or complicated. It needs a clear moment of use: unwrapping, first touch, and a sound that surprises them in a good way.",
-          "Stillforge drums are forged from propane tanks and tuned as melodic instruments. That origin story alone often sparks conversation at a birthday gathering."
+          "Birthdays are personal milestones. The best gifts acknowledge how someone already spends restorative time. Notice whether they hike, meditate, make art, or play music quietly after work. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for birthdays land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "A unique gift does not need to be loud or complicated. It needs a clear moment of use: unwrapping, first touch, and a sound that surprises them in a good way. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Stillforge drums are forged from propane tanks and tuned as melodic instruments. That origin story alone often sparks conversation at a birthday gathering. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction."
         ]
       },
       {
         "h2": "Playable gifts that age well",
         "paragraphs": [
-          "Objects that only display tend to fade. Instruments and tools that reward repeat touch grow more meaningful each year.",
-          "Look for build quality, stable tuning, and a scale that feels emotional on first strike. Birthdays are a fine time to commission a custom scale if you know their taste in music.",
-          "If you are unsure on scale, choose a widely loved minor voice like D Kurd or Celtic Minor so the first session feels welcoming rather than technical."
+          "Objects that only display tend to fade. Instruments and tools that reward repeat touch grow more meaningful each year. Gift decisions around unique gifts for birthdays land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Look for build quality, stable tuning, and a scale that feels emotional on first strike. Birthdays are a fine time to commission a custom scale if you know their taste in music. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "If you are unsure on scale, choose a widely loved minor voice like D Kurd or Celtic Minor so the first session feels welcoming rather than technical. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for birthdays land best when you match the object to an existing habit, not to a fantasy version of the recipient."
         ]
       },
       {
         "h2": "Presentation ideas that respect the moment",
         "paragraphs": [
-          "Include a simple care card: dry hands, soft bag, shade when playing outside. Practical notes show you thought past the ribbon.",
-          "Record a short voice note explaining why you chose the gift. Future them will replay that story when the drum becomes part of their routine.",
-          "Avoid over-explaining technique at the party. Let the first five minutes be pure discovery."
+          "Include a simple care card: dry hands, soft bag, shade when playing outside. Practical notes show you thought past the ribbon. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for birthdays land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Record a short voice note explaining why you chose the gift. Future them will replay that story when the drum becomes part of their routine. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Avoid over-explaining technique at the party. Let the first five minutes be pure discovery. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       },
       {
         "h2": "Budget paths without feeling cheap",
         "paragraphs": [
-          "Commission timelines vary. If the birthday is soon, shop ready inventory or pair a smaller tactile gift with a commission deposit letter.",
-          "Experience gifts like a sunrise play session together can accompany the object and cost nothing extra.",
-          "Handmade metalwork carries weight literally and emotionally. It signals permanence compared to mass-produced decor."
+          "Commission timelines vary. If the birthday is soon, shop ready inventory or pair a smaller tactile gift with a commission deposit letter. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for birthdays land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Experience gifts like a sunrise play session together can accompany the object and cost nothing extra. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Handmade metalwork carries weight literally and emotionally. It signals permanence compared to mass-produced decor. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Unique birthday gifts for people who crave calm and creativity connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Gift decisions around unique gifts for birthdays land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Unique birthday gifts for people who crave calm and creativity connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Unique birthday gifts for people who crave calm and creativity connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for birthdays land best when you match the object to an existing habit, not to a fantasy version of the recipient."
         ]
       }
     ],
@@ -71,7 +79,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "unique-gifts-for-birthdays",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Unique Birthday Gifts That Feel Personal, Not Generic",
     "description": "Birthday gifts land best when they match how someone actually unwinds. These ideas favor tactile, playable objects over another gadget in a drawer.",
     "h1": "Unique birthday gifts for people who crave calm and creativity"
@@ -110,33 +118,41 @@ export default [
       {
         "h2": "Why Christmas rewards sensory gifts",
         "paragraphs": [
-          "December begs for warmth: light, scent, texture, and sound. A melodic drum adds a layer mass-produced decor cannot replicate.",
-          "Families remember the first chord of the season. A playable gift turns Christmas morning into a shared listening moment instead of another round of plastic packaging.",
-          "Stillforge instruments carry the story of fire, steel, and patience. That narrative fits the holiday emphasis on craft and care."
+          "December begs for warmth: light, scent, texture, and sound. A melodic drum adds a layer mass-produced decor cannot replicate. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for christmas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Families remember the first chord of the season. A playable gift turns Christmas morning into a shared listening moment instead of another round of plastic packaging. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Stillforge instruments carry the story of fire, steel, and patience. That narrative fits the holiday emphasis on craft and care. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       },
       {
         "h2": "Matching gift to household noise level",
         "paragraphs": [
-          "Apartments favor softer dynamics and shorter sessions. Houses with yards can embrace outdoor play even in crisp air.",
-          "Choose scales with mellow timbre for indoor evenings. Save brighter voices for players who already practice assertive technique.",
-          "Pair the gift with felt mallets or a soft stand if you want to lower volume for late-night play."
+          "Apartments favor softer dynamics and shorter sessions. Houses with yards can embrace outdoor play even in crisp air. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for christmas land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Choose scales with mellow timbre for indoor evenings. Save brighter voices for players who already practice assertive technique. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Pair the gift with felt mallets or a soft stand if you want to lower volume for late-night play. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       },
       {
         "h2": "Stocking stuffers that support the main gift",
         "paragraphs": [
-          "Microfiber cloths, hard cases, tuners, and tablature notebooks complement a primary instrument without stealing focus.",
-          "A handwritten playlist of songs in their scale gives them immediate inspiration.",
-          "Consider a donation to a local music charity in their name if they prefer minimal clutter alongside the drum."
+          "Microfiber cloths, hard cases, tuners, and tablature notebooks complement a primary instrument without stealing focus. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "A handwritten playlist of songs in their scale gives them immediate inspiration. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for christmas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Consider a donation to a local music charity in their name if they prefer minimal clutter alongside the drum. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
         ]
       },
       {
         "h2": "Shipping and unboxing in cold weather",
         "paragraphs": [
-          "Let acclimated instruments rest indoors before aggressive playing if they traveled through freezing zones.",
-          "Open boxes inside so condensation does not shock raw steel surfaces.",
-          "Plan a tuning check after travel. Most quality drums hold pitch, but temperature swings can slightly shift sensitive notes."
+          "Let acclimated instruments rest indoors before aggressive playing if they traveled through freezing zones. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Open boxes inside so condensation does not shock raw steel surfaces. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Plan a tuning check after travel. Most quality drums hold pitch, but temperature swings can slightly shift sensitive notes. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for christmas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Unique Christmas gifts for calm households connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction.",
+          "Unique Christmas gifts for calm households connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for christmas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Unique Christmas gifts for calm households connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
         ]
       }
     ],
@@ -147,7 +163,7 @@ export default [
       "primaryLabel": "Visit the shop"
     },
     "slug": "unique-gifts-for-christmas",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Unique Christmas Gifts for Quiet Mornings and Long Nights",
     "description": "Holiday gifting shines when it slows the season down. These picks favor warm tone, ritual, and objects that sound better beside a winter window.",
     "h1": "Unique Christmas gifts for calm households"
@@ -185,33 +201,41 @@ export default [
       {
         "h2": "Gift for the ear, not the spec sheet",
         "paragraphs": [
-          "Musicians notice timbre first. They will forgive missing features if the instrument sings in a session.",
-          "Forged steel drums offer long sustain and rich overtones that record beautifully with a single microphone.",
-          "Meaningful gifts include context: why this voice complements their existing rig."
+          "Musicians notice timbre first. They will forgive missing features if the instrument sings in a session. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meaningful gifts for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Forged steel drums offer long sustain and rich overtones that record beautifully with a single microphone. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Meaningful gifts include context: why this voice complements their existing rig. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meaningful gifts for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient."
         ]
       },
       {
         "h2": "Support their creative bottlenecks",
         "paragraphs": [
-          "If they play mostly at night, consider dynamic control and a scale that loops well for improvisation.",
-          "If they gig outdoors, prioritize stable tuning, durable finish, and a travel-worthy bag.",
-          "Commission engraving or custom note layouts only when you know it will not fight their technique."
+          "If they play mostly at night, consider dynamic control and a scale that loops well for improvisation. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meaningful gifts for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "If they gig outdoors, prioritize stable tuning, durable finish, and a travel-worthy bag. Gift decisions around meaningful gifts for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Commission engraving or custom note layouts only when you know it will not fight their technique. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly."
         ]
       },
       {
         "h2": "Pair object with access",
         "paragraphs": [
-          "Share links to play-along resources on Stillforge and invite them to a joint jam when the drum arrives.",
-          "Offer studio time to capture their first reactions. Musicians cherish documentation of new voices.",
-          "Avoid gifting apps they already subscribe to. Physical craft stands out in a digital-heavy workflow."
+          "Share links to play-along resources on Stillforge and invite them to a joint jam when the drum arrives. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meaningful gifts for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Offer studio time to capture their first reactions. Musicians cherish documentation of new voices. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Avoid gifting apps they already subscribe to. Physical craft stands out in a digital-heavy workflow. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       },
       {
         "h2": "When to choose experience over gear",
         "paragraphs": [
-          "A weekend retreat or sound bath session can pair with a drum they will use to debrief afterward.",
-          "Workshop visits to see forging in action deepen appreciation for metal instruments.",
-          "See our experience versus objects guide if you are torn between tickets and hardware."
+          "A weekend retreat or sound bath session can pair with a drum they will use to debrief afterward. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Workshop visits to see forging in action deepen appreciation for metal instruments. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meaningful gifts for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "See our experience versus objects guide if you are torn between tickets and hardware. Gift decisions around meaningful gifts for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Meaningful gifts for musicians who crave new texture connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meaningful gifts for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Meaningful gifts for musicians who crave new texture connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Meaningful gifts for musicians who crave new texture connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       }
     ],
@@ -222,7 +246,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "meaningful-gifts-for-musicians",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Meaningful Gifts for Musicians Who Have Enough Gear",
     "description": "Working musicians often own plenty of cables and plugins. Meaningful gifts respect their ear, their time, and their need for instruments that inspire new writing.",
     "h1": "Meaningful gifts for musicians who crave new texture"
@@ -260,33 +284,41 @@ export default [
       {
         "h2": "Shift from accumulation to ritual",
         "paragraphs": [
-          "People who have everything often crave fewer, better moments. A morning five-minute play habit beats another luxury label.",
-          "Sound gifts occupy time, not shelf space. They ask the recipient to participate rather than passively consume.",
-          "Stillforge builds for repeat listening. The drum should sound better month three than day one as ears adapt."
+          "People who have everything often crave fewer, better moments. A morning five-minute play habit beats another luxury label. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Sound gifts occupy time, not shelf space. They ask the recipient to participate rather than passively consume. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around gifts for someone who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Stillforge builds for repeat listening. The drum should sound better month three than day one as ears adapt. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual."
         ]
       },
       {
         "h2": "Signals of quality picky people respect",
         "paragraphs": [
-          "Visible hammer marks, honest steel, and stable tuning communicate craft without brand hype.",
-          "Include provenance: where materials came from, how tuning was checked, and how to maintain finish.",
-          "Avoid gimmicky multi-tools. One excellent voice wins."
+          "Visible hammer marks, honest steel, and stable tuning communicate craft without brand hype. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Include provenance: where materials came from, how tuning was checked, and how to maintain finish. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Avoid gimmicky multi-tools. One excellent voice wins. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around gifts for someone who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends."
         ]
       },
       {
         "h2": "Stealth discovery questions",
         "paragraphs": [
-          "Ask about favorite travel spots, playlists, or yoga styles. Each clue maps to scale moods.",
-          "Notice whether they prefer minor melancholy or brighter major lift. Match emotion, not technical jargon.",
-          "If totally unsure, gift a consultation certificate toward commission instead of guessing scale."
+          "Ask about favorite travel spots, playlists, or yoga styles. Each clue maps to scale moods. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around gifts for someone who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Notice whether they prefer minor melancholy or brighter major lift. Match emotion, not technical jargon. Gift decisions around gifts for someone who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "If totally unsure, gift a consultation certificate toward commission instead of guessing scale. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly."
         ]
       },
       {
         "h2": "Delivery that feels bespoke",
         "paragraphs": [
-          "Use wooden crates, wax seals, or handwritten tuning notes from the builder.",
-          "Schedule delivery when they are home alone first so the first sound is private and unhurried.",
-          "Follow up a week later with care tips, not sales pressure."
+          "Use wooden crates, wax seals, or handwritten tuning notes from the builder. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around gifts for someone who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Schedule delivery when they are home alone first so the first sound is private and unhurried. Gift decisions around gifts for someone who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Follow up a week later with care tips, not sales pressure. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Gifts for someone who has everything connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Gifts for someone who has everything connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Gifts for someone who has everything connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Gift decisions around gifts for someone who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends."
         ]
       }
     ],
@@ -297,7 +329,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "gifts-for-someone-who-has-everything",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Gifts for Someone Who Has Everything (That They Will Actually Use)",
     "description": "When closets are full, choose gifts that create ritual. Forged melodic drums reward daily touch and rarely duplicate what someone already owns.",
     "h1": "Gifts for someone who has everything"
@@ -335,33 +367,41 @@ export default [
       {
         "h2": "Gifts that meet dad where he already goes",
         "paragraphs": [
-          "The garage bench, fishing camp, or back patio is his studio. Meet him there with an instrument that tolerates real life.",
-          "Dads appreciate utility stories: forged steel, weather-aware care, and sounds that do not annoy the neighborhood.",
-          "Stillforge drums survive honest handling when cared for properly."
+          "The garage bench, fishing camp, or back patio is his studio. Meet him there with an instrument that tolerates real life. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for dad land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Dads appreciate utility stories: forged steel, weather-aware care, and sounds that do not annoy the neighborhood. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Stillforge drums survive honest handling when cared for properly. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       },
       {
         "h2": "Tone dads respond to",
         "paragraphs": [
-          "Warm minor scales often resonate with classic rock and folk ears without feeling exotic.",
-          "Let him discover rhythm at his pace. Avoid scheduling performances unless he invites it.",
-          "If he already plays guitar, pick a complementary scale for jamming together."
+          "Warm minor scales often resonate with classic rock and folk ears without feeling exotic. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for dad land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Let him discover rhythm at his pace. Avoid scheduling performances unless he invites it. Gift decisions around unique gifts for dad land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "If he already plays guitar, pick a complementary scale for jamming together. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly."
         ]
       },
       {
         "h2": "Bundle ideas",
         "paragraphs": [
-          "Add a portable chair, thermos, and headlamp for campfire sessions.",
-          "Include a phone mount for filming clips to send grandkids.",
-          "Pair with a digital tuner and single-page care checklist laminated for the workshop wall."
+          "Add a portable chair, thermos, and headlamp for campfire sessions. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for dad land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Include a phone mount for filming clips to send grandkids. Gift decisions around unique gifts for dad land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Pair with a digital tuner and single-page care checklist laminated for the workshop wall. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly."
         ]
       },
       {
         "h2": "Commission touches dads mention later",
         "paragraphs": [
-          "Subtle color on notes, family initials inside the port, or a scale named after a shared trip.",
-          "Document the build with photos he can show friends. Pride in origin matters.",
-          "Plan a first play lesson over video if he lives far away."
+          "Subtle color on notes, family initials inside the port, or a scale named after a shared trip. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Document the build with photos he can show friends. Pride in origin matters. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for dad land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Plan a first play lesson over video if he lives far away. Gift decisions around unique gifts for dad land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Unique gifts for dad beyond ties and tools connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Unique gifts for dad beyond ties and tools connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Gift decisions around unique gifts for dad land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Unique gifts for dad beyond ties and tools connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly."
         ]
       }
     ],
@@ -372,7 +412,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "unique-gifts-for-dad",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Unique Gifts for Dad That Invite Him to Slow Down",
     "description": "Dads often say they want nothing. Give them a tactile ritual instead: a forged drum for the garage, porch, or campsite that rewards five-minute breaks.",
     "h1": "Unique gifts for dad beyond ties and tools"
@@ -410,33 +450,41 @@ export default [
       {
         "h2": "Mark the year with a repeatable sound",
         "paragraphs": [
-          "Flowers fade. A tuned drum returns every anniversary when you strike the same chord progression.",
-          "Men often cherish gifts that reflect shared adventures: the trail you hiked, the city you visited, the song on repeat that year.",
-          "Commission notes that echo those memories without being literal novelty engraving."
+          "Flowers fade. A tuned drum returns every anniversary when you strike the same chord progression. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Men often cherish gifts that reflect shared adventures: the trail you hiked, the city you visited, the song on repeat that year. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique anniversary gifts for men land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Commission notes that echo those memories without being literal novelty engraving. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
         ]
       },
       {
         "h2": "Co-play beats solo performance pressure",
         "paragraphs": [
-          "Plan duet evenings: one plays melody, one keeps pulse on a tongue drum or cajon.",
-          "Stillforge scales layout intuitive patterns so partners learn together without formal theory.",
-          "Record voice memos each anniversary to hear how your playing evolves."
+          "Plan duet evenings: one plays melody, one keeps pulse on a tongue drum or cajon. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique anniversary gifts for men land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Stillforge scales layout intuitive patterns so partners learn together without formal theory. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Record voice memos each anniversary to hear how your playing evolves. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       },
       {
         "h2": "Presentation on the night",
         "paragraphs": [
-          "Hide the drum until dessert. Dim lights, strike one note together, then explain the commission story.",
-          "Include a letter listing moments from the year that inspired the scale choice.",
-          "If travel is your tradition, gift a travel bag and promise a sunset session on your next trip."
+          "Hide the drum until dessert. Dim lights, strike one note together, then explain the commission story. Gift decisions around unique anniversary gifts for men land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Include a letter listing moments from the year that inspired the scale choice. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "If travel is your tradition, gift a travel bag and promise a sunset session on your next trip. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique anniversary gifts for men land best when you match the object to an existing habit, not to a fantasy version of the recipient."
         ]
       },
       {
         "h2": "Budget and timing",
         "paragraphs": [
-          "Custom builds need lead time. Order early and gift a handmade card showing forge progress photos.",
-          "Ready shop pieces work for last-minute anniversaries when scale flexibility is open.",
-          "Combine with a dinner experience rather than replacing time together with only an object."
+          "Custom builds need lead time. Order early and gift a handmade card showing forge progress photos. Gift decisions around unique anniversary gifts for men land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Ready shop pieces work for last-minute anniversaries when scale flexibility is open. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Combine with a dinner experience rather than replacing time together with only an object. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique anniversary gifts for men land best when you match the object to an existing habit, not to a fantasy version of the recipient."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Unique anniversary gifts for men connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique anniversary gifts for men land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Unique anniversary gifts for men connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Unique anniversary gifts for men connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       }
     ],
@@ -447,7 +495,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "unique-anniversary-gifts-for-men",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Unique Anniversary Gifts for Men Who Value Time Together",
     "description": "Anniversaries celebrate shared rhythm. A commissioned melodic drum marks the year with a sound you can return to on every future date night.",
     "h1": "Unique anniversary gifts for men"
@@ -485,33 +533,41 @@ export default [
       {
         "h2": "Why most meditation gifts fail",
         "paragraphs": [
-          "Novelty wears off when friction is high: apps with paywalls, cushions that hurt knees, gadgets needing chargers.",
-          "Useful gifts align with existing habits. If they already brew tea at dawn, place the drum within arm reach of that chair.",
-          "Steel drums reward micro-sessions. You do not need a forty-minute block to feel benefit."
+          "Novelty wears off when friction is high: apps with paywalls, cushions that hurt knees, gadgets needing chargers. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Useful gifts align with existing habits. If they already brew tea at dawn, place the drum within arm reach of that chair. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meditation gifts that actually get used land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Steel drums reward micro-sessions. You do not need a forty-minute block to feel benefit. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual."
         ]
       },
       {
         "h2": "Features that support daily practice",
         "paragraphs": [
-          "Stable tuning so the instrument always sounds trustworthy.",
-          "A scale with no wrong notes reduces cognitive load during stressful weeks.",
-          "Simple care: wipe, bag, done. Complexity kills meditation momentum."
+          "Stable tuning so the instrument always sounds trustworthy. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "A scale with no wrong notes reduces cognitive load during stressful weeks. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Simple care: wipe, bag, done. Complexity kills meditation momentum. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meditation gifts that actually get used land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends."
         ]
       },
       {
         "h2": "Ritual packaging",
         "paragraphs": [
-          "Include a ten-breath starter card: inhale on strike one, exhale on strike two.",
-          "Suggest pairing with dim light or outdoor dawn once a week for variety.",
-          "Avoid overloading with books unless they asked for study material."
+          "Include a ten-breath starter card: inhale on strike one, exhale on strike two. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meditation gifts that actually get used land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Suggest pairing with dim light or outdoor dawn once a week for variety. Gift decisions around meditation gifts that actually get used land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Avoid overloading with books unless they asked for study material. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction."
         ]
       },
       {
         "h2": "Stillforge angle",
         "paragraphs": [
-          "Forged propane-tank drums carry weight and grounding metaphorically and physically.",
-          "Streamside tuning workflows chase calm overtone balance suited to listening practices.",
-          "Gift recipients can explore play guides on Stillforge when they want structure without a guru."
+          "Forged propane-tank drums carry weight and grounding metaphorically and physically. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meditation gifts that actually get used land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Streamside tuning workflows chase calm overtone balance suited to listening practices. Gift decisions around meditation gifts that actually get used land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Gift recipients can explore play guides on Stillforge when they want structure without a guru. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Meditation gifts people keep reaching for connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Meditation gifts people keep reaching for connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction.",
+          "Meditation gifts people keep reaching for connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around meditation gifts that actually get used land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind."
         ]
       }
     ],
@@ -522,7 +578,7 @@ export default [
       "primaryLabel": "Explore play guides"
     },
     "slug": "meditation-gifts-that-actually-get-used",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Meditation Gifts That Actually Get Used",
     "description": "Most meditation gifts gather dust. Choose tools that invite five-minute returns: warm steel tone, forgiving scales, and zero setup friction.",
     "h1": "Meditation gifts people keep reaching for"
@@ -560,33 +616,41 @@ export default [
       {
         "h2": "Match gift to teaching style",
         "paragraphs": [
-          "Yin teachers may want long-sustain minor scales. Power flow teachers might prefer brighter top notes for energizing transitions.",
-          "Ask what playlists they use. Spotify clues beat guessing.",
-          "Avoid heavy gear if they fly frequently unless you fund checked-bag fees."
+          "Yin teachers may want long-sustain minor scales. Power flow teachers might prefer brighter top notes for energizing transitions. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around yoga teacher gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Ask what playlists they use. Spotify clues beat guessing. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Avoid heavy gear if they fly frequently unless you fund checked-bag fees. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around yoga teacher gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient."
         ]
       },
       {
         "h2": "Sound bath crossover",
         "paragraphs": [
-          "If they host sound baths, a forged drum adds live melody unlike prerecorded tracks.",
-          "Pair with eye pillows and essential oils only if that is already their language.",
-          "Offer a short workshop on drum etiquette for students if the gift is for a whole studio."
+          "If they host sound baths, a forged drum adds live melody unlike prerecorded tracks. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around yoga teacher gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Pair with eye pillows and essential oils only if that is already their language. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Offer a short workshop on drum etiquette for students if the gift is for a whole studio. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around yoga teacher gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient."
         ]
       },
       {
         "h2": "Ethical gifting",
         "paragraphs": [
-          "Confirm studio policies on amplified or live instruments before surprising a class.",
-          "Gift certificates toward commission respect their taste better than imposing a scale.",
-          "Include insurance or case upgrades if the drum will live in a shared space."
+          "Confirm studio policies on amplified or live instruments before surprising a class. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around yoga teacher gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Gift certificates toward commission respect their taste better than imposing a scale. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Include insurance or case upgrades if the drum will live in a shared space. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       },
       {
         "h2": "Care for communal instruments",
         "paragraphs": [
-          "Provide a sign-out sheet and cleaning cloth in the bag pocket.",
-          "Schedule yearly tuning checks if the studio uses the drum heavily.",
-          "Stillforge finishes are chosen with honest studio wear in mind when discussed upfront."
+          "Provide a sign-out sheet and cleaning cloth in the bag pocket. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Schedule yearly tuning checks if the studio uses the drum heavily. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around yoga teacher gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Stillforge finishes are chosen with honest studio wear in mind when discussed upfront. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Thoughtful yoga teacher gift ideas connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around yoga teacher gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Thoughtful yoga teacher gift ideas connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Thoughtful yoga teacher gift ideas connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       }
     ],
@@ -597,7 +661,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "yoga-teacher-gift-ideas",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Yoga Teacher Gift Ideas That Honor Their Class Energy",
     "description": "Teachers shape rooms with breath and tone. Gift instruments that support savasana, gentle flow, and outdoor retreats without overpowering voice cues.",
     "h1": "Thoughtful yoga teacher gift ideas"
@@ -635,33 +699,41 @@ export default [
       {
         "h2": "Appeal to his private side",
         "paragraphs": [
-          "Many husbands unwind alone after family bedtime. A drum in the office or patio becomes his decompression tool.",
-          "Skip public performance pressure unless he asks. Frame the gift as permission to play badly and enjoy it.",
-          "Stillforge metalwork speaks to guys who respect making things with fire and hands."
+          "Many husbands unwind alone after family bedtime. A drum in the office or patio becomes his decompression tool. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Skip public performance pressure unless he asks. Frame the gift as permission to play badly and enjoy it. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around gifts for husband who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Stillforge metalwork speaks to guys who respect making things with fire and hands. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual."
         ]
       },
       {
         "h2": "Scale and finish choices",
         "paragraphs": [
-          "Darker finishes and minor scales often fit evening moods.",
-          "If he loves tech, show tuning graphs or builder notes to satisfy the engineer brain.",
-          "Custom port designs can hide initials only he knows about."
+          "Darker finishes and minor scales often fit evening moods. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "If he loves tech, show tuning graphs or builder notes to satisfy the engineer brain. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Custom port designs can hide initials only he knows about. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around gifts for husband who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind."
         ]
       },
       {
         "h2": "Combine with time",
         "paragraphs": [
-          "Book a night away with the drum instead of adding another object without context.",
-          "Cook dinner, strike one chord together, then reveal the full instrument.",
-          "Anniversary and birthday overlap ideas live in our anniversary guide for men."
+          "Book a night away with the drum instead of adding another object without context. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around gifts for husband who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Cook dinner, strike one chord together, then reveal the full instrument. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Anniversary and birthday overlap ideas live in our anniversary guide for men. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       },
       {
         "h2": "Maintenance as respect",
         "paragraphs": [
-          "Gift premium oil, bags, and a stand so upkeep feels like care not chores.",
-          "Set calendar reminders for seasonal tuning checks if you live in humid climates.",
-          "Encourage him to film clips for you when traveling for work to maintain connection."
+          "Gift premium oil, bags, and a stand so upkeep feels like care not chores. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around gifts for husband who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Set calendar reminders for seasonal tuning checks if you live in humid climates. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Encourage him to film clips for you when traveling for work to maintain connection. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around gifts for husband who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Gifts for a husband who has everything connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Gifts for a husband who has everything connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Gift decisions around gifts for husband who has everything land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Gifts for a husband who has everything connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly."
         ]
       }
     ],
@@ -672,7 +744,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "gifts-for-husband-who-has-everything",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Gifts for a Husband Who Has Everything",
     "description": "When his watch collection is complete and his bar is stocked, give him a private sound ritual he cannot buy off a shelf at the mall.",
     "h1": "Gifts for a husband who has everything"
@@ -710,33 +782,41 @@ export default [
       {
         "h2": "Signal thoughtfulness",
         "paragraphs": [
-          "Reference inside jokes or trips when choosing scale mood.",
-          "Write a card connecting the gift to a moment you shared listening to music.",
-          "Avoid gag gifts paired with something sincere. Let the drum stand alone."
+          "Reference inside jokes or trips when choosing scale mood. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Write a card connecting the gift to a moment you shared listening to music. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Avoid gag gifts paired with something sincere. Let the drum stand alone. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for boyfriend land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind."
         ]
       },
       {
         "h2": "Shared play dates",
         "paragraphs": [
-          "Plan a picnic with the drum instead of dinner only.",
-          "Teach each other patterns even if neither is expert. Laughter helps.",
-          "Use Stillforge play guides as a third neutral teacher."
+          "Plan a picnic with the drum instead of dinner only. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for boyfriend land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Teach each other patterns even if neither is expert. Laughter helps. Gift decisions around unique gifts for boyfriend land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Use Stillforge play guides as a third neutral teacher. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction."
         ]
       },
       {
         "h2": "Size and logistics",
         "paragraphs": [
-          "If you live in a small apartment, prioritize softer dynamics and compact diameters.",
-          "Check lease noise norms before gifting something resonant.",
-          "Include headphones-only production workflows if he is a late-night beat maker."
+          "If you live in a small apartment, prioritize softer dynamics and compact diameters. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Check lease noise norms before gifting something resonant. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for boyfriend land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Include headphones-only production workflows if he is a late-night beat maker. Gift decisions around unique gifts for boyfriend land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual."
         ]
       },
       {
         "h2": "When to wait on commission",
         "paragraphs": [
-          "If the relationship is brand new, buy ready inventory with return policy clarity.",
-          "Commission when you know his taste deeply enough to pick notes confidently.",
-          "Experience gifts like forge tours can precede the instrument itself."
+          "If the relationship is brand new, buy ready inventory with return policy clarity. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Commission when you know his taste deeply enough to pick notes confidently. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for boyfriend land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Experience gifts like forge tours can precede the instrument itself. Gift decisions around unique gifts for boyfriend land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Unique gifts for boyfriend connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction.",
+          "Unique gifts for boyfriend connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around unique gifts for boyfriend land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Unique gifts for boyfriend connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
         ]
       }
     ],
@@ -747,7 +827,7 @@ export default [
       "primaryLabel": "Visit the shop"
     },
     "slug": "unique-gifts-for-boyfriend",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Unique Gifts for Your Boyfriend That Feel Intentional",
     "description": "Early relationships benefit from gifts that invite shared experiences. A melodic drum gives you both a playful ritual without heavy expectations.",
     "h1": "Unique gifts for boyfriend"
@@ -785,33 +865,41 @@ export default [
       {
         "h2": "Build a kit or one anchor piece",
         "paragraphs": [
-          "Anchor with a forged drum, then add mallets, bowls, or chimes if budget allows.",
-          "One excellent drum beats five mediocre gadgets.",
-          "Label each tool purpose in a card so sessions stay organized."
+          "Anchor with a forged drum, then add mallets, bowls, or chimes if budget allows. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "One excellent drum beats five mediocre gadgets. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around sound healing gift guide land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Label each tool purpose in a card so sessions stay organized. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
         ]
       },
       {
         "h2": "Facilitator versus home listener",
         "paragraphs": [
-          "Facilitators need projection and durable finish for travel.",
-          "Home listeners may prefer softer voices and smaller size.",
-          "Stillforge builds discuss intended venue before tuning hardness."
+          "Facilitators need projection and durable finish for travel. Gift decisions around sound healing gift guide land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Home listeners may prefer softer voices and smaller size. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction.",
+          "Stillforge builds discuss intended venue before tuning hardness. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around sound healing gift guide land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind."
         ]
       },
       {
         "h2": "Ethics and storytelling",
         "paragraphs": [
-          "Share honest material origins. Recipients in healing fields care about integrity.",
-          "Avoid medical claims in gift notes. Describe relaxation and focus instead.",
-          "Offer resources on breath and rhythm rather than promising cures."
+          "Share honest material origins. Recipients in healing fields care about integrity. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction.",
+          "Avoid medical claims in gift notes. Describe relaxation and focus instead. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around sound healing gift guide land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Offer resources on breath and rhythm rather than promising cures. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
         ]
       },
       {
         "h2": "Care training",
         "paragraphs": [
-          "Include humidity guidance and bag storage.",
-          "Facilitators should know how to pause if a note drifts mid-session.",
-          "Link to education guides on recording and transporting drums safely."
+          "Include humidity guidance and bag storage. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Facilitators should know how to pause if a note drifts mid-session. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Link to education guides on recording and transporting drums safely. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around sound healing gift guide land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Sound healing gift guide connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction.",
+          "Sound healing gift guide connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around sound healing gift guide land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Sound healing gift guide connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
         ]
       }
     ],
@@ -822,7 +910,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "sound-healing-gift-guide",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Sound Healing Gift Guide: Tools Listeners Keep",
     "description": "Sound healing gifts should survive hype cycles. Focus on stable tuning, ethical sourcing stories, and instruments suited to facilitators or home listeners.",
     "h1": "Sound healing gift guide"
@@ -860,33 +948,41 @@ export default [
       {
         "h2": "Gifts that survive dirt and miles",
         "paragraphs": [
-          "Outdoor musicians value gear that shrugs off dust and fits in a car trunk with paddles and tents.",
-          "Forged steel drums tolerate adventure when paired with realistic care.",
-          "Add a compact stand that works on uneven ground."
+          "Outdoor musicians value gear that shrugs off dust and fits in a car trunk with paddles and tents. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around outdoor musician gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Forged steel drums tolerate adventure when paired with realistic care. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Add a compact stand that works on uneven ground. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around outdoor musician gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient."
         ]
       },
       {
         "h2": "Scale choices for open air",
         "paragraphs": [
-          "Open spaces love sustain-rich minor scales that bloom without walls.",
-          "Brighter scales cut through wind noise near oceans.",
-          "Commission with note layout friendly to gloved hands in cold weather if they winter camp."
+          "Open spaces love sustain-rich minor scales that bloom without walls. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Brighter scales cut through wind noise near oceans. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around outdoor musician gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Commission with note layout friendly to gloved hands in cold weather if they winter camp. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
         ]
       },
       {
         "h2": "Power and amplification",
         "paragraphs": [
-          "Most outdoor moments need no amp. For busking, consider pickup options discussed in compare guides.",
-          "Gift spare batteries only for electronic gear they already own.",
-          "Keep acoustic purity as default for national park etiquette."
+          "Most outdoor moments need no amp. For busking, consider pickup options discussed in compare guides. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around outdoor musician gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Gift spare batteries only for electronic gear they already own. Gift decisions around outdoor musician gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Keep acoustic purity as default for national park etiquette. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction."
         ]
       },
       {
         "h2": "Safety and respect",
         "paragraphs": [
-          "Include ear protection for long sessions.",
-          "Remind them to check land rules about amplified sound.",
-          "Stillforge encourages streamside testing because water and wind inform our outdoor voicing."
+          "Include ear protection for long sessions. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Remind them to check land rules about amplified sound. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around outdoor musician gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Stillforge encourages streamside testing because water and wind inform our outdoor voicing. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Outdoor musician gift ideas connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around outdoor musician gift ideas land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Outdoor musician gift ideas connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Outdoor musician gift ideas connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction."
         ]
       }
     ],
@@ -897,7 +993,7 @@ export default [
       "primaryLabel": "Visit the shop"
     },
     "slug": "outdoor-musician-gift-ideas",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Outdoor Musician Gift Ideas for Campers and Trail Lovers",
     "description": "Outdoor players need tough bags, stable tuning, and instruments that sound open under sky instead of boxed in a studio.",
     "h1": "Outdoor musician gift ideas"
@@ -935,33 +1031,41 @@ export default [
       {
         "h2": "Define worth before purchase",
         "paragraphs": [
-          "Worth equals years of use divided by price plus emotional lift.",
-          "Handmade metal drums often last decades with care, lowering yearly cost.",
-          "Document the maker story to gift alongside the object."
+          "Worth equals years of use divided by price plus emotional lift. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around handmade gifts worth the money land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Handmade metal drums often last decades with care, lowering yearly cost. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Document the maker story to gift alongside the object. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
         ]
       },
       {
         "h2": "Red flags in handmade markets",
         "paragraphs": [
-          "Vague tuning claims, no return policy, and stock photos only.",
-          "Prices far below market without explanation often mean compromised steel or skipped tuning passes.",
-          "Stillforge shares forge process context so buyers know what labor means."
+          "Vague tuning claims, no return policy, and stock photos only. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction.",
+          "Prices far below market without explanation often mean compromised steel or skipped tuning passes. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around handmade gifts worth the money land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Stillforge shares forge process context so buyers know what labor means. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes."
         ]
       },
       {
         "h2": "When premium is rational",
         "paragraphs": [
-          "Life milestones, professional use, and shared family rituals justify premium spend.",
-          "Corporate gifts should still meet craft standards if branding is involved.",
-          "Financing or deposits can spread cost without rushing build quality."
+          "Life milestones, professional use, and shared family rituals justify premium spend. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Corporate gifts should still meet craft standards if branding is involved. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around handmade gifts worth the money land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Financing or deposits can spread cost without rushing build quality. Gift decisions around handmade gifts worth the money land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual."
         ]
       },
       {
         "h2": "Protect the investment",
         "paragraphs": [
-          "Buy proper cases and insurance riders for valuable commissions.",
-          "Schedule maintenance like you would for a bicycle or camera.",
-          "Handmade gifts appreciate emotionally even if resale markets vary."
+          "Buy proper cases and insurance riders for valuable commissions. Gift decisions around handmade gifts worth the money land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Schedule maintenance like you would for a bicycle or camera. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction.",
+          "Handmade gifts appreciate emotionally even if resale markets vary. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around handmade gifts worth the money land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Handmade gifts worth the money connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around handmade gifts worth the money land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Handmade gifts worth the money connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Handmade gifts worth the money connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction."
         ]
       }
     ],
@@ -972,7 +1076,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "handmade-gifts-worth-the-money",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Handmade Gifts Worth the Money",
     "description": "Handmade should mean measurable craft: tuning stability, honest materials, and maker time you can see. Skip mass-produced items labeled artisan.",
     "h1": "Handmade gifts worth the money"
@@ -1010,33 +1114,41 @@ export default [
       {
         "h2": "Strengths of experiences",
         "paragraphs": [
-          "Trips, concerts, and classes avoid clutter.",
-          "They suit people unsure about owning gear.",
-          "Shared time strengthens relationships immediately."
+          "Trips, concerts, and classes avoid clutter. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around experience gifts vs objects land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "They suit people unsure about owning gear. Gift decisions around experience gifts vs objects land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Shared time strengthens relationships immediately. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction."
         ]
       },
       {
         "h2": "Strengths of objects",
         "paragraphs": [
-          "A Stillforge drum returns every morning without booking tickets.",
-          "Objects support identity: I am someone who plays, not only someone who went once.",
-          "Physical craft carries story in a way photos alone cannot."
+          "A Stillforge drum returns every morning without booking tickets. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Objects support identity: I am someone who plays, not only someone who went once. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Physical craft carries story in a way photos alone cannot. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around experience gifts vs objects land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends."
         ]
       },
       {
         "h2": "Hybrid gifting patterns",
         "paragraphs": [
-          "Reveal a commission with a forge tour video and live play session.",
-          "Gift lessons plus a ready drum so practice starts day one.",
-          "Use holidays for experiences and birthdays for gear if budget splits are needed."
+          "Reveal a commission with a forge tour video and live play session. Gift decisions around experience gifts vs objects land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Gift lessons plus a ready drum so practice starts day one. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction.",
+          "Use holidays for experiences and birthdays for gear if budget splits are needed. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around experience gifts vs objects land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind."
         ]
       },
       {
         "h2": "Decision checklist",
         "paragraphs": [
-          "Do they travel light? Lean experience or small drums.",
-          "Do they nest at home? Lean object with ritual card.",
-          "Do they fear commitment? Rent or shop entry sizes first."
+          "Do they travel light? Lean experience or small drums. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around experience gifts vs objects land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Do they nest at home? Lean object with ritual card. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Do they fear commitment? Rent or shop entry sizes first. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around experience gifts vs objects land best when you match the object to an existing habit, not to a fantasy version of the recipient."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Experience gifts vs objects connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Experience gifts vs objects connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction.",
+          "Experience gifts vs objects connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around experience gifts vs objects land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind."
         ]
       }
     ],
@@ -1047,7 +1159,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "experience-gifts-vs-objects",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Experience Gifts vs Objects: When Sound Gifts Win",
     "description": "Experiences create memories. Objects create rituals. The best gifts combine both so the memory has a soundtrack tomorrow.",
     "h1": "Experience gifts vs objects"
@@ -1055,7 +1167,7 @@ export default [
   {
     "publishedAt": "2026-07-01",
     "updatedAt": "2026-07-17",
-    "readingMinutes": 7,
+    "readingMinutes": 8,
     "keywords": [
       "stocking stuffers musicians",
       "music gift accessories"
@@ -1084,33 +1196,41 @@ export default [
       {
         "h2": "Care and maintenance miniatures",
         "paragraphs": [
-          "Premium oil vials, cloths, and desiccant packs show you respect their instrument.",
-          "Include printed care steps from Stillforge education guides.",
-          "Avoid generic hardware store oils not meant for tuned steel."
+          "Premium oil vials, cloths, and desiccant packs show you respect their instrument. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around stocking stuffers for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Include printed care steps from Stillforge education guides. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Avoid generic hardware store oils not meant for tuned steel. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around stocking stuffers for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient."
         ]
       },
       {
         "h2": "Learning and inspiration",
         "paragraphs": [
-          "Pocket rhythm books, scale charts, and gift cards toward lessons work universally.",
-          "Notebook for tuning session logs suits detail-oriented players.",
-          "Stickers are fun but optional. Function beats novelty."
+          "Pocket rhythm books, scale charts, and gift cards toward lessons work universally. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories.",
+          "Notebook for tuning session logs suits detail-oriented players. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around stocking stuffers for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Stickers are fun but optional. Function beats novelty. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly."
         ]
       },
       {
         "h2": "Recording and practice",
         "paragraphs": [
-          "Phone tripod clips, small diaphragm mic cables, and earplugs fit stockings.",
-          "Gift a subscription to a DAW only if they lack one.",
-          "Portable metronomes help handpan players explore tempo games."
+          "Phone tripod clips, small diaphragm mic cables, and earplugs fit stockings. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Gift a subscription to a DAW only if they lack one. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around stocking stuffers for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Portable metronomes help handpan players explore tempo games. Gift decisions around stocking stuffers for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual."
         ]
       },
       {
         "h2": "Pair with the hero gift",
         "paragraphs": [
-          "Stack stocking items beside a commission drum for a complete story.",
-          "Label each small item with how it supports the big gift.",
-          "Christmas morning play sessions need zero missing accessories if you plan well."
+          "Stack stocking items beside a commission drum for a complete story. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around stocking stuffers for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Label each small item with how it supports the big gift. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Christmas morning play sessions need zero missing accessories if you plan well. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around stocking stuffers for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Stocking stuffers for musicians connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Gift decisions around stocking stuffers for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Stocking stuffers for musicians connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Stocking stuffers for musicians connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around stocking stuffers for musicians land best when you match the object to an existing habit, not to a fantasy version of the recipient."
         ]
       }
     ],
@@ -1121,7 +1241,7 @@ export default [
       "primaryLabel": "Visit the shop"
     },
     "slug": "stocking-stuffers-for-musicians",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Stocking Stuffers for Musicians Who Love Their Main Rig",
     "description": "Small gifts should support the big instrument: care kits, notebooks, tuners, and playable accessories that fit a stocking.",
     "h1": "Stocking stuffers for musicians"
@@ -1159,33 +1279,41 @@ export default [
       {
         "h2": "Celebrate their creative union",
         "paragraphs": [
-          "Weddings mark rhythm between two people. Instrument gifts literalize that metaphor without being cheesy when presented sincerely.",
-          "Choose scales reflecting both personalities: one moody, one bright, merged in a versatile layout.",
-          "Stillforge commissions can document wedding date inside the port upon request."
+          "Weddings mark rhythm between two people. Instrument gifts literalize that metaphor without being cheesy when presented sincerely. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Choose scales reflecting both personalities: one moody, one bright, merged in a versatile layout. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around wedding gifts for creative couples land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Stillforge commissions can document wedding date inside the port upon request. Gift decisions around wedding gifts for creative couples land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual."
         ]
       },
       {
         "h2": "Registry coordination",
         "paragraphs": [
-          "Ask the wedding planner or a close friend about home size and city noise rules.",
-          "Ship after the honeymoon if travel would risk damage.",
-          "Include a letter to open on first married Sunday together."
+          "Ask the wedding planner or a close friend about home size and city noise rules. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around wedding gifts for creative couples land best when you match the object to an existing habit, not to a fantasy version of the recipient.",
+          "Ship after the honeymoon if travel would risk damage. Gift decisions around wedding gifts for creative couples land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual.",
+          "Include a letter to open on first married Sunday together. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction."
         ]
       },
       {
         "h2": "Ceremony and reception uses",
         "paragraphs": [
-          "Some couples want live drum during ceremony processional. Coordinate volume with officiant.",
-          "Reception unplugged sets work for intimate venues.",
-          "Avoid stealing focus from vows unless they explicitly booked you for music."
+          "Some couples want live drum during ceremony processional. Coordinate volume with officiant. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Reception unplugged sets work for intimate venues. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around wedding gifts for creative couples land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Avoid stealing focus from vows unless they explicitly booked you for music. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual."
         ]
       },
       {
         "h2": "Long-term heirloom mindset",
         "paragraphs": [
-          "Teach basic care so the drum survives moves and kids.",
-          "Encourage yearly recording traditions.",
-          "Heirloom quality steel can pass to future generations with maintenance."
+          "Teach basic care so the drum survives moves and kids. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around wedding gifts for creative couples land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind.",
+          "Encourage yearly recording traditions. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes.",
+          "Heirloom quality steel can pass to future generations with maintenance. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories."
+        ]
+      },
+      {
+        "h2": "How Stillforge approaches this topic",
+        "paragraphs": [
+          "Wedding gifts for creative couples connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Gift decisions around wedding gifts for creative couples land best when you match the object to an existing habit, not to a fantasy version of the recipient. Avoid promising medical cures. Frame melodic steel as a creative calm tool and shared ritual object, which keeps expectations grounded and kind. Before wrapping anything, listen to scale demos on the Stillforge player so tone matches how they already unwind after work or on weekends.",
+          "Wedding gifts for creative couples connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Follow up a month later with a simple question about their favorite note or time of day to play. That conversation turns an object into a lasting ritual. Commission timelines are honest: forging and tuning take weeks. A printed story plus demo audio can carry the celebration while the drum finishes. Stillforge melodic steel drums are forged from decommissioned propane tanks and hand-tuned in fixed scales so first-time players hear consonant intervals quickly.",
+          "Wedding gifts for creative couples connects directly to how stillforge approaches this topic. Stillforge builds melodic steel drums with that practical lens. Place the instrument where daily life happens. Kitchen corners, porch steps, and studio desks beat closet storage for long-term satisfaction. Include a soft bag, spare mallets, and a one-page care note so the gift is playable the same day without a shopping trip for accessories. Gift decisions around wedding gifts for creative couples land best when you match the object to an existing habit, not to a fantasy version of the recipient."
         ]
       }
     ],
@@ -1196,7 +1324,7 @@ export default [
       "primaryLabel": "Start a commission"
     },
     "slug": "wedding-gifts-for-creative-couples",
-    "category": "Gifts",
+    "category": "gifts",
     "title": "Wedding Gifts for Creative Couples",
     "description": "Creative couples cherish gifts that become part of their shared story. A commissioned drum marks the wedding with a sound they can replay every anniversary.",
     "h1": "Wedding gifts for creative couples"

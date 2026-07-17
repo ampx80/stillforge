@@ -1,3 +1,5 @@
+import { withDepth } from './compare-rich-depth.mjs'
+
 const P = { publishedAt: '2026-07-01', updatedAt: '2026-07-17' }
 
 const priceTierTable = {
@@ -9,8 +11,6 @@ const priceTierTable = {
     ['Premium custom', '$2,500-$5,000+', 'Extended range, long waits, top QC'],
   ],
 }
-
-import { withDepth } from './compare-rich-depth.mjs'
 
 const articles = [
   {

@@ -3,7 +3,7 @@ import { A, sec, paras, faq } from '../article-helpers.mjs'
 export const education = [
   A({
     slug: 'what-is-a-handpan',
-    category: 'Education',
+    category: 'education',
     title: 'What Is a Handpan? Shape, Sound, and Play Style',
     description:
       'A handpan is a convex steel instrument with tuned note fields you strike with hands. Learn layout basics and how Stillforge fits the family tree.',
@@ -47,7 +47,7 @@ export const education = [
   }),
   A({
     slug: 'history-of-the-hang-and-handpan',
-    category: 'Education',
+    category: 'education',
     title: 'History of the Hang and Handpan Movement',
     description:
       'PANArt introduced the Hang in Switzerland, sparking a global handpan community. Trace naming, evolution, and ethical maker culture.',
@@ -91,12 +91,13 @@ export const education = [
   }),
   A({
     slug: 'how-handpans-are-made',
-    category: 'Education',
+    category: 'education',
     title: 'How Handpans Are Made: Shells, Notes, and Tuning',
     description:
       'Handpan making blends metal forming, heat treatment, and iterative tuning. Understand steps so you can judge maker quality.',
     h1: 'How handpans are made',
     readingMinutes: 12,
+    schemaType: 'HowTo',
     keywords: ['how handpans are made', 'handpan manufacturing'],
     relatedSlugs: ['how-propane-tank-drums-are-forged', 'handpan-tuning-explained', 'behind-the-forge'],
     faqs: [
@@ -135,12 +136,13 @@ export const education = [
   }),
   A({
     slug: 'how-propane-tank-drums-are-forged',
-    category: 'Education',
+    category: 'education',
     title: 'How Propane Tank Drums Are Forged at Stillforge',
     description:
       'Propane tank drums start as cleaned steel cylinders shaped by heat and hammer. Learn safety, steps, and why tanks become musical shells.',
     h1: 'How propane tank drums are forged',
     readingMinutes: 10,
+    schemaType: 'HowTo',
     keywords: ['propane tank forge', 'tank drum making'],
     relatedSlugs: ['propane-tank-drum-explained', 'how-handpans-are-made', 'from-propane-tank-to-instrument'],
     faqs: [
@@ -150,36 +152,36 @@ export const education = [
     ],
     sections: [
       sec('Sourcing and cleaning', paras(
-        'Tanks must be purged and cut safely before any heat work.',
-        'Residual compounds are removed to protect makers and future owners.',
-        'Stillforge treats safety as non-negotiable groundwork.'
+        'Tanks must be purged and cut safely before any heat work. Our forge follows industrial safety habits from years of metal sculpture, not shortcut hobby methods.',
+        'Residual compounds are removed to protect makers and future owners. That prep step affects how cleanly steel accepts hammer tuning later.',
+        'Stillforge treats safety as non-negotiable groundwork. We document tank origin when clients ask because material traceability matters for trust.'
       )),
       sec('Shaping the shell', paras(
-        'Sections are cut, rolled, and welded or formed into handpan-like geometry.',
-        'Stress relief and annealing steps prepare steel for note hammering.',
-        'Visual character from tank heritage often remains subtly visible.'
+        'Sections are cut, rolled, and welded or formed into handpan-like geometry. Curvature and seam placement influence stiffness before the first note field is struck.',
+        'Stress relief and annealing steps prepare steel for note hammering. Skipping thermal care invites unpredictable drift during tuning marathons.',
+        'Visual character from tank heritage often remains subtly visible. Many players enjoy that honest industrial story next to refined melodic voice.'
       )),
       sec('Transition to musical instrument', paras(
-        'Once shell geometry is stable, handpan note process takes over.',
-        'Tuning is identical in importance to any other handpan shell origin.',
-        'Tank provenance does not shortcut tuning hours.'
+        'Once shell geometry is stable, the handpan note process takes over. Forge work ends where musical tuning begins, and neither stage gets rushed.',
+        'Tuning is identical in importance to any other handpan shell origin. Tank provenance is narrative, not a substitute for ear work at the bench.',
+        'Stillforge streamside listening tests how tank-forged shells project in open air, where bedroom demos can lie about overtone clarity.'
       )),
       sec('Why we choose tanks', paras(
-        'Story, steel thickness, and regional craft identity.',
-        'Players connect to transformation from utility to art.',
-        'Slow craft philosophy matches intentional tuning sessions.'
+        'Story, steel thickness, and regional craft identity align with Stillforge values. Tanks are available, forgeable, and honest about upcycling steel.',
+        'Players connect to transformation from utility to art. A commission becomes a conversation about fire, patience, and sound in one object.',
+        'Slow craft philosophy matches intentional tuning sessions. One shell may return to the bench many times before it leaves the shop.'
       )),
       sec('Care reminders', paras(
-        'Forged steel still needs rust-aware maintenance.',
-        'Read care guide after learning forge context.',
-        'Commission questions welcome about tank sourcing standards.'
+        'Forged steel still needs rust-aware maintenance. Tank origin does not make the instrument immune to fingerprints, humidity, or dents.',
+        'Read the care guide after learning forge context so oiling and storage match your climate.',
+        'Commission questions welcome about tank sourcing standards, finish choices, and how outdoor play affects long-term steel health.'
       )),
     ],
     cta: { headline: 'Own tank-forged tone', body: 'Commission a propane-tank melodic drum with your scale brief.', primaryTo: '/commission', primaryLabel: 'Start a commission' },
   }),
   A({
     slug: 'handpan-tuning-explained',
-    category: 'Education',
+    category: 'education',
     title: 'Handpan Tuning Explained for Curious Players',
     description:
       'Handpan tuning adjusts fundamental pitch and harmonics on each note field. Learn what makers mean by stable tuning and beating.',
@@ -223,7 +225,7 @@ export const education = [
   }),
   A({
     slug: 'understanding-handpan-scales',
-    category: 'Education',
+    category: 'education',
     title: 'Understanding Handpan Scales and Intervals',
     description:
       'Scales map which notes surround the player. Learn intervals, mode names, and why layout matters as much as pitch names.',
@@ -267,7 +269,7 @@ export const education = [
   }),
   A({
     slug: 'd-kurd-scale-guide',
-    category: 'Education',
+    category: 'education',
     title: 'D Kurd Scale Guide for Handpan Players',
     description:
       'D Kurd minor layouts are popular for versatile improvisation. Learn typical intervals, moods, and pairing ideas for this voice.',
@@ -311,7 +313,7 @@ export const education = [
   }),
   A({
     slug: 'celtic-minor-scale-guide',
-    category: 'Education',
+    category: 'education',
     title: 'Celtic Minor Handpan Scale Guide',
     description:
       'Celtic minor scales evoke folk and open-sky imagery. Explore mood, typical uses, and how they differ from Kurd layouts.',
@@ -355,7 +357,7 @@ export const education = [
   }),
   A({
     slug: 'hijaz-scale-guide',
-    category: 'Education',
+    category: 'education',
     title: 'Hijaz Handpan Scale Guide',
     description:
       'Hijaz and related minor exotic scales add spice and cinematic tension. Learn when they fit performance and when beginners should wait.',
@@ -399,7 +401,7 @@ export const education = [
   }),
   A({
     slug: 'handpan-care-and-rust-prevention',
-    category: 'Education',
+    category: 'education',
     title: 'Handpan Care and Rust Prevention',
     description:
       'Steel handpans need dry hands, proper oil, and smart storage. Prevent rust and tuning damage with simple daily habits.',
@@ -444,7 +446,7 @@ export const education = [
   }),
   A({
     slug: 'how-to-play-handpan-basics',
-    category: 'Education',
+    category: 'education',
     title: 'How to Play Handpan Basics: First Patterns',
     description:
       'Start with posture, soft strikes, and simple alternating patterns. Build confidence before speed or complex rhythms.',
@@ -489,7 +491,7 @@ export const education = [
   }),
   A({
     slug: 'handpan-for-sound-baths',
-    category: 'Education',
+    category: 'education',
     title: 'Using Handpan for Sound Baths and Group Sessions',
     description:
       'Handpans anchor melodic beds in sound baths when played softly with space. Learn facilitation pacing, volume, and ethics.',
@@ -533,7 +535,7 @@ export const education = [
   }),
   A({
     slug: 'steel-properties-for-melodic-drums',
-    category: 'Education',
+    category: 'education',
     title: 'Steel Properties for Melodic Drums',
     description:
       'Alloy choice, thickness, and heat treatment change how steel sings. Learn what matters for handpans without a metallurgy degree.',
@@ -577,7 +579,7 @@ export const education = [
   }),
   A({
     slug: 'overtones-and-harmonics-on-steel',
-    category: 'Education',
+    category: 'education',
     title: 'Overtones and Harmonics on Steel Handpans',
     description:
       'Handpan magic lives in overtone balance. Learn how partials shape timbre and what makers adjust during tuning.',
@@ -621,12 +623,13 @@ export const education = [
   }),
   A({
     slug: 'transporting-and-storing-a-handpan',
-    category: 'Education',
+    category: 'education',
     title: 'Transporting and Storing a Handpan Safely',
     description:
       'Protect tuning investment with cases, car loading habits, and climate-aware storage at home and on tour.',
     h1: 'Transporting and storing a handpan',
     readingMinutes: 9,
+    schemaType: 'HowTo',
     keywords: ['handpan case', 'travel handpan', 'store handpan'],
     relatedSlugs: ['handpan-shipping-and-care-cost', 'handpan-care-and-rust-prevention', 'playing-handpan-outdoors'],
     faqs: [
@@ -665,12 +668,13 @@ export const education = [
   }),
   A({
     slug: 'recording-handpan-at-home',
-    category: 'Education',
+    category: 'education',
     title: 'Recording Handpan at Home with Simple Gear',
     description:
       'Capture handpan warmth using one good mic, quiet room treatment, and patient playing. Avoid overprocessing that kills overtones.',
     h1: 'Recording handpan at home',
     readingMinutes: 10,
+    schemaType: 'HowTo',
     keywords: ['record handpan', 'handpan microphone'],
     relatedSlugs: ['overtones-and-harmonics-on-steel', 'acoustic-vs-electronic-handpan', 'building-a-daily-handpan-practice'],
     faqs: [
@@ -709,12 +713,13 @@ export const education = [
   }),
   A({
     slug: 'playing-handpan-outdoors',
-    category: 'Education',
+    category: 'education',
     title: 'Playing Handpan Outdoors: Weather, Sound, and Etiquette',
     description:
       'Outdoor handpan play connects players to space and breath. Manage weather risks, dynamics, and neighbor respect while enjoying open air tone.',
     h1: 'Playing handpan outdoors',
     readingMinutes: 9,
+    schemaType: 'HowTo',
     keywords: ['outdoor handpan', 'handpan nature'],
     relatedSlugs: ['outdoor-music-practice-tips', 'why-streamside-music', 'handpan-care-and-rust-prevention'],
     faqs: [
@@ -753,12 +758,13 @@ export const education = [
   }),
   A({
     slug: 'building-a-daily-handpan-practice',
-    category: 'Education',
+    category: 'education',
     title: 'Building a Daily Handpan Practice That Sticks',
     description:
       'Daily practice on handpan can mean three mindful minutes. Build habits with triggers, forgiveness, and small wins.',
     h1: 'Building a daily handpan practice',
     readingMinutes: 8,
+    schemaType: 'HowTo',
     keywords: ['handpan practice routine', 'daily music habit'],
     relatedSlugs: ['how-to-play-handpan-basics', 'handpan-lessons-vs-self-taught', 'instruments-for-people-who-hate-practice'],
     faqs: [

@@ -81,7 +81,7 @@ export function expandParagraph(text, article, h2, paraIndex) {
     out = `${humanTopic(article)} connects directly to ${h2.toLowerCase()}. Stillforge builds melodic steel drums with that practical lens.`
   }
   let seq = 0
-  while (wordCount(out) < 72 && seq < 10) {
+  while (wordCount(out) < 85 && seq < 12) {
     const add = sentencePool(article, h2, paraIndex, seq)
     if (!out.includes(add)) out += ` ${add}`
     seq += 1
@@ -95,7 +95,7 @@ function defaultExtraSection(article, index) {
     'How Stillforge approaches this topic',
     'Practical next steps after reading',
   ]
-  const h2 = titles[index % titles.length]
+  const h2 = titles[((index % titles.length) + titles.length) % titles.length]
   return {
     h2,
     paragraphs: [0, 1, 2].map((pi) => expandParagraph('', article, h2, pi)),
@@ -112,14 +112,14 @@ export function enrichArticle(article) {
   })
 
   while (sections.length < 5) {
-    sections.push(defaultExtraSection(article, sections.length - 5))
+    sections.push(defaultExtraSection(article, sections.length))
   }
 
   let total = sections.flatMap((s) => s.paragraphs).reduce((n, p) => n + wordCount(p), 0)
   let extraIdx = 0
-  while (total < 900 && extraIdx < 6) {
+  while (total < 920 && extraIdx < 24) {
     const si = extraIdx % sections.length
-    const pi = 2
+    const pi = extraIdx % 3
     sections[si].paragraphs[pi] = expandParagraph(
       sections[si].paragraphs[pi],
       article,
