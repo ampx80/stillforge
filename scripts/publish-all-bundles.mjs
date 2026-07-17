@@ -36,11 +36,13 @@ const HOW_TO_EDU = new Set([
   'building-a-daily-handpan-practice',
 ])
 
-const educationOut = education.map((a) => ({
-  ...withEducationDepth(a),
-  category: 'education',
-  schemaType: HOW_TO_EDU.has(a.slug) ? 'HowTo' : a.schemaType || 'Article',
-}))
+const educationOut = education.map((a) =>
+  enrichArticle({
+    ...withEducationDepth(a),
+    category: 'education',
+    schemaType: HOW_TO_EDU.has(a.slug) ? 'HowTo' : a.schemaType || 'Article',
+  }),
+)
 
 dump(
   'compare',
@@ -65,7 +67,7 @@ for (const [label, list] of [
 ]) {
   for (const a of list) {
     const s = articleStats(a)
-    const ok = s.sections >= 5 && s.minParas >= 3 && (label === 'education' ? s.words >= 150 : s.words >= 900)
+    const ok = s.sections >= 5 && s.minParas >= 3 && s.words >= 900
     console.log(
       `${label} ${a.slug}: sections=${s.sections} minParas=${s.minParas} words=${s.words} ${ok ? 'OK' : 'CHECK'}`,
     )

@@ -309,6 +309,7 @@ function actionSection(art) {
       `Screenshot maker replies and file them with this guide title. When wait lists shift, you will remember who communicated clearly.`,
       `Re-read the price tier table one more time before sleep. Morning-you makes fewer impulse mistakes than late-night-you.`,
       `If every maker ghosted you, reset with Stillforge official contact rather than random resale threads without tuning proof.`,
+      `Save this page URL in your notes doc so you can return after you have heard two scale demos.`,
     ],
   }
 }
