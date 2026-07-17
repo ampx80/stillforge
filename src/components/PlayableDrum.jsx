@@ -6,9 +6,14 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
   const [ready, setReady] = useState(isUnlocked())
   const [active, setActive] = useState(null)
   const ripplesRef = useRef({})
+  const lastStrikeRef = useRef({})
   const svgId = useId()
 
   const strike = useCallback(async (noteId, clientX, clientY, el) => {
+    const now = performance.now()
+    if (now - (lastStrikeRef.current[noteId] || 0) < 45) return
+    lastStrikeRef.current[noteId] = now
+
     if (!ready) {
       await unlockAudio()
       setReady(true)
@@ -110,6 +115,7 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
                 role="button"
                 aria-label={`Play note ${note.label}`}
                 onPointerDown={onPointer(note.id)}
+                onClick={onPointer(note.id)}
                 onKeyDown={onKey(note.id)}
               />
               <ellipse
