@@ -81,6 +81,14 @@ export default {
       ],
     },
     {
+      h2: 'Maintenance of the shop itself',
+      paragraphs: [
+        'A forge that only produces pretty drums but ignores its own upkeep will eventually fail customers in subtle ways. Vent filters clog. Lighting dims. Tuning hammers chip. The Stillforge maker budgets shop maintenance like any professional trade, because the environment is part of every instrument.',
+        'Seasonal checks matter too. Humidity swings affect both steel storage and how long a tuning session stays trustworthy. We track weather weeks the way farmers track rain, not from superstition, but because metal responds.',
+        'When you commission, you inherit a shop that treats maintenance as craft ethics, not chores. That is invisible until something goes wrong elsewhere and you realize why your Stillforge stayed stable.',
+      ],
+    },
+    {
       h2: 'From backstage to your room',
       paragraphs: [
         'Every finished drum carries invisible shop habits: balanced weight, honest finish, tunings recorded before pack-out, and a case recommendation that matches how you travel. The forge behind the brand is not marketing set dressing. It is the reason the instrument feels grounded when you first touch it.',

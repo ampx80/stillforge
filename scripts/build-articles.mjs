@@ -127,73 +127,9 @@ const beginners = [
   cta: { headline: 'Try before you commit', body: 'Play the Stillforge interactive drum, then decide if a commission is right for your household.', primaryTo: '/play', primaryLabel: 'Play the drum' },
 }))
 
-const compareSpecs = [
-  ['handpan-vs-tongue-drum', 'Handpan vs Tongue Drum', 'handpan vs tongue drum', 'Handpan vs tongue drum explained: construction, sound, price, learning curve, and which path fits Stillforge craft.'],
-  ['how-much-does-a-handpan-cost', 'How Much Does a Handpan Cost?', 'handpan cost', 'How much a handpan costs in 2026, with clear tiers from entry instruments to artisan custom builds.'],
-  ['best-handpan-drums-by-tier', 'Best Handpan Drums by Tier', 'best handpan tiers', 'A class and tier framework for handpan-style drums so you can compare quality without hype.'],
-  ['hang-drum-vs-handpan', 'Hang Drum vs Handpan', 'hang drum vs handpan', 'Hang drum vs handpan: trademark history, naming clarity, and what buyers should actually shop for today.'],
-  ['propane-tank-drum-explained', 'Propane Tank Drum Explained', 'propane tank drum', 'What a propane tank drum is, how forging works, and why Stillforge chooses tanks as the starting shell.'],
-  ['handpan-buyer-guide', 'Handpan Buyer Guide', 'handpan buyer guide', 'A complete handpan buyer guide covering budget, scales, makers, red flags, and commission checklists.'],
-  ['nitrided-vs-stainless-handpan', 'Nitrided vs Stainless Handpan', 'nitrided vs stainless', 'Nitrided vs stainless handpan steel: tone, maintenance, climate, and tradeoffs for real owners.'],
-  ['handpan-scales-compared', 'Handpan Scales Compared', 'handpan scales compared', 'Compare popular handpan scales - D Kurd, Celtic Minor, Hijaz, and more - by mood and use case.'],
-  ['rav-vast-vs-handpan', 'RAV Vast vs Handpan', 'RAV Vast vs handpan', 'RAV Vast vs handpan: tongue-style systems, sound character, and when each instrument shines.'],
-  ['cheap-handpan-warnings', 'Cheap Handpan Warnings', 'cheap handpan warnings', 'Cheap handpan warnings: what sub-$400 listings often are, and how to spend smarter as a beginner.'],
-  ['custom-handpan-vs-ready-made', 'Custom Handpan vs Ready Made', 'custom vs ready made handpan', 'Custom handpan vs ready-made: lead times, tuning control, and why commissions fit Stillforge.'],
-  ['handpan-shipping-and-care-cost', 'Handpan Shipping and Care Cost', 'handpan shipping care cost', 'The real cost of owning a handpan beyond sticker price: shipping, cases, oil, and retuning risk.'],
-  ['sound-healing-instruments-compared', 'Sound Healing Instruments Compared', 'sound healing instruments', 'Compare sound healing instruments - melodic drums, bowls, chimes - and when steel melody is the better tool.'],
-  ['acoustic-vs-electronic-handpan', 'Acoustic vs Electronic Handpan', 'acoustic vs electronic handpan', 'Acoustic vs electronic handpan options for apartments, travel, and players who need headphones.'],
-  ['handpan-size-and-note-count-guide', 'Handpan Size and Note Count Guide', 'handpan note count', 'Handpan size and note count guide: portability, range, and beginner-friendly layouts.'],
-  ['where-to-buy-a-handpan', 'Where to Buy a Handpan', 'where to buy a handpan', 'Where to buy a handpan safely: makers, dealers, used market tips, and artisan commission paths.'],
-]
-
-const compare = compareSpecs.map(([slug, title, topic, description], i, arr) => {
-  const base = article({
-    slug, title, topic, description, category: 'compare',
-    relatedSlugs: arr.filter((_, j) => j !== i).slice(0, 4).map((x) => x[0]),
-    schemaType: 'FAQPage',
-  })
-  base.sections = [
-    {
-      h2: `Direct comparison: ${topic}`,
-      paragraphs: [
-        `Shoppers comparing options around ${topic} need numbers, tradeoffs, and honest language. Marketing pages rarely provide that. This guide does.`,
-        'Stillforge positions tank-forged melodic drums in the artisan custom band: not a $99 novelty, not a five-figure collector Hang, but a serious handmade instrument with a clear process.',
-      ],
-    },
-    {
-      h2: 'Price and quality tiers',
-      paragraphs: [
-        'Use tiers to avoid category confusion. Tongue drums, factory-assisted pans, and master artisan builds are different products even when photos look similar.',
-      ],
-      table: {
-        headers: ['Tier', 'Typical USD', 'What you are buying'],
-        rows: [
-          ['Tongue / tank entry', '$100-$500', 'Accessible melody, simpler construction'],
-          ['Entry handpan-style', '$600-$1,300', 'Playable 9-10 note instruments'],
-          ['Mid artisan', '$1,400-$2,500', 'Stronger tuning, better sustain'],
-          ['Premium custom', '$2,500-$5,000+', 'Extended range, exotic materials, waitlists'],
-        ],
-      },
-    },
-    {
-      h2: 'Decision checklist',
-      paragraphs: ['Before you pay, answer these out loud.'],
-      list: [
-        'Where will you play most - indoors, outdoors, travel?',
-        'Do you want minor calm, bright open modes, or something exotic?',
-        'Is this a gift with a hard date or a personal commission?',
-        'Can the maker show tuning evidence for your exact build?',
-      ],
-    },
-    {
-      h2: 'Stillforge recommendation',
-      paragraphs: [
-        'If you want craft provenance and a custom voice, commission. If you only need to test the feel, start with the interactive drum and beginner guides, then decide.',
-      ],
-    },
-  ]
-  return base
-})
+const { default: compare } = await import(
+  new URL('./compare-rich-data.mjs', import.meta.url).href
+)
 
 const education = [
   ['what-is-a-handpan', 'What Is a Handpan?', 'what is a handpan', 'What a handpan is, how it sounds, and how Stillforge melodic drums relate to the wider steel instrument family.'],

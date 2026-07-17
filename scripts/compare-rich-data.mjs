@@ -1,0 +1,1417 @@
+const P = { publishedAt: '2026-07-01', updatedAt: '2026-07-17' }
+
+const priceTierTable = {
+  headers: ['Tier', 'Typical USD', 'What you are buying'],
+  rows: [
+    ['Tongue / laser-cut entry', '$100-$500', 'Gateway melody, simpler build'],
+    ['Entry handpan-style', '$600-$1,300', '9-10 notes, factory or small shop'],
+    ['Mid artisan', '$1,400-$2,500', 'Hand tuning, stable steel, maker support'],
+    ['Premium custom', '$2,500-$5,000+', 'Extended range, long waits, top QC'],
+  ],
+}
+
+export default [
+  {
+    slug: 'handpan-vs-tongue-drum',
+    category: 'compare',
+    title: 'Handpan vs Tongue Drum: Sound, Price, and Which to Buy First',
+    description:
+      'Handpan vs tongue drum compared on tone, learning curve, portability, and real 2026 price tiers from $100 tongue drums to $5,000+ custom pans.',
+    h1: 'Handpan vs Tongue Drum',
+    ...P,
+    readingMinutes: 10,
+    keywords: [
+      'handpan vs tongue drum',
+      'steel tongue drum vs handpan',
+      'melodic steel comparison',
+      'first handpan or tongue drum',
+    ],
+    relatedSlugs: [
+      'how-much-does-a-handpan-cost',
+      'propane-tank-drum-explained',
+      'handpan-buyer-guide',
+      'steel-tongue-drum-for-beginners',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'Is a handpan harder to learn than a tongue drum?',
+        a: 'Tongue drums offer visible note maps and forgiving attacks with mallets or fingers. Handpans need lighter hand technique and thigh damping, which takes weeks of gentle practice. Both stay in a fixed scale, so neither requires theory to start.',
+      },
+      {
+        q: 'Which is better for meditation?',
+        a: 'Either works. Tongue drums give quick, bell-like clarity. Handpans provide longer sustain and richer overtones that fill a room. Many facilitators use handpans for group sound work and tongue drums for personal altars or travel kits.',
+      },
+      {
+        q: 'Can a propane-tank drum sit between the two?',
+        a: 'Yes. Tank-forged melodic drums from makers like Stillforge combine forge character with handpan-style tone fields. They are priced like mid artisan handpans, not like $200 tongue drums.',
+      },
+      {
+        q: 'Should I buy a cheap handpan instead of a tongue drum?',
+        a: 'If your budget is under $600, buy a good tongue drum instead of a discount handpan. Mis-tuned bargain pans frustrate players and rarely upgrade well.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Quick answer',
+        paragraphs: [
+          'A handpan is a convex steel instrument with a central ding and hand-played tone fields. A steel tongue drum is usually a flat or shallow shell with cut tongues struck by fingers or mallets. Both keep you inside a chosen scale, which makes them friendly for beginners and meditation.',
+          'Pick a tongue drum for low cost, travel, and instant gratification. Pick a handpan when you want hand-voice dynamics, long sustain, and an instrument that rewards years of touch. Many players own both over time.',
+        ],
+        table: {
+          headers: ['Factor', 'Handpan', 'Steel tongue drum'],
+          rows: [
+            ['Price band', '$600-$5,000+', '$100-$500'],
+            ['Play with', 'Hands', 'Fingers or mallets'],
+            ['Sustain', 'Long, singing', 'Shorter, clear attack'],
+            ['Portability', 'Needs rigid case', 'Often backpack size'],
+            ['Best for', 'Performers, deep practice', 'Gateways, kids, travel'],
+          ],
+        },
+      },
+      {
+        h2: 'How they feel under your hands',
+        paragraphs: [
+          'Handpans respond to micro-dynamics. The same note can whisper or bloom depending on finger pad, strike location, and how much you damp with your legs. That range is why serious players accept four-figure prices and careful case storage.',
+          'Tongue drums trade some expression for clarity. The layout is obvious, attacks are predictable, and good models still feel calming within minutes. They are excellent when you want music without a lesson plan.',
+        ],
+      },
+      {
+        h2: 'Price reality in 2026',
+        paragraphs: [
+          'Entry handpans start near $600 but the reliable band for daily play is often $1,400-$2,500 from artisan makers. Premium custom layouts cross $2,500 and can exceed $5,000 for extended range or rare scales.',
+          'Quality tongue drums cluster between $150 and $400. Stillforge tank-forged commissions start around $1,800 for nine-note builds, squarely in mid artisan territory with a distinct forge story.',
+        ],
+      },
+      {
+        h2: 'Learning curve and household fit',
+        paragraphs: [
+          'Families with young kids often prefer tongue drums because they survive enthusiastic mallets and cost less to replace. Teens and adults chasing busking, recording, or sound-bath facilitation usually outgrow tongue drums faster.',
+          'Apartment players should compare volume. Handpans can be played softly but still carry. Tongue drums with mallets can be bright; felt mallets and practice pads help.',
+        ],
+        list: [
+          'Tongue drum: fastest win under $500',
+          'Mid handpan: best long-term voice for dedicated players',
+          'Tank-forged custom: artisan craft plus melodic layout',
+          'Avoid sub-$500 handpan-shaped listings without tuning proof',
+        ],
+      },
+      {
+        h2: 'Try before you commit',
+        paragraphs: [
+          'Use the Stillforge virtual player to feel a D Kurd-inspired layout, then decide whether you want tongue-drum simplicity or handpan depth. Commission paths make sense when you already know you will play weekly for years.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Hear the layout before you buy',
+      body: 'Explore scales on the Stillforge player, then ask about a tank-forged build if handpan tone fits your life.',
+      primaryTo: '/play',
+      primaryLabel: 'Open the virtual player',
+    },
+  },
+  {
+    slug: 'how-much-does-a-handpan-cost',
+    category: 'compare',
+    title: 'How Much Does a Handpan Cost? 2026 Price Tiers Explained',
+    description:
+      'Real handpan prices from $600 entry models to $5,000+ customs, plus cases, shipping, and retuning so you can budget the full cost honestly.',
+    h1: 'How Much Does a Handpan Cost?',
+    ...P,
+    readingMinutes: 9,
+    keywords: [
+      'how much does a handpan cost',
+      'handpan price 2026',
+      'average handpan cost',
+      'handpan budget',
+    ],
+    relatedSlugs: [
+      'best-handpan-drums-by-tier',
+      'cheap-handpan-warnings',
+      'handpan-buyer-guide',
+      'handpan-shipping-and-care-cost',
+    ],
+    schemaType: 'FAQPage',
+    faqs: [
+      {
+        q: 'Why do handpans cost so much?',
+        a: 'Each tone field is hammered and tuned by hand. Steel treatment, heat cycles, QC, and small-batch labor add up. Makers also absorb warranty tuning and shipping risk on fragile shells.',
+      },
+      {
+        q: 'Is an $800 handpan a good deal?',
+        a: 'It can be if tuning videos, steel type, and return policies are solid. Many sub-$900 instruments cut corners. Most lifelong players target $1,400-$2,500 artisan builds instead.',
+      },
+      {
+        q: 'What does Stillforge charge?',
+        a: 'Stillforge commissions begin around $1,800 for nine-note tank-forged drums, with fully custom Hearth projects quoted after scale and note-count consult.',
+      },
+      {
+        q: 'Do used handpans save money?',
+        a: 'Often 10-30 percent below new for common scales in good condition. Verify rust, impact damage, and de-tuning before you pay.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'The four price bands',
+        paragraphs: [
+          'Handpan shopping goes wrong when you compare unlike products. Tongue drums, factory pans, and master artisan builds share photos but not labor hours. Use these bands when you read listings.',
+          'Plan for landed cost: hard case, insured shipping, and a future retune reserve. A $1,500 drum can become $1,900 once essentials are included.',
+        ],
+        table: priceTierTable,
+      },
+      {
+        h2: 'What changes price inside a tier',
+        paragraphs: [
+          'Note count, scale demand, steel treatment, finish hours, and queue length all move quotes. Stainless often costs more upfront but can ease rust anxiety in humid climates. Extra notes mean more tuning sessions and tighter QC.',
+          'Marketing language does not equal stable pitch. Demand sustained-tone videos, not only bright attack clips.',
+        ],
+      },
+      {
+        h2: 'Hidden costs owners forget',
+        paragraphs: [
+          'Rigid cases run $150-$400. International insured shipping can add $80-$250. Microfiber cleaning, light oil on some steels, and humidity packs are cheap insurance against finish damage.',
+          'Lessons are optional but accelerate value. Even a few hours with a teacher prevent hammering habits that make good drums sound dull.',
+        ],
+        list: [
+          'Hard case or flight shell for travel',
+          'Insured shipping on cross-border orders',
+          'Stand or lap cushion for ergonomics',
+          'Retune budget every few years if you play hard',
+        ],
+      },
+      {
+        h2: 'When to skip entry and buy mid-tier',
+        paragraphs: [
+          'If you already know you will play weekly for years, saving longer beats buying twice. Mid artisan instruments, including Stillforge Rivulet and Ember lines, are tuned to stay keepers.',
+          'If you are unsure, rent through a local handpan group or start with a quality tongue drum while you save.',
+        ],
+      },
+      {
+        h2: 'Patience beats impulse',
+        paragraphs: [
+          'Wait lists of months are normal for good makers. Sixteen weeks for stable steel beats sixteen days for a mis-tuned warehouse pan. Document scale name, maker contact, and tuning clips at purchase.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Get a quote that matches the forge',
+      body: 'Tell Stillforge your scale and note count for a commission range without guesswork.',
+      primaryTo: '/commission',
+      primaryLabel: 'Start a commission inquiry',
+    },
+  },
+  {
+    slug: 'best-handpan-drums-by-tier',
+    category: 'compare',
+    title: 'Best Handpan Drums by Tier: A 2026 Buyer Framework',
+    description:
+      'Compare handpan quality by tier, not hype: entry $600-$1,300, mid artisan $1,400-$2,500, premium $2,500-$5,000+, and where tank-forged makers fit.',
+    h1: 'Best Handpan Drums by Tier',
+    ...P,
+    readingMinutes: 11,
+    keywords: [
+      'best handpan drums 2026',
+      'handpan tier list',
+      'best handpan for the money',
+      'handpan quality tiers',
+    ],
+    relatedSlugs: [
+      'how-much-does-a-handpan-cost',
+      'cheap-handpan-warnings',
+      'handpan-buyer-guide',
+      'where-to-buy-a-handpan',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'Is there one best handpan brand?',
+        a: 'No single winner exists for every player. Tiers describe tuning depth, steel quality, and support. Match tier to your budget and how long you plan to keep the instrument.',
+      },
+      {
+        q: 'What tier is best for beginners?',
+        a: 'Beginners who are sure they want a handpan should target mid artisan if possible. If budget is tight, use a quality tongue drum first rather than a bottom-tier pan.',
+      },
+      {
+        q: 'Where does Stillforge rank?',
+        a: 'Stillforge sits in mid artisan custom: tank-forged shells, hand tuning, commission timelines, and pricing from about $1,800 upward.',
+      },
+      {
+        q: 'Are premium tiers worth it?',
+        a: 'Worth it for performers, collectors, and players who need extended range or exotic scales. Casual meditators often plateau happily in mid tier.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'How to use a tier list honestly',
+        paragraphs: [
+          'Tier lists fail when they treat all handpans as one category. Factory-assisted shells, independent makers, and boutique customs share a shape but not the same hours at the tuning ring.',
+          'Use tiers to set expectations: what sustain length, tuning stability, and after-sale support you should demand at each price.',
+        ],
+        table: {
+          headers: ['Tier', 'USD', 'Expect this', 'Red flags'],
+          rows: [
+            ['Entry', '$600-$1,300', 'Playable 9-10 notes', 'No tuning video, no return window'],
+            ['Mid artisan', '$1,400-$2,500', 'Stable pitch, maker contact', 'Anonymous resale only'],
+            ['Premium', '$2,500-$5,000', 'Custom scale, extended range', 'Vague steel claims'],
+            ['Boutique', '$5,000+', 'Rare layouts, long waits', 'Payment without contract'],
+          ],
+        },
+      },
+      {
+        h2: 'Entry tier: when it works',
+        paragraphs: [
+          'Entry instruments can satisfy curious players who accept shorter sustain and occasional retune visits. Read warranty terms and community reviews for the specific builder, not the category average.',
+          'Avoid entry tier if you already record, facilitate paid sound baths, or know you will play daily for years. You will likely rebuy within two seasons.',
+        ],
+      },
+      {
+        h2: 'Mid tier: the working player sweet spot',
+        paragraphs: [
+          'Most community performers and dedicated hobbyists land here. Makers at this band often publish wait times, share tuning clips per build, and answer rust or de-tune questions honestly.',
+          'Stillforge Rivulet and Ember commissions belong here: propane-tank forged shells, nine-note layouts, and consult on scale mood before metal is cut.',
+        ],
+      },
+      {
+        h2: 'Premium and boutique',
+        paragraphs: [
+          'Extended bass layouts, compound scales, and exotic steel treatments push prices up. You are buying tuning time and rarity as much as metal.',
+          'Treat boutique purchases like commissions: contracts, progress media, and clear retune policies.',
+        ],
+      },
+      {
+        h2: 'Pick tier by use case',
+        paragraphs: [
+          'Meditation-only players can be happy in mid tier with a minor scale. Buskers and recording artists should prioritize tuning stability over cosmetic finish. Gift buyers should confirm delivery dates before paying deposits.',
+        ],
+        list: [
+          'Daily practice for 3+ years: mid or premium',
+          'Testing interest: tongue drum or rental first',
+          'Custom story and forge aesthetic: Stillforge commission',
+          'Tight holiday deadline: only ready-made with proven ship date',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Shop by tier, not by photo',
+      body: 'Compare Stillforge commissions to factory options with your budget and timeline in mind.',
+      primaryTo: '/shop',
+      primaryLabel: 'View the shop',
+    },
+  },
+  {
+    slug: 'hang-drum-vs-handpan',
+    category: 'compare',
+    title: 'Hang Drum vs Handpan: Names, History, and What to Buy Today',
+    description:
+      'Hang drum vs handpan explained: PANArt trademark history, why handpan is the generic term, and how to shop modern melodic steel without confusion.',
+    h1: 'Hang Drum vs Handpan',
+    ...P,
+    readingMinutes: 8,
+    keywords: [
+      'hang drum vs handpan',
+      'hang vs handpan',
+      'what is a hang drum',
+      'handpan naming',
+    ],
+    relatedSlugs: [
+      'history-of-the-hang-and-handpan',
+      'what-is-a-handpan',
+      'handpan-buyer-guide',
+      'how-much-does-a-handpan-cost',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'Is Hang the same as handpan?',
+        a: 'Hang was PANArt trademarked name for their instrument. Handpan is the community generic term for similar convex steel drums. Not every handpan is a Hang, and new Hang instruments are scarce and expensive on the secondary market.',
+      },
+      {
+        q: 'Should I search for Hang drum when buying?',
+        a: 'Search handpan for modern options. Use Hang only if you specifically want vintage PANArt pieces and accept collector pricing and condition risk.',
+      },
+      {
+        q: 'Do handpans copy the Hang?',
+        a: 'The form factor is shared, but makers differentiate through steel, tuning philosophy, and scale layouts. Ethical builders avoid counterfeit Hang stamps and explain their own process.',
+      },
+      {
+        q: 'Is Stillforge a Hang?',
+        a: 'No. Stillforge builds propane-tank forged melodic drums in the wider handpan family with its own forge process and scales.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Quick answer on naming',
+        paragraphs: [
+          'Hang refers to PANArt early convex steel drum. Handpan refers to the instrument class that grew after makers worldwide adapted similar shells and tuning methods.',
+          'When someone asks for a hang drum today, they usually mean any handpan. Sellers should use precise language so buyers know whether they are getting a vintage Hang or a modern build.',
+        ],
+        table: {
+          headers: ['Term', 'Meaning today', 'Buyer note'],
+          rows: [
+            ['Hang', 'PANArt product name', 'Collector market, limited supply'],
+            ['Handpan', 'Generic instrument class', 'Shop here for new builds'],
+            ['Pantam', 'Regional slang in some communities', 'Confirm builder and scale'],
+            ['Steel drum', 'Often wrong category', 'Usually means Caribbean steelpan'],
+          ],
+        },
+      },
+      {
+        h2: 'Why the distinction still matters',
+        paragraphs: [
+          'Trademark and history respect aside, pricing differs wildly. Vintage Hang pieces can exceed $5,000 used. New handpans span $600-$5,000+ depending on tier.',
+          'Confusing names enables scams: listings that say Hang but ship unbranded factory pans. Ask for maker name, scale, and serial or build photos.',
+        ],
+      },
+      {
+        h2: 'Sound expectations',
+        paragraphs: [
+          'Early Hang instruments set the template: warm ding, balanced fields, moderate sustain. Modern handpans vary wider. Some are brighter, some darker, some tuned for longer decay.',
+          'Listen to full-sustain clips before you romanticize the Hang label. A well-tuned modern mid-tier pan can satisfy players who never touch vintage steel.',
+        ],
+      },
+      {
+        h2: 'Shopping in 2026',
+        paragraphs: [
+          'Buy new from named makers with wait lists and tuning videos. Buy vintage Hang only with expert verification or trusted community escrow.',
+          'Stillforge offers a different story: tank-forged origin, streamside brand language, and commissions rather than Hang nostalgia marketing.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Explore the handpan family on your terms',
+      body: 'Learn scales on the player, then commission steel that is honest about what it is not.',
+      primaryTo: '/play',
+      primaryLabel: 'Try the virtual drum',
+    },
+  },
+  {
+    slug: 'propane-tank-drum-explained',
+    category: 'compare',
+    title: 'Propane Tank Drum Explained: From Cylinder to Melodic Steel',
+    description:
+      'How propane tank drums are made, how they compare to handpans and tongue drums, and why Stillforge forges melodic instruments from retired tanks.',
+    h1: 'Propane Tank Drum Explained',
+    ...P,
+    readingMinutes: 9,
+    keywords: [
+      'propane tank drum',
+      'tank drum instrument',
+      'propane tank handpan',
+      'forged steel drum',
+    ],
+    relatedSlugs: [
+      'how-propane-tank-drums-are-forged',
+      'handpan-vs-tongue-drum',
+      'custom-handpan-vs-ready-made',
+      'materials-we-trust',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'Is a propane tank drum safe to play?',
+        a: 'Professional makers use emptied, purged tanks with no residual fuel. The shell is cut, heated, and tuned like other steel forms. Buy from builders who document prep and finishing, not anonymous craft fair pieces without tuning data.',
+      },
+      {
+        q: 'Does tank steel sound different?',
+        a: 'Wall thickness and prior forming can add character. Skilled makers compensate during tuning. The result is often a warm, slightly industrial voice that photos alone cannot convey.',
+      },
+      {
+        q: 'Is this just a gimmick?',
+        a: 'It is a material choice. Tanks are thick steel cylinders already shaped for pressure. Forges that respect the metal can turn them into serious melodic instruments, not novelty percussion.',
+      },
+      {
+        q: 'How does Stillforge use tanks?',
+        a: 'Stillforge starts from cleaned tanks, shapes tone fields by hand, and tunes layouts such as D Kurd-inspired and Celtic Minor-inspired scales. Commissions include consult and progress updates.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'What people mean by tank drum',
+        paragraphs: [
+          'A propane tank drum is a melodic steel instrument whose shell began as a liquefied petroleum cylinder. Makers cut openings, dish surfaces, and tune discrete notes on what was once a utilitarian container.',
+          'The category overlaps handpan-style convex layouts and tongue-style cuts on tank ends. The shared thread is repurposed steel with forge labor, not laser-cut hobby blanks alone.',
+        ],
+      },
+      {
+        h2: 'Forge steps in plain language',
+        paragraphs: [
+          'Typical flow: purge and inspect the tank, cut and hammer the playing surface, define tone fields or tongues, heat-treat as needed, then spend hours matching pitch and overtones across neighbors.',
+          'Stillforge documents this arc from tank to tuned instrument on the craft pages. The work is slow metal, not sticker assembly.',
+        ],
+        table: {
+          headers: ['Stage', 'Purpose', 'Risk if skipped'],
+          rows: [
+            ['Purge and inspect', 'Remove fuel residue', 'Safety and finish flaws'],
+            ['Shape shell', 'Define crown and port', 'Weak tone fields'],
+            ['Tune fields', 'Match scale neighbors', 'Beating notes, short sustain'],
+            ['Finish and seal', 'Rust control', 'Early de-tuning, stains'],
+          ],
+        },
+      },
+      {
+        h2: 'Tank drums vs other melodic steel',
+        paragraphs: [
+          'Laser tongue drums optimize for speed and price. Traditional handpans optimize for convex hand technique. Tank-forged builds trade some factory consistency for story, thickness, and custom voice.',
+          'Expect mid artisan pricing near $1,400-$2,500 and up, not tongue-drum pricing near $200.',
+        ],
+      },
+      {
+        h2: 'Who should consider one',
+        paragraphs: [
+          'Choose a tank-forged drum if you want artisan provenance, outdoor ritual aesthetics, and a commission relationship. Skip it if you need the lightest travel instrument or lowest cash outlay.',
+        ],
+        list: [
+          'Good fit: custom scale, forge story, long-term keeper',
+          'Poor fit: impulse gift under $500',
+          'Try first: virtual player and scale guides',
+          'Ask makers: tuning clip of your exact build',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'From tank to tuned steel',
+      body: 'See the Stillforge craft path and start a commission when the voice fits.',
+      primaryTo: '/craft',
+      primaryLabel: 'Explore the forge',
+    },
+  },
+  {
+    slug: 'handpan-buyer-guide',
+    category: 'compare',
+    title: 'Handpan Buyer Guide: Budget, Scales, Makers, and Red Flags',
+    description:
+      'A step-by-step handpan buyer guide for 2026: set budget, choose scale and note count, vet makers, and avoid cheap traps before you pay.',
+    h1: 'Handpan Buyer Guide',
+    ...P,
+    readingMinutes: 12,
+    keywords: [
+      'handpan buyer guide',
+      'how to buy a handpan',
+      'first handpan purchase',
+      'handpan shopping checklist',
+    ],
+    relatedSlugs: [
+      'how-much-does-a-handpan-cost',
+      'handpan-scales-compared',
+      'cheap-handpan-warnings',
+      'where-to-buy-a-handpan',
+    ],
+    schemaType: 'HowTo',
+    faqs: [
+      {
+        q: 'What should I decide first?',
+        a: 'Budget band and primary use: meditation, performance, outdoor play, or gift. Those two answers narrow scale and note count faster than browsing photos.',
+      },
+      {
+        q: 'How many notes do I need?',
+        a: 'Nine notes suit most beginners. Ten or eleven add range but weight and cost. Extended layouts help composers, not first-week players.',
+      },
+      {
+        q: 'New or used?',
+        a: 'New gives warranty and known history. Used saves money if you verify rust, dents, and tuning with a clip or local player.',
+      },
+      {
+        q: 'Should I commission?',
+        a: 'Commission when you want scale choice, finish input, and maker relationship. Stillforge commissions fit buyers who accept wait time for custom tank-forged builds.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Step 1: Set a landed budget',
+        paragraphs: [
+          'Pick instrument tier plus case and shipping. Entry pans start near $600 but mid artisan near $1,400-$2,500 is the safer lifelong band. Premium customs cross $2,500 and can exceed $5,000.',
+          'Add $150-$400 for a hard case and $80-$250 for insured shipping when buying cross-border.',
+        ],
+        table: priceTierTable,
+      },
+      {
+        h2: 'Step 2: Choose scale mood',
+        paragraphs: [
+          'Minor layouts like D Kurd feel introspective and forgiving. Celtic Minor adds light and shadow. Hijaz brings spice for experienced ears. Match mood to where you will play most.',
+          'Use education guides and the Stillforge player to hear layouts before you order.',
+        ],
+      },
+      {
+        h2: 'Step 3: Vet the maker',
+        paragraphs: [
+          'Require tuning evidence for the exact instrument or a clear commission process. Read retune policies, wait times, and rust guidance for your steel type.',
+          'Red flags: stock photos only, no maker name, prices far below tier norms, pressure to pay without invoice.',
+        ],
+        list: [
+          'Sustained-tone video, not only attack',
+          'Written scale and note map',
+          'Return or deposit terms you understand',
+          'Community presence or verifiable reviews',
+        ],
+      },
+      {
+        h2: 'Step 4: Plan delivery and care',
+        paragraphs: [
+          'Confirm ship date if gift timing matters. Order humidity care supplies before the drum arrives. Schedule a lesson or workshop month one so habits stay gentle.',
+        ],
+      },
+      {
+        h2: 'Step 5: First week ownership',
+        paragraphs: [
+          'Play short sessions, keep hands clean and dry, and store in the case off the floor. Document serial or build marks and maker contact for future retunes.',
+          'If something sounds wrong immediately, contact the maker before aggressive DIY fixes.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Buy with evidence, not hope',
+      body: 'Commission a Stillforge drum with scale consult and tuning updates through the build.',
+      primaryTo: '/commission',
+      primaryLabel: 'Start your commission',
+    },
+  },
+  {
+    slug: 'nitrided-vs-stainless-handpan',
+    category: 'compare',
+    title: 'Nitrided vs Stainless Handpan: Tone, Rust, and Maintenance',
+    description:
+      'Nitrided vs stainless handpan steel compared for tone color, corrosion resistance, climate, and long-term care costs in plain owner language.',
+    h1: 'Nitrided vs Stainless Handpan',
+    ...P,
+    readingMinutes: 9,
+    keywords: [
+      'nitrided vs stainless handpan',
+      'handpan steel types',
+      'nitrided handpan care',
+      'stainless handpan',
+    ],
+    relatedSlugs: [
+      'handpan-care-and-rust-prevention',
+      'steel-properties-for-melodic-drums',
+      'handpan-buyer-guide',
+      'how-handpans-are-made',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'Which steel is more rust resistant?',
+        a: 'Stainless generally tolerates humidity and sweaty hands better. Nitrided steel can sound warm but often demands consistent wiping and light oil in damp climates.',
+      },
+      {
+        q: 'Does nitrided sound better?',
+        a: 'Some players prefer nitrided warmth and shorter bright edge. Others prefer stainless clarity and stability. Neither is universally better; listen on identical scale clips.',
+      },
+      {
+        q: 'Is stainless worth the upcharge?',
+        a: 'Worth it if you live coastal, play outdoors often, or dislike maintenance rituals. Nitrided can be fine indoors with disciplined care.',
+      },
+      {
+        q: 'What does Stillforge use?',
+        a: 'Ask during commission consult. Stillforge selects steel for each build based on voice goals and how you will store and play the drum.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Quick comparison',
+        paragraphs: [
+          'Nitrided steel is heat-treated for a hard, dark surface many listeners describe as warm and compact. Stainless resists corrosion and often presents a cleaner, longer sustain in humid rooms.',
+          'Your climate and cleaning habits matter as much as tone charts.',
+        ],
+        table: {
+          headers: ['Factor', 'Nitrided', 'Stainless'],
+          rows: [
+            ['Rust risk', 'Higher without care', 'Lower, not zero'],
+            ['Typical tone', 'Warm, controlled', 'Clear, open'],
+            ['Maintenance', 'Wipe and oil often', 'Wipe, less oil'],
+            ['Price tendency', 'Common on mid pans', 'Often premium upcharge'],
+            ['Outdoor play', 'Needs quick dry-down', 'More forgiving'],
+          ],
+        },
+      },
+      {
+        h2: 'Owner routines that actually matter',
+        paragraphs: [
+          'Both steels hate standing moisture in cases. Both suffer if children or guests bang with rings or sticks. Neither replaces a hard case for flights.',
+          'If you will never maintain steel, buy stainless and still keep a cloth by the case. If you love ritual care, nitrided can reward you with color you enjoy.',
+        ],
+      },
+      {
+        h2: 'Climate cheat sheet',
+        paragraphs: [
+          'Coastal apartments favor stainless or strict nitrided discipline. Dry mountain air is kinder to nitrided. Outdoor streamside sessions demand wipe-down before case storage regardless of steel.',
+        ],
+      },
+      {
+        h2: 'How to choose when shopping',
+        paragraphs: [
+          'Request A/B clips from the same maker when possible. Different tuners extract different voices from the same steel label.',
+          'Stillforge commissions include material conversation so you are not guessing from a spec sheet alone.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Match steel to your room and habits',
+      body: 'Discuss climate and care time on a Stillforge commission consult.',
+      primaryTo: '/commission',
+      primaryLabel: 'Ask about steel options',
+    },
+  },
+  {
+    slug: 'handpan-scales-compared',
+    category: 'compare',
+    title: 'Handpan Scales Compared: D Kurd, Celtic Minor, Hijaz, and More',
+    description:
+      'Compare popular handpan scales by mood, difficulty, and use case so you can commission or buy the layout that fits meditation, song, or performance.',
+    h1: 'Handpan Scales Compared',
+    ...P,
+    readingMinutes: 11,
+    keywords: [
+      'handpan scales compared',
+      'D Kurd vs Celtic Minor',
+      'best handpan scale',
+      'Hijaz handpan scale',
+    ],
+    relatedSlugs: [
+      'd-kurd-scale-guide',
+      'celtic-minor-scale-guide',
+      'hijaz-scale-guide',
+      'understanding-handpan-scales',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'What is the easiest handpan scale?',
+        a: 'D Kurd and other minor pentatonic layouts forgive exploratory playing. They sound cohesive even when you repeat simple patterns.',
+      },
+      {
+        q: 'What scale is best for meditation?',
+        a: 'Soft minor scales and some integral layouts work well. Avoid exotic scales with tense intervals until you know they calm you rather than stimulate you.',
+      },
+      {
+        q: 'Can I change scale later?',
+        a: 'You buy a fixed layout. Retuning to another scale is expensive. Choose slowly using audio samples and the virtual player.',
+      },
+      {
+        q: 'Does Stillforge offer multiple scales?',
+        a: 'Yes. Rivulet and Ember lines reference D Kurd-inspired and Celtic Minor-inspired layouts, and Hearth Custom supports consult on other moods.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Scale comparison table',
+        paragraphs: [
+          'Scales are mood engines. The same technique feels different when intervals change. Use this table as a starting map, then trust your ears.',
+        ],
+        table: {
+          headers: ['Scale', 'Mood', 'Best for', 'Caution'],
+          rows: [
+            ['D Kurd', 'Grounded minor', 'Beginners, meditation', 'Can feel common'],
+            ['Celtic Minor', 'Bittersweet light', 'Outdoor evening play', 'Less exotic tension'],
+            ['Hijaz', 'Spice and drama', 'Performance color', 'Can unsettle calm seekers'],
+            ['Integral minor', 'Floating calm', 'Long sustain practice', 'Less pop familiarity'],
+            ['Major pentatonic', 'Open, bright', 'Family-friendly', 'Less introspective'],
+          ],
+        },
+      },
+      {
+        h2: 'D Kurd and minor family',
+        paragraphs: [
+          'D Kurd is the default recommendation for first commissions because it balances familiarity and depth. Patterns repeat pleasantly without demanding theory.',
+          'If you want slightly more light, Celtic Minor-inspired layouts add lift while staying approachable.',
+        ],
+      },
+      {
+        h2: 'Exotic and mixed scales',
+        paragraphs: [
+          'Hijaz and similar modes add interval tension that excites some players and distracts others. Try them on the player or long-form videos before you commit.',
+        ],
+      },
+      {
+        h2: 'Matching scale to setting',
+        paragraphs: [
+          'Sound baths often favor slow minor layouts. Backyard sessions can handle brighter modes. Recording artists may want uncommon scales for identity.',
+          'Stillforge scale consult exists because photos cannot convey interval feeling.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Hear scales before you commission',
+      body: 'Use the Stillforge player and scale guides, then pick a layout for your commission.',
+      primaryTo: '/play',
+      primaryLabel: 'Play scale layouts',
+    },
+  },
+  {
+    slug: 'rav-vast-vs-handpan',
+    category: 'compare',
+    title: 'RAV Vast vs Handpan: Size, Sound, and Use Cases',
+    description:
+      'RAV Vast vs handpan compared: tongue-pan hybrids, price bands, portability, and when each instrument fits meditation, travel, or performance.',
+    h1: 'RAV Vast vs Handpan',
+    ...P,
+    readingMinutes: 9,
+    keywords: [
+      'RAV Vast vs handpan',
+      'RAV Vast comparison',
+      'tongue pan vs handpan',
+      'RAV handpan alternative',
+    ],
+    relatedSlugs: [
+      'handpan-vs-tongue-drum',
+      'acoustic-vs-electronic-handpan',
+      'how-much-does-a-handpan-cost',
+      'handpan-size-and-note-count-guide',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'Is RAV Vast a handpan?',
+        a: 'It is often called a tongue pan: a wide steel vessel with cut tongues and a deep body. It shares fixed-scale melody with handpans but uses a different playing surface and mallet-friendly design.',
+      },
+      {
+        q: 'Which is easier to travel with?',
+        a: 'RAV Vast models are bulky but durable and work with mallets. Handpans need hand technique and careful cases but can be lighter in some sizes. Both require padded transport.',
+      },
+      {
+        q: 'Which sounds more like a handpan?',
+        a: 'Convex handpans offer hand-voice swells RAV instruments approximate with mallets and different overtone structure. Listen side by side on the same scale name before deciding.',
+      },
+      {
+        q: 'Can Stillforge replace a RAV?',
+        a: 'If you want hand-played convex tone and tank-forged story, Stillforge commissions target handpan technique rather than mallet tongue-pan feel.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Side-by-side overview',
+        paragraphs: [
+          'RAV Vast instruments excel at durable, mallet-friendly meditation and outdoor play. Traditional handpans excel at hand dynamics and busker-friendly voice.',
+          'Price overlaps in mid tiers near $1,200-$2,000 depending on model and dealer, while premium handpans still stretch higher for custom work.',
+        ],
+        table: {
+          headers: ['Factor', 'RAV Vast', 'Handpan'],
+          rows: [
+            ['Play style', 'Mallets or hands on tongues', 'Hands on tone fields'],
+            ['Body shape', 'Wide pan, deep skirt', 'Convex UFO shell'],
+            ['Volume', 'Strong projection', 'Variable, hand-controlled'],
+            ['Learning', 'Fast with mallets', 'Moderate hand technique'],
+            ['Custom story', 'Factory product lines', 'Many artisan commissions'],
+          ],
+        },
+      },
+      {
+        h2: 'Sound character',
+        paragraphs: [
+          'RAV tones are punchy and clear with defined tongues. Handpans blend ding and shoulder tones for longer phrases. Neither is objectively better; facilitators pick based on session style.',
+        ],
+      },
+      {
+        h2: 'Price and value framing',
+        paragraphs: [
+          'Compare landed cost with cases and shipping. A discounted RAV plus case can rival entry handpans. Mid artisan handpans near $1,400-$2,500 compete on voice depth, not feature checklists.',
+        ],
+      },
+      {
+        h2: 'Choosing for your path',
+        paragraphs: [
+          'Pick RAV if you want mallet meditation kits and rugged group play. Pick handpan if you want lap playing and hand expression. Pick Stillforge if forge narrative and custom scale matter.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Prefer hand-played steel?',
+      body: 'Try Stillforge layouts on the virtual player and compare to tongue-pan clips you already know.',
+      primaryTo: '/play',
+      primaryLabel: 'Compare on the player',
+    },
+  },
+  {
+    slug: 'cheap-handpan-warnings',
+    category: 'compare',
+    title: 'Cheap Handpan Warnings: What Sub-$600 Listings Hide',
+    description:
+      'Cheap handpan red flags: mis-tuned steel, fake photos, wrong category imports, and smarter ways to spend $600-$1,300 without regret.',
+    h1: 'Cheap Handpan Warnings',
+    ...P,
+    readingMinutes: 8,
+    keywords: [
+      'cheap handpan warnings',
+      'fake handpan',
+      'budget handpan mistakes',
+      'handpan scams',
+    ],
+    relatedSlugs: [
+      'how-much-does-a-handpan-cost',
+      'handpan-buyer-guide',
+      'where-to-buy-a-handpan',
+      'best-handpan-drums-by-tier',
+    ],
+    schemaType: 'FAQPage',
+    faqs: [
+      {
+        q: 'Are $300 handpans ever legitimate?',
+        a: 'Rarely. That price usually indicates toy steel, mislabeled tongue drums, or untuned shells. Spend on a quality tongue drum instead until you can reach entry handpan tier near $600 with proof.',
+      },
+      {
+        q: 'What photo tricks do sellers use?',
+        a: 'Stock images, borrowed tuning clips, and re-used maker logos. Demand video of the serial or build mark you will receive.',
+      },
+      {
+        q: 'Is free shipping a good sign?',
+        a: 'Not alone. Heavy steel should cost real shipping. Absurdly low totals often mean absent warranty or counterfeit branding.',
+      },
+      {
+        q: 'What should I do with a bad cheap pan?',
+        a: 'Stop playing hard to avoid worse de-tuning. Contact seller if any window exists. Otherwise use it as a caution tale and save for mid tier or Stillforge commission.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Why cheap handpans fail',
+        paragraphs: [
+          'Tuning time is the cost center. Bargain listings skip hours at the ring, use inconsistent steel, and ship without support. They look like handpans in photos and disappoint in living rooms.',
+          'Honest entry tier starts near $600 and still requires vetting. Mid artisan near $1,400-$2,500 is where stability jumps.',
+        ],
+      },
+      {
+        h2: 'Red flag checklist',
+        paragraphs: [
+          'Walk away when several flags stack.',
+        ],
+        list: [
+          'Price far below tier norms with no maker story',
+          'No tuning video of the exact unit',
+          'Hang or PANArt claims on generic shells',
+          'All sales final on untested steel',
+          'Reviews only on the listing page, nowhere else',
+        ],
+      },
+      {
+        h2: 'Smarter uses of limited budget',
+        paragraphs: [
+          'Buy a $200-$400 tongue drum, save monthly, and rent or borrow handpans at meetups. Try the Stillforge player while you save for a commission near $1,800.',
+        ],
+        table: {
+          headers: ['Budget', 'Smart move', 'Risky move'],
+          rows: [
+            ['Under $400', 'Quality tongue drum', 'Fake handpan listing'],
+            ['$600-$900', 'Vetted entry maker', 'Anonymous warehouse pan'],
+            ['$1,400+', 'Mid artisan or Stillforge', 'Rushing unknown resale'],
+          ],
+        },
+      },
+      {
+        h2: 'Protect yourself when buying',
+        paragraphs: [
+          'Use traceable payment, written scale maps, and insured shipping. Community vouching beats influencer hype.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Skip the trap, plan a real instrument',
+      body: 'Commission once with tuning proof instead of buying twice.',
+      primaryTo: '/commission',
+      primaryLabel: 'Plan a commission',
+    },
+  },
+  {
+    slug: 'custom-handpan-vs-ready-made',
+    category: 'compare',
+    title: 'Custom Handpan vs Ready Made: Wait Time, Voice, and Value',
+    description:
+      'Custom handpan vs ready-made stock: lead times, scale choice, tuning control, and when Stillforge commissions beat warehouse pans.',
+    h1: 'Custom Handpan vs Ready Made',
+    ...P,
+    readingMinutes: 9,
+    keywords: [
+      'custom handpan vs ready made',
+      'handpan commission vs stock',
+      'custom handpan wait time',
+      'made to order handpan',
+    ],
+    relatedSlugs: [
+      'commissioning-a-custom-drum',
+      'handpan-buyer-guide',
+      'propane-tank-drum-explained',
+      'where-to-buy-a-handpan',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'How long do custom handpans take?',
+        a: 'Common range is 8-20 weeks depending on maker queue and complexity. Holiday gifts need months of lead time.',
+      },
+      {
+        q: 'Is ready-made lower quality?',
+        a: 'Not always. Some makers keep excellent in-stock pans for common scales. Custom adds choice, not automatic quality.',
+      },
+      {
+        q: 'When is custom worth it?',
+        a: 'Worth it when scale, note count, finish, or story matter. Skip it when you need a guaranteed ship date next week.',
+      },
+      {
+        q: 'How does Stillforge work?',
+        a: 'Stillforge is made-to-order tank-forged work with consult, progress updates, and tuning media before delivery.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Decision snapshot',
+        paragraphs: [
+          'Ready-made wins on speed and predictable checkout. Custom wins on identity and matching your hands to a chosen layout.',
+        ],
+        table: {
+          headers: ['Factor', 'Ready-made', 'Custom commission'],
+          rows: [
+            ['Delivery', 'Days to few weeks', 'Weeks to months'],
+            ['Scale choice', 'Popular layouts in stock', 'Consult on mood and notes'],
+            ['Price', 'Listed upfront', 'Quote after spec'],
+            ['Relationship', 'Dealer or shop', 'Direct maker dialogue'],
+            ['Stillforge fit', 'Limited if any stock', 'Primary business model'],
+          ],
+        },
+      },
+      {
+        h2: 'Hidden tradeoffs',
+        paragraphs: [
+          'Custom requires patience and trust through deposits. Ready-made can hide last-year inventory or shop humidity neglect. Inspect either path with tuning clips.',
+        ],
+      },
+      {
+        h2: 'Gift timing reality',
+        paragraphs: [
+          'If the date is fixed, do not fake urgency with mystery makers. Buy vetted stock or give a beautiful IOU plus virtual player access while a Stillforge build completes.',
+        ],
+      },
+      {
+        h2: 'Quality is not automatic',
+        paragraphs: [
+          'Custom badges do not replace tuning skill. Ready-made from respected makers beats unknown commissions. Vet tuning evidence either way.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Build the drum you actually want',
+      body: 'Start a Stillforge commission with scale consult instead of settling for leftover stock.',
+      primaryTo: '/commission',
+      primaryLabel: 'Begin custom consult',
+    },
+  },
+  {
+    slug: 'handpan-shipping-and-care-cost',
+    category: 'compare',
+    title: 'Handpan Shipping and Care Cost: Beyond the Sticker Price',
+    description:
+      'Handpan shipping, cases, oil, humidity, and retuning costs explained so your true owner budget matches $600-$5,000+ instrument tiers.',
+    h1: 'Handpan Shipping and Care Cost',
+    ...P,
+    readingMinutes: 8,
+    keywords: [
+      'handpan shipping cost',
+      'handpan case price',
+      'handpan maintenance cost',
+      'handpan retuning cost',
+    ],
+    relatedSlugs: [
+      'how-much-does-a-handpan-cost',
+      'handpan-care-and-rust-prevention',
+      'transporting-and-storing-a-handpan',
+      'handpan-buyer-guide',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'How much does handpan shipping cost?',
+        a: 'Domestic insured shipping often runs $40-$120. International can exceed $200 with customs fees. Heavy rigid cases increase weight charges.',
+      },
+      {
+        q: 'Do I need a hard case?',
+        a: 'Yes for travel or kids in the house. Budget $150-$400. Soft bags suffice only for careful indoor use.',
+      },
+      {
+        q: 'How much is retuning?',
+        a: 'Local tuners may charge $100-$300 depending on damage. Prevention through gentle play and dry storage is cheaper.',
+      },
+      {
+        q: 'Does Stillforge include shipping in quotes?',
+        a: 'Commission quotes clarify build price; shipping is calculated for your region at fulfillment. Ask during inquiry.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Landed cost worksheet',
+        paragraphs: [
+          'Add these lines to your spreadsheet before checkout euphoria hits.',
+        ],
+        table: {
+          headers: ['Item', 'Typical USD', 'Notes'],
+          rows: [
+            ['Instrument', '$600-$5,000+', 'Tier dependent'],
+            ['Hard case', '$150-$400', 'Required for flights'],
+            ['Insured shipping', '$40-$250', 'Distance and weight'],
+            ['Care kit', '$15-$40', 'Cloth, light oil if needed'],
+            ['Retune reserve', '$100-$300', 'Every few years'],
+          ],
+        },
+      },
+      {
+        h2: 'Shipping damage prevention',
+        paragraphs: [
+          'Insist on double boxing or flight cases for air travel. Photograph the pack at arrival. Report dents immediately because impacts can de-tune fields slowly.',
+        ],
+      },
+      {
+        h2: 'Daily care costs time, not money',
+        paragraphs: [
+          'Wipe hands, wipe steel, close the case. Humidity packs cost cents compared to rust retunes. Outdoor Stillforge sessions need dry-down before storage.',
+        ],
+      },
+      {
+        h2: 'When insurance matters',
+        paragraphs: [
+          'Insure high-tier customs crossing borders. Entry pans still hurt to replace if lost. Factor insurance into gift purchases.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Protect what you commission',
+      body: 'Plan case and shipping when you inquire about a Stillforge build.',
+      primaryTo: '/commission',
+      primaryLabel: 'Ask about fulfillment',
+    },
+  },
+  {
+    slug: 'sound-healing-instruments-compared',
+    category: 'compare',
+    title: 'Sound Healing Instruments Compared: Bowls, Gongs, Chimes, and Steel',
+    description:
+      'Compare sound healing tools: singing bowls, gongs, chimes, and handpan-style steel for facilitation, travel, and client comfort.',
+    h1: 'Sound Healing Instruments Compared',
+    ...P,
+    readingMinutes: 10,
+    keywords: [
+      'sound healing instruments compared',
+      'handpan for sound healing',
+      'singing bowl vs handpan',
+      'sound bath instruments',
+    ],
+    relatedSlugs: [
+      'handpan-for-sound-baths',
+      'sound-healing-gift-guide',
+      'handpan-vs-tongue-drum',
+      'rav-vast-vs-handpan',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'Is a handpan good for sound baths?',
+        a: 'Yes when played softly with pacing and space. It adds melody bowls cannot, but requires skill to avoid overstimulation.',
+      },
+      {
+        q: 'What is easiest for beginners to facilitate?',
+        a: 'Singing bowls and chimes have gentle learning curves. Handpans need more practice but reward musical phrasing.',
+      },
+      {
+        q: 'What travels best?',
+        a: 'Small bowls and chimes travel light. Handpans need cases. Gongs need vehicles.',
+      },
+      {
+        q: 'Where does Stillforge fit?',
+        a: 'Stillforge drums offer melodic steel voice for facilitators who want forge story and outdoor-friendly durability with proper care.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Comparison table',
+        paragraphs: [
+          'Facilitators often blend tools. This table helps you allocate budget across your first kit.',
+        ],
+        table: {
+          headers: ['Instrument', 'Strength', 'Challenge', 'Typical USD'],
+          rows: [
+            ['Singing bowl', 'Slow wash, familiar', 'Less melody', '$40-$800'],
+            ['Gong', 'Deep immersion', 'Volume, transport', '$300-$3,000+'],
+            ['Chimes / bars', 'Sparkle accents', 'Not a bed alone', '$50-$400'],
+            ['Handpan / steel melody', 'Modal song', 'Technique, cost', '$600-$5,000+'],
+            ['Tongue drum', 'Simple patterns', 'Less sustain', '$100-$500'],
+          ],
+        },
+      },
+      {
+        h2: 'Room size and dynamics',
+        paragraphs: [
+          'Small yoga rooms punish loud gongs. Handpans can whisper if hands stay light. Bowls scale easily for intimate groups.',
+        ],
+      },
+      {
+        h2: 'Client expectations',
+        paragraphs: [
+          'Some clients want drone and wash. Others want recognizable melody. Ask what silence means in your sessions before you buy only one tool.',
+        ],
+      },
+      {
+        h2: 'Building a kit over time',
+        paragraphs: [
+          'Start with bowls plus a melodic steel you practice weekly. Add gongs when you have storage and transport solved.',
+          'Stillforge commissions suit facilitators branding a signature voice rather than renting generic pans.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Add melody to your practice',
+      body: 'Explore Stillforge scales for facilitation and commission when ready.',
+      primaryTo: '/play',
+      primaryLabel: 'Hear healing-friendly scales',
+    },
+  },
+  {
+    slug: 'acoustic-vs-electronic-handpan',
+    category: 'compare',
+    title: 'Acoustic vs Electronic Handpan: Apartments, Headphones, and Feel',
+    description:
+      'Acoustic vs electronic handpan options compared for silent practice, travel, tone realism, and when real steel still wins.',
+    h1: 'Acoustic vs Electronic Handpan',
+    ...P,
+    readingMinutes: 9,
+    keywords: [
+      'acoustic vs electronic handpan',
+      'digital handpan',
+      'handpan VST',
+      'silent handpan practice',
+    ],
+    relatedSlugs: [
+      'recording-handpan-at-home',
+      'rav-vast-vs-handpan',
+      'handpan-buyer-guide',
+      'how-much-does-a-handpan-cost',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'Can electronic handpans replace acoustic?',
+        a: 'They help silent practice and composition but do not teach hand damping and touch on real steel. Best as supplement, not permanent substitute for performers.',
+      },
+      {
+        q: 'What about apps and VSTs?',
+        a: 'Useful and affordable. Latency and dynamics vary. Stillforge offers a browser player for layout learning before you buy steel.',
+      },
+      {
+        q: 'Are electronic pads worth it?',
+        a: 'Worth it for night practice in thin-wall apartments if you accept different feel. Acoustic remains the goal for buskers and facilitators.',
+      },
+      {
+        q: 'Should I buy acoustic first?',
+        a: 'If budget allows mid artisan acoustic near $1,400+, buy steel. If not, combine virtual tools with savings toward Stillforge commission.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Side-by-side',
+        paragraphs: [
+          'Electronic tools optimize convenience. Acoustic steel optimizes touch and room bloom.',
+        ],
+        table: {
+          headers: ['Factor', 'Acoustic handpan', 'Electronic / app'],
+          rows: [
+            ['Feel', 'Real damping and overtones', 'Pad or screen, simulated'],
+            ['Volume', 'Acoustic projection', 'Headphone silent'],
+            ['Cost', '$600-$5,000+ steel', '$0-$800 devices'],
+            ['Travel', 'Case and care', 'Laptop or small pad'],
+            ['Performance', 'Busking ready', 'Needs amplification'],
+          ],
+        },
+      },
+      {
+        h2: 'Apartment strategy',
+        paragraphs: [
+          'Practice pads and apps at night, acoustic sessions in park or studio time. Neighbors thank you for the split plan.',
+        ],
+      },
+      {
+        h2: 'Recording workflow',
+        paragraphs: [
+          'Producers blend VST layers with acoustic takes. Beginners should still spend hours on real steel if performance is the goal.',
+        ],
+      },
+      {
+        h2: 'Stillforge path',
+        paragraphs: [
+          'Use the site player to learn layouts electronically, then commission acoustic tank-forged steel when ready for full touch.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Start digital, finish in steel',
+      body: 'Play the Stillforge virtual drum now and plan an acoustic commission later.',
+      primaryTo: '/play',
+      primaryLabel: 'Launch the player',
+    },
+  },
+  {
+    slug: 'handpan-size-and-note-count-guide',
+    category: 'compare',
+    title: 'Handpan Size and Note Count Guide: Portability vs Range',
+    description:
+      'Handpan diameter, depth, and note counts from 8 to 13+ compared for beginners, travel, and composers choosing commissions.',
+    h1: 'Handpan Size and Note Count Guide',
+    ...P,
+    readingMinutes: 9,
+    keywords: [
+      'handpan note count',
+      'handpan size guide',
+      '9 note vs 10 note handpan',
+      'handpan portability',
+    ],
+    relatedSlugs: [
+      'handpan-scales-compared',
+      'handpan-buyer-guide',
+      'custom-handpan-vs-ready-made',
+      'handpan-shipping-and-care-cost',
+    ],
+    schemaType: 'Article',
+    faqs: [
+      {
+        q: 'How many notes should a beginner buy?',
+        a: 'Nine notes in a clear minor layout is the common recommendation. More notes add weight and cost without helping week-one learning.',
+      },
+      {
+        q: 'Do bigger handpans sound better?',
+        a: 'Larger shells can support deeper notes and longer sustain but lap comfort suffers. Match size to your body and travel plans.',
+      },
+      {
+        q: 'What about mutant or low layouts?',
+        a: 'Extended bass layouts help advanced players and cost premium prices. Beginners should master nine-note maps first.',
+      },
+      {
+        q: 'What does Stillforge build?',
+        a: 'Rivulet and Ember lines use nine notes. Hearth Custom supports roughly 8-11 notes after consult.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Note count comparison',
+        paragraphs: [
+          'More notes are not automatically better. Each field must tune with neighbors, increasing build time and failure risk.',
+        ],
+        table: {
+          headers: ['Notes', 'Pros', 'Cons', 'Typical buyer'],
+          rows: [
+            ['8', 'Light, focused', 'Less range', 'Travel minimalists'],
+            ['9', 'Balanced default', 'Common sound', 'Beginners, Stillforge Rivulet'],
+            ['10-11', 'More melody options', 'Heavier, pricier', 'Experienced hobbyists'],
+            ['12+', 'Composer range', 'Premium, bulky', 'Performers, custom orders'],
+          ],
+        },
+      },
+      {
+        h2: 'Size and lap comfort',
+        paragraphs: [
+          'Try holding similar diameters if possible. Shoulders should relax. If you slouch, step down in size even if you crave extra notes.',
+        ],
+      },
+      {
+        h2: 'Travel and case weight',
+        paragraphs: [
+          'Every extra note adds mass. Airlines care about case dimensions. Outdoor hikers sometimes choose smaller scales with fewer fields.',
+        ],
+      },
+      {
+        h2: 'Commission guidance',
+        paragraphs: [
+          'Tell makers where you play and your body size. Stillforge consults on note count before cutting tank steel so you do not overbuy range.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Right-size your commission',
+      body: 'Ask Stillforge for nine-note defaults or custom counts matched to your lap and bag.',
+      primaryTo: '/commission',
+      primaryLabel: 'Discuss note count',
+    },
+  },
+  {
+    slug: 'where-to-buy-a-handpan',
+    category: 'compare',
+    title: 'Where to Buy a Handpan Safely: Makers, Dealers, and Commissions',
+    description:
+      'Where to buy a handpan in 2026: direct makers, trusted dealers, used market tips, and Stillforge commission path with tuning proof.',
+    h1: 'Where to Buy a Handpan',
+    ...P,
+    readingMinutes: 10,
+    keywords: [
+      'where to buy a handpan',
+      'buy handpan online',
+      'handpan maker list',
+      'handpan dealer',
+    ],
+    relatedSlugs: [
+      'handpan-buyer-guide',
+      'cheap-handpan-warnings',
+      'how-much-does-a-handpan-cost',
+      'custom-handpan-vs-ready-made',
+    ],
+    schemaType: 'FAQPage',
+    faqs: [
+      {
+        q: 'Is it safe to buy handpans on marketplace apps?',
+        a: 'Sometimes, if you verify tuning clips, meet locally, or use insured shipping with buyer protection. Avoid anonymous accounts with stock photos.',
+      },
+      {
+        q: 'Should I buy from a dealer or maker?',
+        a: 'Direct maker gives clearest support chain. Reputable dealers help if you need in-stock scales fast. Either works with documentation.',
+      },
+      {
+        q: 'Can I buy Stillforge ready to ship?',
+        a: 'Stillforge focuses on made-to-order tank-forged commissions. Shop listings show examples; inquiry confirms timeline.',
+      },
+      {
+        q: 'What about import taxes?',
+        a: 'Cross-border buys may add duties. Ask sellers before payment so landed cost stays honest.',
+      },
+    ],
+    sections: [
+      {
+        h2: 'Buying channels compared',
+        paragraphs: [
+          'Each channel trades speed, price, and trust differently.',
+        ],
+        table: {
+          headers: ['Channel', 'Best for', 'Watch for'],
+          rows: [
+            ['Direct maker', 'Custom, support', 'Wait lists'],
+            ['Authorized dealer', 'In-stock popular scales', 'Markup, old inventory'],
+            ['Used community', 'Discount common scales', 'Rust, drops, scams'],
+            ['Stillforge commission', 'Tank-forged custom', 'Lead time for gifts'],
+            ['Big marketplaces', 'Rare deals', 'Fake listings, no warranty'],
+          ],
+        },
+      },
+      {
+        h2: 'Verification steps',
+        paragraphs: [
+          'Before money moves, collect maker name, tuning video of your unit, scale map, warranty, and shipping insurance terms.',
+        ],
+        list: [
+          'Search maker name plus de-tune complaints',
+          'Confirm scale spelling on invoice',
+          'Use traceable payment',
+          'Save chat and video links',
+        ],
+      },
+      {
+        h2: 'Regional and import notes',
+        paragraphs: [
+          'EU, US, and Asia makers all produce excellent steel. Import duties do not correlate with quality. Choose tuning evidence over geography pride.',
+        ],
+      },
+      {
+        h2: 'Stillforge purchase path',
+        paragraphs: [
+          'Start at /shop for product framing, /play for scale feel, and /commission for quotes on Rivulet, Ember, or Hearth Custom builds from about $1,800 upward.',
+          'You are buying forge time and tuning, not a anonymous warehouse SKU.',
+        ],
+      },
+    ],
+    cta: {
+      headline: 'Buy from a forge with a face',
+      body: 'Inquire on a Stillforge commission or explore shop examples with real process media.',
+      primaryTo: '/shop',
+      primaryLabel: 'Visit the shop',
+    },
+  },
+]

@@ -85,6 +85,14 @@ export default {
       ],
     },
     {
+      h2: 'Common mistakes we refuse to copy',
+      paragraphs: [
+        'Skipping decommission discipline is the worst shortcut in tank drum culture. We have heard horror stories from buyers who bought from hobbyists who treated empty tanks as guaranteed safe. Our forge refuses that gamble even when a customer pushes for speed.',
+        'Another mistake is tuning before the shell is structurally ready. Early tuning feels productive but collapses when fields shift during later grinding. We tune in phases aligned with metal readiness, not with social media posting schedules.',
+        'Finally, hiding tank provenance hurts support. If a shell behaves oddly, we need to know its batch history. That is why labels survive from intake to ship, and why we encourage you to ask other makers the same traceability questions.',
+      ],
+    },
+    {
       h2: 'Why the steps matter to you',
       paragraphs: [
         'Understanding tank-to-instrument steps helps you buy with eyes open. You will recognize red flags in listings that skip prep talk or promise forty-eight hour turnarounds on handmade work. You will also appreciate why commissions cost what they cost.',
