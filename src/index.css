@@ -642,6 +642,122 @@ h3 {
   stroke: rgba(180, 240, 220, 0.95);
 }
 
+/* Idle affordance: make it obvious the drum is playable */
+.drum-wrap.is-idle .tone-field {
+  animation: tone-idle 2.4s var(--ease-water) infinite;
+}
+
+@keyframes tone-idle {
+  0%,
+  100% {
+    fill: rgba(196, 165, 116, 0.14);
+    stroke: rgba(224, 196, 154, 0.65);
+  }
+  50% {
+    fill: rgba(224, 196, 154, 0.3);
+    stroke: rgba(255, 236, 196, 0.95);
+  }
+}
+
+.drum-wrap.is-idle .drum-aura {
+  animation: aura-idle 2.4s ease-in-out infinite;
+}
+
+@keyframes aura-idle {
+  0%,
+  100% {
+    opacity: 0.5;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.95;
+    transform: scale(1.06);
+  }
+}
+
+.drum-prompt {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+  z-index: 4;
+}
+
+.drum-prompt::before,
+.drum-prompt::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 42%;
+  height: 42%;
+  border-radius: 50%;
+  border: 2px solid rgba(224, 196, 154, 0.55);
+  transform: translate(-50%, -50%);
+  animation: sonar 2.4s ease-out infinite;
+}
+
+.drum-prompt::after {
+  animation-delay: 1.2s;
+}
+
+@keyframes sonar {
+  0% {
+    opacity: 0.7;
+    width: 30%;
+    height: 30%;
+  }
+  100% {
+    opacity: 0;
+    width: 92%;
+    height: 92%;
+  }
+}
+
+.drum-prompt-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.15rem;
+  border-radius: 999px;
+  background: rgba(12, 20, 18, 0.82);
+  border: 1px solid rgba(224, 196, 154, 0.6);
+  backdrop-filter: blur(6px);
+  color: var(--brass-hot);
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  letter-spacing: 0.01em;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.45);
+  animation: badge-bob 2s ease-in-out infinite;
+}
+
+.drum-prompt-badge svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+@keyframes badge-bob {
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    transform: translateY(-4px) scale(1.04);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .drum-wrap.is-idle .tone-field,
+  .drum-wrap.is-idle .drum-aura,
+  .drum-prompt::before,
+  .drum-prompt::after,
+  .drum-prompt-badge {
+    animation: none;
+  }
+}
+
 .ripple {
   fill: none;
   stroke: var(--water-glow);

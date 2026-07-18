@@ -20,6 +20,7 @@ function hueForIndex(i, total) {
 export default function PlayableDrum({ showControls = true, size = 'hero' }) {
   const notes = getNotes()
   const [ready, setReady] = useState(isUnlocked())
+  const [hasInteracted, setHasInteracted] = useState(false)
   const [active, setActive] = useState(null)
   const [pulse, setPulse] = useState(false)
   const [floatOn, setFloatOn] = useState(true)
@@ -84,6 +85,7 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
     async (noteId, el, velocity = 0.85) => {
       const note = notes.find((n) => n.id === noteId)
       if (!note) return
+      setHasInteracted(true)
       const now = performance.now()
       if (now - (lastStrikeRef.current[noteId] || 0) < 45) return
       lastStrikeRef.current[noteId] = now
@@ -212,7 +214,7 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
     <div className={`drum-panel drum-${size}${pulse ? ' is-pulsing' : ''}`}>
       <div
         ref={wrapRef}
-        className={`drum-wrap${floatOn ? ' drum-float' : ''}`}
+        className={`drum-wrap${floatOn ? ' drum-float' : ''}${hasInteracted ? '' : ' is-idle'}`}
         role="application"
         aria-label="Playable Stillforge melodic drum. Tap tone fields, drag to glissando, or press number keys 1 to 9."
       >
@@ -220,6 +222,16 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
         <div className="drum-ember" aria-hidden="true" />
         <div ref={sparksRef} className="strike-sparks" aria-hidden="true" />
         <div ref={popRef} className="note-pops" aria-hidden="true" />
+        {!hasInteracted && (
+          <div className="drum-prompt" aria-hidden="true">
+            <span className="drum-prompt-badge">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M8 5v14l11-7z" />
+              </svg>
+              Tap to play
+            </span>
+          </div>
+        )}
         <svg className="drum-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
           <defs>
             <radialGradient id={`${svgId}-shell`} cx="34%" cy="28%" r="72%">
