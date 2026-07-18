@@ -1,11 +1,27 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
+import AmbientField from '../components/AmbientField'
+import ForgeProcessDiagram from '../components/ForgeProcessDiagram'
+import Reveal from '../components/Reveal'
 import Seo from '../components/Seo'
 import { galleryItems } from '../data/gallery'
 import { processSteps } from '../data/products'
-import { Link } from 'react-router-dom'
 
 export default function Craft() {
   const [active, setActive] = useState(null)
+
+  useEffect(() => {
+    if (!active) return undefined
+    const onKey = (e) => {
+      if (e.key === 'Escape') setActive(null)
+    }
+    document.addEventListener('keydown', onKey)
+    document.body.style.overflow = 'hidden'
+    return () => {
+      document.removeEventListener('keydown', onKey)
+      document.body.style.overflow = ''
+    }
+  }, [active])
 
   return (
     <>
@@ -14,60 +30,79 @@ export default function Craft() {
         description="Explore Stillforge metalwork and the process from propane tank to melodic steel drum."
         path="/craft"
       />
-      <section className="section">
+      <section className="page-hero">
+        <AmbientField intensity="soft" />
         <div className="container">
-          <p className="eyebrow">The craft</p>
-          <h1>Fire first. Music after.</h1>
-          <p className="lede">
-            The maker is a metalworker first. Sculpture-scale tank work proves the hands. Melodic
-            drums are the passion path - industrial steel tuned until it breathes.
-          </p>
+          <Reveal>
+            <p className="eyebrow">The craft</p>
+            <h1>Fire first. Music after.</h1>
+            <p className="lede">
+              The maker is a metalworker first. Sculpture-scale tank work proves the hands. Melodic
+              drums are the passion path - industrial steel tuned until it breathes.
+            </p>
+          </Reveal>
+        </div>
+      </section>
 
-          <div className="split-2" style={{ marginTop: '2.5rem' }}>
+      <section className="section" style={{ paddingTop: 0 }}>
+        <div className="container">
+          <Reveal className="section-head">
+            <p className="eyebrow">Process</p>
+            <h2>From stubborn tank to singing shell.</h2>
+            <p className="lede">
+              Five beats of the forge path — cut, heat, form, tune, still. Scroll and watch the
+              steel travel.
+            </p>
+          </Reveal>
+
+          <ForgeProcessDiagram />
+
+          <div className="split-2" style={{ marginTop: '2rem' }}>
             {processSteps.map((step, index) => (
-              <article key={step.title} className="product-card">
+              <Reveal key={step.title} as="article" className="product-card" delay={index * 80}>
                 <span className="status">Step {index + 1}</span>
                 <h2 style={{ fontSize: '1.6rem' }}>{step.title}</h2>
                 <p style={{ color: 'var(--ink-muted)', margin: 0 }}>{step.body}</p>
-              </article>
+              </Reveal>
             ))}
           </div>
 
-          <div className="section-head" style={{ marginTop: '3rem' }}>
+          <Reveal className="section-head" style={{ marginTop: '3rem' }}>
             <h2>Gallery</h2>
             <p className="lede">
               Real photos from the sculptures album - dragon, workshop, process. Streamside drum
               video can layer onto this same craft story later.
             </p>
-          </div>
+          </Reveal>
 
           <div className="gallery-grid">
-            {galleryItems.map((item) => (
-              <button
-                key={item.id}
-                type="button"
-                className="gallery-card"
-                onClick={() => setActive(item)}
-              >
-                <div
-                  className="gallery-visual"
-                  style={{ backgroundImage: `url(${item.src})` }}
-                  role="img"
-                  aria-label={item.title}
-                />
-                <div className="gallery-body">
-                  <h3>{item.title}</h3>
-                  <p>{item.category}</p>
-                </div>
-              </button>
+            {galleryItems.map((item, i) => (
+              <Reveal key={item.id} delay={i * 50}>
+                <button
+                  type="button"
+                  className="gallery-card"
+                  onClick={() => setActive(item)}
+                >
+                  <div
+                    className="gallery-visual"
+                    style={{ backgroundImage: `url(${item.src})` }}
+                    role="img"
+                    aria-label={item.title}
+                  />
+                  <div className="gallery-body">
+                    <h3>{item.title}</h3>
+                    <p>{item.category}</p>
+                  </div>
+                </button>
+              </Reveal>
             ))}
           </div>
 
-          <div style={{ marginTop: '2rem' }}>
+          <Reveal style={{ marginTop: '2rem' }}>
             <Link className="btn btn-primary" to="/commission">
               Commission from this craft
             </Link>
-          </div>
+          </Reveal>
         </div>
       </section>
 
@@ -76,7 +111,6 @@ export default function Craft() {
           className="modal-backdrop"
           role="presentation"
           onClick={() => setActive(null)}
-          onKeyDown={(e) => e.key === 'Escape' && setActive(null)}
         >
           <div
             className="modal"

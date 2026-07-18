@@ -1,5 +1,8 @@
 import { Link } from 'react-router-dom'
+import AmbientField from '../components/AmbientField'
+import PerformanceReel from '../components/PerformanceReel'
 import PlayableDrum from '../components/PlayableDrum'
+import Reveal from '../components/Reveal'
 import Seo from '../components/Seo'
 import { products } from '../data/products'
 import { galleryItems, filmPlates } from '../data/gallery'
@@ -29,6 +32,7 @@ export default function Home() {
       />
 
       <section className="hero">
+        <AmbientField intensity="soft" />
         <div className="container hero-grid">
           <div className="hero-copy">
             <p className="eyebrow">Stillforge</p>
@@ -57,32 +61,48 @@ export default function Home() {
               </span>
             </div>
           </div>
-          <PlayableDrum />
+          <PlayableDrum size="hero" />
         </div>
       </section>
 
       <section className="section section-muted">
         <div className="container">
-          <div className="section-head">
-            <p className="eyebrow">Watch the vibe</p>
-            <h2>Forge heat first. Streamside play next.</h2>
+          <Reveal className="section-head">
+            <p className="eyebrow">Hear it played</p>
+            <h2>Real drums. Real scales. Real hands.</h2>
             <p className="lede">
-              Real photos from his sculptures album. When streamside drum video lands, it drops into
-              this film strip - the metal already proves the hands.
+              Frames from the maker&apos;s own recordings - each a tank drum he tuned to a chosen
+              scale. Press play to run the reel and let the steel bloom.
             </p>
-          </div>
+          </Reveal>
+          <Reveal variant="scale">
+            <PerformanceReel />
+          </Reveal>
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="container">
+          <Reveal className="section-head">
+            <p className="eyebrow">The forge on film</p>
+            <h2>Fire at full scale. Then the stillness.</h2>
+            <p className="lede">
+              Real photos from his album - the tank-forged dragon, a season of drums, hands on
+              steel. The metal proves the hands.
+            </p>
+          </Reveal>
           <div className="film-strip">
-            {filmPlates.map((plate) => (
-              <article key={plate.id} className="film-stage film-stage-photo">
+            {filmPlates.map((plate, i) => (
+              <Reveal key={plate.id} as="article" className="film-stage film-stage-photo" delay={i * 90}>
                 <img src={plate.src} alt={plate.title} className="film-photo" loading="lazy" />
                 <div className="film-caption">
                   <h3>{plate.title}</h3>
                   <p>{plate.caption}</p>
                 </div>
-              </article>
+              </Reveal>
             ))}
           </div>
-          <div className="stat-row">
+          <Reveal className="stat-row stagger" delay={120}>
             <div className="stat">
               <strong>Tank</strong>
               <span>Industrial steel reborn as voice</span>
@@ -95,23 +115,29 @@ export default function Home() {
               <strong>Still</strong>
               <span>Built for outdoor quiet and focus</span>
             </div>
-          </div>
+          </Reveal>
         </div>
       </section>
 
       <section className="section">
         <div className="container">
-          <div className="section-head">
+          <Reveal className="section-head">
             <p className="eyebrow">The craft</p>
             <h2>Metalwork that already proves the hands.</h2>
             <p className="lede">
               Pulled from his shared sculptures album: tank-built dragon, workshop grit, outdoor
               scale. The same forge path that becomes a melodic drum.
             </p>
-          </div>
+          </Reveal>
           <div className="gallery-grid">
-            {galleryItems.slice(0, 6).map((item) => (
-              <article key={item.id} className="gallery-card" style={{ cursor: 'default' }}>
+            {galleryItems.slice(0, 6).map((item, i) => (
+              <Reveal
+                key={item.id}
+                as="article"
+                className="gallery-card"
+                delay={i * 70}
+                style={{ cursor: 'default' }}
+              >
                 <div
                   className="gallery-visual"
                   style={{ backgroundImage: `url(${item.src})` }}
@@ -122,26 +148,26 @@ export default function Home() {
                   <h3>{item.title}</h3>
                   <p>{item.caption}</p>
                 </div>
-              </article>
+              </Reveal>
             ))}
           </div>
-          <div style={{ marginTop: '1.5rem' }}>
+          <Reveal style={{ marginTop: '1.5rem' }}>
             <Link className="btn btn-ghost" to="/craft">
               Open the full gallery
             </Link>
-          </div>
+          </Reveal>
         </div>
       </section>
 
       <section className="section section-muted">
         <div className="container">
-          <div className="section-head">
+          <Reveal className="section-head">
             <p className="eyebrow">Drums</p>
             <h2>Commission paths, not fake inventory.</h2>
-          </div>
+          </Reveal>
           <div className="products-grid">
-            {products.map((product) => (
-              <article key={product.id} className="product-card">
+            {products.map((product, i) => (
+              <Reveal key={product.id} as="article" className="product-card" delay={i * 90}>
                 <span className="status">{product.status}</span>
                 <h3>{product.name}</h3>
                 <p style={{ color: 'var(--ink-muted)', margin: 0 }}>{product.blurb}</p>
@@ -152,28 +178,30 @@ export default function Home() {
                 <Link className="btn btn-primary" to="/commission">
                   Start a commission
                 </Link>
-              </article>
+              </Reveal>
             ))}
           </div>
         </div>
       </section>
 
       <section className="section">
-        <div className="container cta-band">
-          <p className="eyebrow">Next</p>
-          <h2>Hear it. Then own a voice of your own.</h2>
-          <p className="lede">
-            Play the browser drum, read the forge story, or send a commission note. Every path leads
-            back to real steel.
-          </p>
-          <div className="hero-actions">
-            <Link className="btn btn-ember" to="/play">
-              Play now
-            </Link>
-            <Link className="btn btn-ghost" to="/guides">
-              Read the guides
-            </Link>
-          </div>
+        <div className="container">
+          <Reveal className="cta-band">
+            <p className="eyebrow">Next</p>
+            <h2>Hear it. Then own a voice of your own.</h2>
+            <p className="lede">
+              Play the browser drum, read the forge story, or send a commission note. Every path leads
+              back to real steel.
+            </p>
+            <div className="hero-actions">
+              <Link className="btn btn-ember" to="/play">
+                Play now
+              </Link>
+              <Link className="btn btn-ghost" to="/guides">
+                Read the guides
+              </Link>
+            </div>
+          </Reveal>
         </div>
       </section>
     </>

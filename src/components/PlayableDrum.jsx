@@ -1,5 +1,21 @@
 import { useCallback, useEffect, useId, useRef, useState } from 'react'
-import { getNotes, playNote, unlockAudio, isUnlocked, playDemoArpeggio } from '../lib/audio-engine'
+import {
+  getNotes,
+  playNote,
+  unlockAudio,
+  isUnlocked,
+  playDemoArpeggio,
+  panForX,
+  SONGS,
+} from '../lib/audio-engine'
+
+// Keyboard: number row maps to notes in layout order (ding = 1).
+const KEY_ORDER = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
+
+function hueForIndex(i, total) {
+  // brass -> ember -> water sweep
+  return 28 + (i / Math.max(1, total - 1)) * 150
+}
 
 export default function PlayableDrum({ showControls = true, size = 'hero' }) {
   const notes = getNotes()
@@ -7,59 +23,137 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
   const [active, setActive] = useState(null)
   const [pulse, setPulse] = useState(false)
   const [floatOn, setFloatOn] = useState(true)
+  const [songId, setSongId] = useState(null)
   const ripplesRef = useRef({})
   const lastStrikeRef = useRef({})
   const wrapRef = useRef(null)
+  const sparksRef = useRef(null)
+  const popRef = useRef(null)
+  const draggingRef = useRef(false)
+  const songTimersRef = useRef([])
   const svgId = useId()
+
+  const keyMap = useRef({})
+  useEffect(() => {
+    const map = {}
+    notes.forEach((n, i) => {
+      if (KEY_ORDER[i]) map[KEY_ORDER[i]] = n.id
+    })
+    keyMap.current = map
+  }, [notes])
 
   useEffect(() => {
     const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches
     setFloatOn(!reduced)
   }, [])
 
-  const strike = useCallback(async (noteId, el) => {
-    const now = performance.now()
-    if (now - (lastStrikeRef.current[noteId] || 0) < 45) return
-    lastStrikeRef.current[noteId] = now
-
-    if (!ready) {
-      await unlockAudio()
-      setReady(true)
+  const spawnSparks = useCallback((note) => {
+    const container = sparksRef.current
+    if (!container) return
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+    const hue = hueForIndex(notes.findIndex((n) => n.id === note.id), notes.length)
+    for (let i = 0; i < 7; i += 1) {
+      const spark = document.createElement('span')
+      spark.className = 'strike-spark'
+      const angle = (Math.PI * 2 * i) / 7 + Math.random() * 0.5
+      const dist = 16 + Math.random() * 30
+      spark.style.left = `${note.x}%`
+      spark.style.top = `${note.y}%`
+      spark.style.background = `hsl(${hue} 70% 68%)`
+      spark.style.setProperty('--dx', `${Math.cos(angle) * dist}px`)
+      spark.style.setProperty('--dy', `${Math.sin(angle) * dist}px`)
+      container.appendChild(spark)
+      window.setTimeout(() => spark.remove(), 620)
     }
-    await playNote(noteId)
-    setActive(noteId)
-    setPulse(true)
-    window.setTimeout(() => {
-      setActive((curr) => (curr === noteId ? null : curr))
-      setPulse(false)
-    }, 280)
+  }, [notes])
 
-    const ripple = ripplesRef.current[noteId]
-    if (ripple) {
-      ripple.classList.remove('animate')
-      void ripple.getBBox()
-      ripple.classList.add('animate')
-    }
+  const spawnPopup = useCallback((note) => {
+    const container = popRef.current
+    if (!container) return
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+    const pop = document.createElement('span')
+    pop.className = 'note-pop'
+    pop.textContent = note.label
+    pop.style.left = `${note.x}%`
+    pop.style.top = `${note.y}%`
+    container.appendChild(pop)
+    window.setTimeout(() => pop.remove(), 700)
+  }, [])
 
-    if (el) {
-      el.classList.add('struck')
-      window.setTimeout(() => el.classList.remove('struck'), 240)
-    }
+  const strike = useCallback(
+    async (noteId, el, velocity = 0.85) => {
+      const note = notes.find((n) => n.id === noteId)
+      if (!note) return
+      const now = performance.now()
+      if (now - (lastStrikeRef.current[noteId] || 0) < 45) return
+      lastStrikeRef.current[noteId] = now
 
-    if (wrapRef.current && floatOn) {
-      wrapRef.current.classList.remove('drum-kick')
-      void wrapRef.current.offsetWidth
-      wrapRef.current.classList.add('drum-kick')
-    }
-  }, [ready, floatOn])
+      if (!ready) {
+        await unlockAudio()
+        setReady(true)
+      }
+      await playNote(noteId, velocity, panForX(note.x))
+      setActive(noteId)
+      setPulse(true)
+      window.setTimeout(() => {
+        setActive((curr) => (curr === noteId ? null : curr))
+        setPulse(false)
+      }, 280)
 
-  const onPointer = useCallback(
+      const ripple = ripplesRef.current[noteId]
+      if (ripple) {
+        const hue = hueForIndex(notes.indexOf(note), notes.length)
+        ripple.style.stroke = `hsl(${hue} 65% 62%)`
+        ripple.classList.remove('animate')
+        void ripple.getBBox()
+        ripple.classList.add('animate')
+      }
+
+      if (el && el.classList) {
+        el.classList.add('struck')
+        window.setTimeout(() => el.classList.remove('struck'), 240)
+      }
+
+      if (wrapRef.current && floatOn) {
+        wrapRef.current.classList.remove('drum-kick')
+        void wrapRef.current.offsetWidth
+        wrapRef.current.classList.add('drum-kick')
+      }
+
+      spawnSparks(note)
+      spawnPopup(note)
+    },
+    [ready, floatOn, notes, spawnSparks, spawnPopup],
+  )
+
+  const onPointerDown = useCallback(
     (noteId) => async (event) => {
       event.preventDefault()
+      draggingRef.current = true
       await strike(noteId, event.currentTarget)
     },
     [strike],
   )
+
+  const onPointerEnter = useCallback(
+    (noteId) => (event) => {
+      if (!draggingRef.current) return
+      strike(noteId, event.currentTarget, 0.6)
+    },
+    [strike],
+  )
+
+  useEffect(() => {
+    const end = () => {
+      draggingRef.current = false
+    }
+    window.addEventListener('pointerup', end)
+    window.addEventListener('pointercancel', end)
+    return () => {
+      window.removeEventListener('pointerup', end)
+      window.removeEventListener('pointercancel', end)
+    }
+  }, [])
 
   const onKey = useCallback(
     (noteId) => async (event) => {
@@ -71,21 +165,62 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
     [strike],
   )
 
+  // Global number-key play when the drum is on screen.
+  useEffect(() => {
+    const onKeyDown = (e) => {
+      if (e.repeat) return
+      const tag = document.activeElement?.tagName
+      if (tag === 'INPUT' || tag === 'TEXTAREA') return
+      const id = keyMap.current[e.key]
+      if (id) {
+        e.preventDefault()
+        strike(id, null)
+      }
+    }
+    window.addEventListener('keydown', onKeyDown)
+    return () => window.removeEventListener('keydown', onKeyDown)
+  }, [strike])
+
+  const clearSong = useCallback(() => {
+    songTimersRef.current.forEach((t) => window.clearTimeout(t))
+    songTimersRef.current = []
+    setSongId(null)
+  }, [])
+
+  const playSong = useCallback(
+    async (song) => {
+      clearSong()
+      await unlockAudio()
+      setReady(true)
+      setSongId(song.id)
+      const beat = 60000 / song.tempo
+      let t = 0
+      song.steps.forEach(([id, beats]) => {
+        const timer = window.setTimeout(() => strike(id, null, 0.7), t)
+        songTimersRef.current.push(timer)
+        t += beats * beat
+      })
+      const endTimer = window.setTimeout(() => setSongId(null), t + 400)
+      songTimersRef.current.push(endTimer)
+    },
+    [clearSong, strike],
+  )
+
+  useEffect(() => () => songTimersRef.current.forEach((t) => window.clearTimeout(t)), [])
+
   return (
     <div className={`drum-panel drum-${size}${pulse ? ' is-pulsing' : ''}`}>
       <div
         ref={wrapRef}
         className={`drum-wrap${floatOn ? ' drum-float' : ''}`}
         role="application"
-        aria-label="Playable Stillforge melodic drum"
+        aria-label="Playable Stillforge melodic drum. Tap tone fields, drag to glissando, or press number keys 1 to 9."
       >
         <div className="drum-aura" aria-hidden="true" />
         <div className="drum-ember" aria-hidden="true" />
-        <svg
-          className="drum-svg"
-          viewBox="0 0 100 100"
-          xmlns="http://www.w3.org/2000/svg"
-        >
+        <div ref={sparksRef} className="strike-sparks" aria-hidden="true" />
+        <div ref={popRef} className="note-pops" aria-hidden="true" />
+        <svg className="drum-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
           <defs>
             <radialGradient id={`${svgId}-shell`} cx="34%" cy="28%" r="72%">
               <stop offset="0%" stopColor="#b8c4bc" />
@@ -144,7 +279,6 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
             strokeDasharray="1.2 1.8"
           />
 
-          {/* brushed steel arcs */}
           {[0, 40, 80, 120, 160, 200, 240, 280, 320].map((deg) => (
             <path
               key={deg}
@@ -157,7 +291,7 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
             />
           ))}
 
-          {notes.map((note) => {
+          {notes.map((note, i) => {
             const isDing = note.id === 'ding'
             const rx = note.r * (isDing ? 1.05 : 1.2)
             const ry = note.r * (isDing ? 1.05 : 0.82)
@@ -174,9 +308,9 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
                   strokeWidth={isDing ? '0.7' : '0.55'}
                   tabIndex={0}
                   role="button"
-                  aria-label={`Play note ${note.label}`}
-                  onPointerDown={onPointer(note.id)}
-                  onClick={onPointer(note.id)}
+                  aria-label={`Play note ${note.label}${KEY_ORDER[i] ? `, key ${KEY_ORDER[i]}` : ''}`}
+                  onPointerDown={onPointerDown(note.id)}
+                  onPointerEnter={onPointerEnter(note.id)}
                   onKeyDown={onKey(note.id)}
                   filter={active === note.id ? `url(#${svgId}-glow)` : undefined}
                 />
@@ -221,12 +355,27 @@ export default function PlayableDrum({ showControls = true, size = 'hero' }) {
 
       <p className="drum-hint">
         {ready
-          ? 'Tap any tone field. D Kurd-inspired layout. Works on phone and desktop.'
-          : 'Tap the drum once to unlock sound, then play the tone fields.'}
+          ? 'Tap, drag across the fields to glissando, or press keys 1-9. Play it like a real drum.'
+          : 'Tap the drum once to wake it up - then tap, drag, or use number keys 1-9.'}
       </p>
 
       {showControls && (
-        <div className="hero-actions" style={{ justifyContent: 'center' }}>
+        <div className="drum-controls">
+          <div className="drum-songs">
+            <span className="drum-songs-label">Play a song</span>
+            <div className="drum-songs-row">
+              {SONGS.map((song) => (
+                <button
+                  key={song.id}
+                  type="button"
+                  className={`chip-btn${songId === song.id ? ' is-on' : ''}`}
+                  onClick={() => (songId === song.id ? clearSong() : playSong(song))}
+                >
+                  {songId === song.id ? 'Stop' : song.name}
+                </button>
+              ))}
+            </div>
+          </div>
           <button
             type="button"
             className="btn btn-ghost"

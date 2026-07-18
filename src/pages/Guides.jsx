@@ -1,4 +1,6 @@
 import { Link } from 'react-router-dom'
+import AmbientField from '../components/AmbientField'
+import Reveal from '../components/Reveal'
 import Seo from '../components/Seo'
 import { getAllArticles } from '../content/articles'
 
@@ -20,31 +22,40 @@ export default function Guides() {
         description="Gift ideas, beginner advice, buyer guides, and forge education from Stillforge - built to rank and to be cited."
         path="/guides"
       />
-      <section className="section">
+      <section className="page-hero">
+        <AmbientField intensity="soft" />
         <div className="container">
-          <p className="eyebrow">Library</p>
-          <h1>Guides for seekers, givers, and makers.</h1>
-          <p className="lede">
-            {articles.length} substantive pages covering gifts, beginners, comparisons, education,
-            and the Stillforge story. Built for Google snippets and LLM citation.
-          </p>
+          <Reveal>
+            <p className="eyebrow">Library</p>
+            <h1>Guides for seekers, givers, and makers.</h1>
+            <p className="lede">
+              {articles.length} substantive pages covering gifts, beginners, comparisons, education,
+              and the Stillforge story. Built for Google snippets and LLM citation.
+            </p>
+          </Reveal>
+        </div>
+      </section>
 
-          {CATEGORIES.map((cat) => {
+      <section className="section" style={{ paddingTop: 0 }}>
+        <div className="container">
+          {CATEGORIES.map((cat, catIndex) => {
             const items = articles.filter((a) => a.category === cat.id)
             if (!items.length) return null
             return (
-              <div key={cat.id} style={{ marginTop: '2.5rem' }}>
+              <Reveal key={cat.id} style={{ marginTop: catIndex === 0 ? 0 : '2.5rem' }}>
                 <h2>{cat.label}</h2>
                 <div className="guides-grid">
-                  {items.map((article) => (
-                    <Link key={article.slug} className="guide-card" to={`/guides/${article.slug}`}>
-                      <div className="cat">{cat.label}</div>
-                      <h3>{article.title}</h3>
-                      <p>{article.description}</p>
-                    </Link>
+                  {items.map((article, i) => (
+                    <Reveal key={article.slug} delay={i * 50}>
+                      <Link className="guide-card" to={`/guides/${article.slug}`}>
+                        <div className="cat">{cat.label}</div>
+                        <h3>{article.title}</h3>
+                        <p>{article.description}</p>
+                      </Link>
+                    </Reveal>
                   ))}
                 </div>
-              </div>
+              </Reveal>
             )
           })}
 

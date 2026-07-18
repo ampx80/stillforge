@@ -1,6 +1,8 @@
-import Seo from '../components/Seo'
+import AmbientField from '../components/AmbientField'
+import CommissionPath from '../components/CommissionPath'
 import InquiryForm from '../components/InquiryForm'
-import { processSteps } from '../data/products'
+import Reveal from '../components/Reveal'
+import Seo from '../components/Seo'
 
 export default function Commission() {
   return (
@@ -10,26 +12,28 @@ export default function Commission() {
         description="Commission a Stillforge propane-tank forged melodic drum. Share your scale, setting, and timeline."
         path="/commission"
       />
-      <section className="section">
-        <div className="container split-2">
-          <div>
+      <section className="page-hero">
+        <AmbientField intensity="soft" />
+        <div className="container">
+          <Reveal>
             <p className="eyebrow">Commission</p>
             <h1>Tell the forge what you want to hear.</h1>
             <p className="lede">
               Custom builds start with a conversation: where you will play, which mood you want, and
               how many notes feel right in your hands.
             </p>
-            <ol style={{ color: 'var(--ink-muted)', paddingLeft: '1.1rem' }}>
-              {processSteps.map((step) => (
-                <li key={step.title} style={{ marginBottom: '0.85rem' }}>
-                  <strong style={{ color: 'var(--brass-hot)' }}>{step.title}.</strong> {step.body}
-                </li>
-              ))}
-            </ol>
-          </div>
-          <div>
+          </Reveal>
+        </div>
+      </section>
+
+      <section className="section" style={{ paddingTop: 0 }}>
+        <div className="container split-2">
+          <Reveal>
+            <CommissionPath />
+          </Reveal>
+          <Reveal delay={120}>
             <InquiryForm defaultInterest="commission" />
-          </div>
+          </Reveal>
         </div>
       </section>
     </>

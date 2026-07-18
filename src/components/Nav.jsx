@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import { Link, NavLink } from 'react-router-dom'
+import { useEffect, useState } from 'react'
+import { Link, NavLink, useLocation } from 'react-router-dom'
 
 const LINKS = [
   { to: '/play', label: 'Play' },
@@ -13,6 +13,24 @@ const LINKS = [
 
 export default function Nav() {
   const [open, setOpen] = useState(false)
+  const location = useLocation()
+
+  useEffect(() => {
+    setOpen(false)
+  }, [location.pathname])
+
+  useEffect(() => {
+    if (!open) return undefined
+    const onKey = (e) => {
+      if (e.key === 'Escape') setOpen(false)
+    }
+    document.addEventListener('keydown', onKey)
+    document.body.style.overflow = 'hidden'
+    return () => {
+      document.removeEventListener('keydown', onKey)
+      document.body.style.overflow = ''
+    }
+  }, [open])
 
   return (
     <header className="site-nav">
@@ -29,7 +47,12 @@ export default function Nav() {
           aria-controls="primary-nav"
           onClick={() => setOpen((v) => !v)}
         >
-          Menu
+          <span className="nav-toggle-bars" aria-hidden="true">
+            <span />
+            <span />
+            <span />
+          </span>
+          <span>{open ? 'Close' : 'Menu'}</span>
         </button>
 
         <ul id="primary-nav" className={`nav-links${open ? ' open' : ''}`}>

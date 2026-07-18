@@ -123,7 +123,7 @@ async function ensureBuffers() {
   loading = null
 }
 
-export async function playNote(noteId, velocity = 0.85) {
+export async function playNote(noteId, velocity = 0.85, pan = 0) {
   const audioCtx = getCtx()
   if (audioCtx.state === 'suspended') {
     await audioCtx.resume()
@@ -135,12 +135,27 @@ export async function playNote(noteId, velocity = 0.85) {
 
   const src = audioCtx.createBufferSource()
   src.buffer = buffer
+  // subtle humanization so repeated strikes never sound robotic
+  src.playbackRate.value = 1 + (Math.random() * 2 - 1) * 0.006
   const gain = audioCtx.createGain()
-  const v = Math.max(0.15, Math.min(1, velocity))
+  const v = Math.max(0.12, Math.min(1, velocity))
   gain.gain.value = v
   src.connect(gain)
-  gain.connect(master)
+
+  if (typeof audioCtx.createStereoPanner === 'function' && pan) {
+    const panner = audioCtx.createStereoPanner()
+    panner.pan.value = Math.max(-1, Math.min(1, pan))
+    gain.connect(panner)
+    panner.connect(master)
+  } else {
+    gain.connect(master)
+  }
   src.start()
+}
+
+/** Pan value (-1..1) derived from a note's x position (0..100). */
+export function panForX(x) {
+  return Math.max(-1, Math.min(1, (x - 50) / 60))
 }
 
 export async function playDemoArpeggio() {
@@ -148,7 +163,48 @@ export async function playDemoArpeggio() {
   const order = ['ding', 'a3', 'c4', 'd4', 'f4', 'a4', 'g4', 'e4', 'ding']
   order.forEach((id, i) => {
     setTimeout(() => {
-      playNote(id, 0.7)
+      const note = NOTE_DEFS.find((n) => n.id === id)
+      playNote(id, 0.7, note ? panForX(note.x) : 0)
     }, i * 280)
   })
 }
+
+/**
+ * Short playable melodies mapped to the D Kurd layout.
+ * Each step: [noteId, beats]. Used by the guided "play a song" mode.
+ */
+export const SONGS = [
+  {
+    id: 'still-water',
+    name: 'Still Water',
+    tempo: 132,
+    steps: [
+      ['ding', 1], ['a3', 1], ['c4', 1], ['d4', 1],
+      ['e4', 1], ['d4', 1], ['c4', 1], ['a3', 2],
+      ['ding', 1], ['f4', 1], ['e4', 1], ['d4', 1],
+      ['c4', 2], ['ding', 2],
+    ],
+  },
+  {
+    id: 'ember-rise',
+    name: 'Ember Rise',
+    tempo: 150,
+    steps: [
+      ['a3', 1], ['c4', 1], ['e4', 1], ['a4', 1],
+      ['g4', 1], ['e4', 1], ['c4', 1], ['a3', 1],
+      ['d4', 1], ['f4', 1], ['a4', 2],
+      ['ding', 2],
+    ],
+  },
+  {
+    id: 'forge-song',
+    name: 'Forge Lullaby',
+    tempo: 108,
+    steps: [
+      ['ding', 2], ['d4', 1], ['c4', 1],
+      ['a3', 2], ['c4', 1], ['d4', 1],
+      ['e4', 2], ['f4', 1], ['e4', 1],
+      ['d4', 2], ['ding', 2],
+    ],
+  },
+]

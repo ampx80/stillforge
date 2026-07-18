@@ -85,24 +85,26 @@ export default function Article() {
                 </ul>
               )}
               {section.table && (
-                <table className="article-table">
-                  <thead>
-                    <tr>
-                      {section.table.headers.map((h) => (
-                        <th key={h}>{h}</th>
-                      ))}
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {section.table.rows.map((row) => (
-                      <tr key={row.join('-')}>
-                        {row.map((cell) => (
-                          <td key={cell}>{cell}</td>
+                <div className="table-scroll">
+                  <table className="article-table">
+                    <thead>
+                      <tr>
+                        {section.table.headers.map((h) => (
+                          <th key={h}>{h}</th>
                         ))}
                       </tr>
-                    ))}
-                  </tbody>
-                </table>
+                    </thead>
+                    <tbody>
+                      {section.table.rows.map((row) => (
+                        <tr key={row.join('-')}>
+                          {row.map((cell) => (
+                            <td key={cell}>{cell}</td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
               )}
             </section>
           ))}
